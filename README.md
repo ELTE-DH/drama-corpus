@@ -1,6 +1,6 @@
 # ELTE Drama Corpus
 
-The ELTE Drama Corpus is a continuously expanding database developed by the [_Department of Digital Humanities at Eötvös Loránd University_](https://elte-dh.hu/). Currently, the corpus contains 58 Hungarian dramas. Besides the texts, the corpus contains the annotation of structural units and the grammatical features of words in TEI XML format. The dramas of the corpus were written between the 16th and the first half of the 20th century.
+ELTE Drama Corpus is a continuously expanding database developed by the [_Department of Digital Humanities at Eötvös Loránd University_](https://elte-dh.hu/). Currently, the corpus contains 58 Hungarian dramas. Besides the texts, the corpus contains the annotation of structural units and the grammatical features of words in TEI XML format. The dramas of the corpus were written between the 16th and the first half of the 20th century.
 
 ## Numeric properties:
 
