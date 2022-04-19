@@ -21,7 +21,7 @@ The source of the corpus was the collection of the [_Hungarian Electronic Librar
 ## Level1 -- annotation of structural units and adding metadata to texts
 
 - `<castList>` : list of characters
-- `<castItem>` : a single entry within <castList>, describing a character
+- `<castItem>` : a single entry within `<castList>`, describing a character
 - `<castGroup>` : group of several characters
 - `<roleDesc>` : description of a character group
 - `<role>` : name/description of the dramatic role of a character
