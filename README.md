@@ -4,10 +4,10 @@ ELTE Drama Corpus is a continuously expanding database developed by the [_Depart
 
 ## Numeric properties:
 
-- number of dramas: 58
-- number of authors: 28
-- number of tokens: 893 300
-- number of words: 683 918
+- number of dramas: 74
+- number of authors: 31
+- number of tokens: 1 141 490
+- number of words: 871 542
 
 ## TEI Levels
 
