@@ -9,6 +9,8 @@ ELTE Drama Corpus is a continuously expanding database developed by the [_Depart
 - number of tokens: 1 141 490
 - number of words: 871 542
 
+For more information on the metadata of the dramas, see the file metadata.tsv 
+
 ## TEI Levels
 
 The source of the corpus was the collection of the [_Hungarian Electronic Library_](http://mek.oszk.hu) and the collection of the [_Research Centre for the Humanities, Institute for Literary Studies_](https://szovegtar.iti.mta.hu).
