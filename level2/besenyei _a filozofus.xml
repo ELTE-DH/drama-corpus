@@ -187,75 +187,71 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2022-08-29">lemma, pos and msd annotation</change>
+			<change when="2022-10-19">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
 		<front>
 			<castList>
-				<head type="title">
-					<hi rend="underline"/>
-				</head>
+				<head type="title"> BESZÉLLÖ SZEMÉLJEK. </head>
 				<castItem>
 					<role>
-						Párménió
-						<roleName>Filósófus nemes ifjú.</roleName>
+						<roleName>Párménió</roleName>
+						 Filósófus nemes ifjú.
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Eresztra
-						<roleName>özvegy nemes asszony</roleName>
-					</role>
-				</castItem>
-				<castGroup>
-					<castItem>
-						<role>
-							Titzius
-							<roleName>Eresztra fia</roleName>
-						</role>
-					</castItem>
-					<castItem>
-						<role>
-							Szidalisz
-							<roleName>Titzus testvér húga</roleName>
-						</role>
-					</castItem>
-				</castGroup>
-				<castItem>
-					<role>
-						Berenisz
-						<roleName>Nemes léány,Szidalisznak titkosa, Titzius’ szeretője</roleName>
+						<roleName>Eresztra</roleName>
+						, özvegy nemes asszony.
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Lilisz
-						<roleName>Nemes ifjú.</roleName>
+						<roleName>Titzius</roleName>
+						, Eresztra fia.
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Angyelika
-						<roleName>Párménió’ testvér húga, Lilisz szeretője.</roleName>
+						<roleName>Szidalisz</roleName>
+						, Titzus testvér húga.
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Pontyi
-						<roleName>Gazdag nemes ember, igaz Magyar.</roleName>
+						<roleName>Berenisz</roleName>
+						, Nemes léány,Szidalisznak titkosa, Titzius’.
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Lidás
-						<roleName>Párménió szolgája.</roleName>
+						<roleName>Lilisz</roleName>
+						, Name&gt;Nemes ifjú.
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Lutzinda
-						<roleName>Szidalisz szolgálója</roleName>
+						<roleName>Angyelika</roleName>
+						, Párménió’ testvér húga, Lilisz szeretője.
+					</role>
+				</castItem>
+				<castItem>
+					<role>
+						<roleName>Pontyi</roleName>
+						, Gazdag nemes ember, igaz Magyar.
+					</role>
+				</castItem>
+				<castItem>
+					<role>
+						<roleName>Lidás</roleName>
+						, Párménió szolgája.
+					</role>
+				</castItem>
+				<castItem>
+					<role>
+						<roleName>Lutzinda</roleName>
+						, Szidalisz szolgálója.
 					</role>
 				</castItem>
 			</castList>
@@ -12533,7 +12529,7 @@
 								<w lemma="pénz" msd="Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2" pos="NOUN" xml:id="w6849">pénzed</w>
 								<pc join="left" pos="PUNCT" xml:id="pc2368">,</pc>
 								<w lemma="soha" msd="_" pos="ADV" xml:id="w6850">soha</w>
-								<w lemma="kérő" msd="Case=Tra|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=2" pos="ADJ" xml:id="w6851">kérőddé</w>
+								<w lemma="kérő" msd="Case=Tra|Number=Sing|Number[psor]=Sing|Person[psor]=2" pos="NOUN" xml:id="w6851">kérőddé</w>
 								<w lemma="nem" msd="PronType=Neg" pos="ADV" xml:id="w6852">nem</w>
 								<w lemma="tés" msd="Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act" pos="VERB" xml:id="w6853">tészen</w>
 								<pc join="left" pos="PUNCT" xml:id="pc2369">,</pc>

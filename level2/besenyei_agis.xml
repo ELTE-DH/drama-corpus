@@ -187,67 +187,65 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2022-08-29">lemma, pos and msd annotation</change>
+			<change when="2022-10-19">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
 		<front>
 			<castList>
-				<head type="title">
-					<hi rend="underline"/>
-				</head>
+				<head type="title"> SZEMÉLYEK. </head>
 				<castItem>
 					<role>
-						Leónidás
-						<roleName>Latzedémoni Király</roleName>
+						<roleName>Leónidás</roleName>
+						, Latzedémoni Király
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Ámfares
-						<roleName>nagy Görög Vezér. Leónidás’ titkosa.</roleName>
+						<roleName>Ámfares</roleName>
+						, nagy Görög Vezér. Leónidás’ titkosa.
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Ágézilaus
-						<roleName>fő ember. Királyi tanátsos, tsalárd barát, ’S Hazája’ árúlója.</roleName>
+						<roleName>Ágézilaus</roleName>
+						, fő ember. Királyi tanátsos, tsalárd barát, ’S Hazája’ árúlója.
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Ágis
-						<roleName>nagy Görög hertzeg, igaz Haza-fi.</roleName>
+						<roleName>Ágis</roleName>
+						, nagy Görög hertzeg, igaz Haza-fi.
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Ágiaris
-						<roleName>Felesége</roleName>
+						<roleName>Ágiaris</roleName>
+						, Felesége.
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Ágisztrat
-						<roleName>Ágisnak Anyja, Hertzegné</roleName>
+						<roleName>Ágisztrat</roleName>
+						, Ágisnak Anyja, Hertzegné
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Kleombrotes
-						<roleName>Leónidás’ veje, Ágisnak barátja.</roleName>
+						<roleName>Kleombrotes</roleName>
+						, Leónidás’ veje, Ágisnak barátja.
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Télónis
-						<roleName>Kleombrotes’ Felesége, Leónidás’ leánya.</roleName>
+						<roleName>Télónis</roleName>
+						, Kleombrotes’ Felesége, Leónidás’
 					</role>
 				</castItem>
 				<castItem>
 					<role>
-						Demókares
-						<roleName>fő tanátsos</roleName>
+						<roleName>Demókares</roleName>
+						fő tanátsos
 					</role>
 				</castItem>
 				<castItem>
@@ -1152,7 +1150,7 @@
 								<w lemma="tévelygési" msd="Case=Nom|Degree=Pos|Number=Sing" pos="ADJ" xml:id="w484">tévelygési</w>
 								<w lemma="közt" msd="_" pos="ADP" xml:id="w485">közt</w>
 								<pc join="left" pos="PUNCT" xml:id="pc171">,</pc>
-								<w lemma="más" msd="Case=Ill|Degree=Pos|Number=Plur" pos="ADJ" xml:id="w486">másokba</w>
+								<w lemma="más" msd="Case=Ill|Number=Plur" pos="NOUN" xml:id="w486">másokba</w>
 								<w lemma="bódul" msd="_" pos="ADV" xml:id="w487">bódulván</w>
 							</l>
 							<l xml:id="l95">

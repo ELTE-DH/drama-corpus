@@ -181,17 +181,60 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2022-08-29">lemma, pos and msd annotation</change>
+			<change when="2022-10-19">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
 		<front>
 			<castList>
-				<head type="title">
-					<hi rend="underline"/>
-				</head>
+				<head type="title"> SZEMÉLYEK </head>
 				<castItem>
-					<role/>
+					<role>
+						<roleName>Lais</roleName>
+						.
+					</role>
+				</castItem>
+				<castItem>
+					<role>
+						<roleName>Kolumbína</roleName>
+						. Laisnak bizalmasa
+					</role>
+				</castItem>
+				<castItem>
+					<role>
+						<roleName>Kukulíni</roleName>
+						.
+					</role>
+				</castItem>
+				<castItem>
+					<role>
+						<roleName>Hippodon</roleName>
+						. Minister.
+					</role>
+				</castItem>
+				<castItem>
+					<role>
+						<roleName>Xenoxis</roleName>
+						.
+					</role>
+				</castItem>
+				<castItem>
+					<role>
+						<roleName>Pelozis</roleName>
+						.
+					</role>
+				</castItem>
+				<castItem>
+					<role>
+						<roleName>Pomone</roleName>
+						.
+					</role>
+				</castItem>
+				<castItem>
+					<role>
+						<roleName>Tulipán</roleName>
+						.
+					</role>
 				</castItem>
 			</castList>
 		</front>

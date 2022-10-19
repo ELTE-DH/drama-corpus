@@ -179,51 +179,37 @@
 		<front>
 			<castList>
 				<head type="title">
-					<hi rend="underline"/>
+					<hi rend="underline">BESZÉLLÖ SZEMÉLJEK.</hi>
 				</head>
 				<castItem>
-					<role>Párménió<roleName>Filósófus nemes ifjú.</roleName>
-					</role>
+					<role><roleName>Párménió</roleName> Filósófus nemes ifjú.</role>
 				</castItem>
 				<castItem>
-					<role>Eresztra<roleName>özvegy nemes asszony</roleName>
-					</role>
-				</castItem>
-				<castGroup>
-					<castItem>
-						<role>Titzius<roleName>Eresztra fia</roleName>
-						</role>
-					</castItem>
-					<castItem>
-						<role>Szidalisz<roleName>Titzus testvér húga</roleName>
-						</role>
-					</castItem>
-				</castGroup>
-				<castItem>
-					<role>Berenisz<roleName>Nemes léány,Szidalisznak titkosa, Titzius’
-                            szeretője</roleName>
-					</role>
+					<role><roleName>Eresztra</roleName>, özvegy nemes asszony.</role>
 				</castItem>
 				<castItem>
-					<role>Lilisz<roleName>Nemes ifjú.</roleName>
-					</role>
+					<role><roleName>Titzius</roleName>, Eresztra fia.</role>
 				</castItem>
 				<castItem>
-					<role>Angyelika<roleName>Párménió’ testvér húga, Lilisz
-                        szeretője.</roleName>
-					</role>
+					<role><roleName>Szidalisz</roleName>, Titzus testvér húga.</role>
 				</castItem>
 				<castItem>
-					<role>Pontyi<roleName>Gazdag nemes ember, igaz Magyar.</roleName>
-					</role>
+					<role><roleName>Berenisz</roleName>, Nemes léány,Szidalisznak titkosa, Titzius’.</role>
 				</castItem>
 				<castItem>
-					<role>Lidás<roleName>Párménió szolgája.</roleName>
-					</role>
+					<role><roleName>Lilisz</roleName>, Name>Nemes ifjú.</role>
 				</castItem>
 				<castItem>
-					<role>Lutzinda<roleName>Szidalisz szolgálója</roleName>
-					</role>
+					<role><roleName>Angyelika</roleName>, Párménió’ testvér húga, Lilisz szeretője.</role>
+				</castItem>
+				<castItem>
+					<role><roleName>Pontyi</roleName>, Gazdag nemes ember, igaz Magyar.</role>
+				</castItem>
+				<castItem>
+					<role><roleName>Lidás</roleName>, Párménió szolgája.</role>
+				</castItem>
+				<castItem>
+					<role><roleName>Lutzinda</roleName>, Szidalisz szolgálója.</role>
 				</castItem>
 			</castList>
 		</front>

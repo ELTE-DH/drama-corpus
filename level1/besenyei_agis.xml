@@ -179,45 +179,34 @@
 		<front>
 			<castList>
 				<head type="title">
-					<hi rend="underline"/>
+					<hi rend="underline">SZEMÉLYEK.</hi>
 				</head>
 				<castItem>
-					<role>Leónidás<roleName>Latzedémoni Király</roleName>
-					</role>
+					<role><roleName>Leónidás</roleName>, Latzedémoni Király</role>
 				</castItem>
 				<castItem>
-					<role>Ámfares<roleName>nagy Görög Vezér. Leónidás’ titkosa.</roleName>
-					</role>
+					<role><roleName>Ámfares</roleName>, nagy Görög Vezér. Leónidás’ titkosa.</role>
 				</castItem>
 				<castItem>
-					<role>Ágézilaus<roleName>fő ember. Királyi tanátsos, tsalárd barát, ’S Hazája’
-                            árúlója.</roleName>
-					</role>
+					<role><roleName>Ágézilaus</roleName>, fő ember. Királyi tanátsos, tsalárd barát, ’S Hazája’ árúlója.</role>
 				</castItem>
 				<castItem>
-					<role>Ágis<roleName>nagy Görög hertzeg, igaz Haza-fi.</roleName>
-					</role>
+					<role><roleName>Ágis</roleName>, nagy Görög hertzeg, igaz Haza-fi.</role>
 				</castItem>
 				<castItem>
-					<role>Ágiaris<roleName>Felesége</roleName>
-					</role>
+					<role><roleName>Ágiaris</roleName>, Felesége.</role>
 				</castItem>
 				<castItem>
-					<role>Ágisztrat<roleName>Ágisnak Anyja, Hertzegné</roleName>
-					</role>
+					<role><roleName>Ágisztrat</roleName>, Ágisnak Anyja, Hertzegné</role>
 				</castItem>
 				<castItem>
-					<role>Kleombrotes<roleName>Leónidás’ veje, Ágisnak barátja.</roleName>
-					</role>
+					<role><roleName>Kleombrotes</roleName>, Leónidás’ veje, Ágisnak barátja.</role>
 				</castItem>
 				<castItem>
-					<role>Télónis<roleName>Kleombrotes’ Felesége, Leónidás’
-                        leánya.</roleName>
-					</role>
+					<role><roleName>Télónis</roleName>, Kleombrotes’ Felesége, Leónidás’</role>
 				</castItem>
 				<castItem>
-					<role>Demókares<roleName>fő tanátsos</roleName>
-					</role>
+					<role><roleName>Demókares</roleName>fő tanátsos</role>
 				</castItem>
 				<castItem>
 					<role>EGY-NEHÁNY PALOTÁS-VITÉZEK,</role>
