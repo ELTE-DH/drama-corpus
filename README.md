@@ -62,7 +62,11 @@ The source of the corpus was the collection of the [_Hungarian Electronic Librar
 - Vida Bence
 - Kalmár Balázs
 
-# License
+# Citing and License
+
+If you use ELTE Drama Corpus, please cite the following articles:
+
+Szemes Botond – Bajzát Tímea – Fellegi Zsófia – Kundráth Péter – Horváth Péter – Indig Balázs – Dióssy Anna – Hegedüs Fanni – Pantyelejev Natali – Sziráki Sarolta – Vida Bence – Kalmár Balázs – Palkó Gábor 2022. Az ELTE Drámakorpuszának létrehozása és lehetőségei. In: Tick József – Kokas Károly – Holl András (szerk.): Valós térben – Az online térért: Networkshop 31: országos konferencia. Budapest: HUNGARNET Egyesület. 170–178.
 
 The content of the repository is licensed under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 All texts of the corpus are in the public domain.
