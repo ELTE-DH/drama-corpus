@@ -64,7 +64,7 @@ The source of the corpus was the collection of the [_Hungarian Electronic Librar
 
 # Citing and License
 
-If you use ELTE Drama Corpus, please cite the following articles:
+If you use ELTE Drama Corpus, please cite the following article:
 
 Szemes Botond – Bajzát Tímea – Fellegi Zsófia – Kundráth Péter – Horváth Péter – Indig Balázs – Dióssy Anna – Hegedüs Fanni – Pantyelejev Natali – Sziráki Sarolta – Vida Bence – Kalmár Balázs – Palkó Gábor 2022. Az ELTE Drámakorpuszának létrehozása és lehetőségei. In: Tick József – Kokas Károly – Holl András (szerk.): Valós térben – Az online térért: Networkshop 31: országos konferencia. Budapest: HUNGARNET Egyesület. 170–178.
 
