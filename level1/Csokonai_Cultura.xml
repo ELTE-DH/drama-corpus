@@ -2261,25 +2261,27 @@
                     </sp>
                     <stage>Vége</stage>
                 </div>
-                <div>
+                <div type="scene">
                     <head type="title">SZÁSZLAKI LEVELE</head>
                     <stage>(A Cultura harmadik felvonásának negyedik jelenetéhez)</stage>
-                    <p>Szinyore amico!</p>
-                    <p>Köszönöm, hogy minél elébb tudósított az Úr afelől, hogy a Pappenhajm úr
-                        kisasszonya az én számomra tartatik: mert éppen már itt a magyar földön és
-                        annak is a legmagyarossabb és eszerént legpallérozatlanabb részén egy fél
-                        culturájú leányba belebotlottam, de hála az én eriangi tászlicskámnak és az
-                        Úr barátságának, cultább dáma láttatik az én érdemeimet valamennyire
-                        megjutalmaztatni. Amico! úgy-é nem hijjában vágattam alá bajuszom, egészen
-                        magyarnak mutatott a selma, sohasem kaphattam volna meg miatta a Pappenhajm
-                        kisasszonyt nem - és mostan az öreg Tisztesnek fél bárdolatlan
-                        kisasszonyával kellett volna megelégednem, vagy azzal sem. Én holnap pakolok
-                        innen s a Tiszteséket itt hagyom, ahol találtam. Addig is csókolja nevemmel
-                        a Frájlajn von Pappenhajm auszlendis kezeit és míg meglátnánk egymást, addig
-                        is éljen az Úr szerencsésen.</p>
-                    <p>
-                        <hi rend="italic">Ludvig Szászlaki manu propria</hi>
-                    </p>
+                	<sp who="#szaszlaki">
+	                    <p>Szinyore amico!</p>
+	                    <p>Köszönöm, hogy minél elébb tudósított az Úr afelől, hogy a Pappenhajm úr
+	                        kisasszonya az én számomra tartatik: mert éppen már itt a magyar földön és
+	                        annak is a legmagyarossabb és eszerént legpallérozatlanabb részén egy fél
+	                        culturájú leányba belebotlottam, de hála az én eriangi tászlicskámnak és az
+	                        Úr barátságának, cultább dáma láttatik az én érdemeimet valamennyire
+	                        megjutalmaztatni. Amico! úgy-é nem hijjában vágattam alá bajuszom, egészen
+	                        magyarnak mutatott a selma, sohasem kaphattam volna meg miatta a Pappenhajm
+	                        kisasszonyt nem - és mostan az öreg Tisztesnek fél bárdolatlan
+	                        kisasszonyával kellett volna megelégednem, vagy azzal sem. Én holnap pakolok
+	                        innen s a Tiszteséket itt hagyom, ahol találtam. Addig is csókolja nevemmel
+	                        a Frájlajn von Pappenhajm auszlendis kezeit és míg meglátnánk egymást, addig
+	                        is éljen az Úr szerencsésen.</p>
+	                    <p>
+	                        <hi rend="italic">Ludvig Szászlaki manu propria</hi>
+	                    </p>
+                	</sp>
                 </div>
             </div>
         </body>

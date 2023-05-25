@@ -182,7 +182,7 @@
     <text>
         <body>
             <div type="act">
-                <head type="title">ELSŐ SZÍN</head>
+                <head type="title">ELSŐ FELVONÁS</head>
                 <stage>(Szoba Borsosnénál, közép- és oldalajtóval.) </stage>
                 <div type="scene">
                     <head type="title">ELSŐ jelenet</head>
@@ -3536,7 +3536,7 @@
                 </div>
             </div>
             <div type="act">
-                <head type="title">MÁSODIK SZÍN</head>
+                <head type="title">MÁSODIK FELVONÁS</head>
                 <stage>(Pazar fénnyel bútorozott tágas terem.) </stage>
                 <div type="scene">
                     <head type="title">ELSŐ JELENET</head>
@@ -6396,1840 +6396,1840 @@
                         </lg>
                     </sp>
                 </div>
-                <div type="act">
-                    <head type="title">HARMADIK FELVONÁS</head>
-                    <stage>(Az előbbi terem.)</stage>
-                    <div type="scene">
-                        <head type="title">ELSŐ JELENET</head>
-                        <stage>Rejtei, inas (jőnek)</stage>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <stage>(igen szerényen)</stage>
-                            <lg>
-                                <l>Nem lenne szíves bejelenteni? <stage>(Inas balra el.)
-                                    </stage></l>
-                                <l>Mint a mennykőcsapás, oly gyors e válság! </l>
-                                <l>De olyan is ez a váltóadósság, </l>
-                                <l>Mint a lavína, gyorsan fut alá, </l>
-                                <l>S mindig nagyobb lesz. A hitelezők </l>
-                                <l>Rosszabbak a szúnyognál; nem csupán </l>
-                                <l>Csipnek, hanem meg is csipetnek ők. </l>
-                                <l>Otthon miattuk nem maradhatok, </l>
-                                <l>Azért miként gerilla harcolok; </l>
-                                <l>Bujdosva mint elítélt számüzött </l>
-                                <l>Pest-Buda rengeteg utcáiban, </l>
-                                <l>A kávéházak barlangjaiban, </l>
-                                <l>S a bálozások ingoványi közt - </l>
-                                <l>Szalónias szegény legény vagyok! </l>
-                                <l>Ne kérdje senki, hány hét a világ? </l>
-                                <l>Nekem csak egy nap; holnap megbukom. </l>
-                                <l>Túléltük a hódítás fénykorát: </l>
-                                <l>Csak államcsíny segíthet a bajon. </l>
-                                <l>Kesztyűm elveszté tiszta jellemét, </l>
-                                <l>Az ingem az ártatlanság szinét. </l>
-                                <l>Most már az óra, gyűrű láthatatlan, </l>
-                                <l>Mellény, topány, kabát változhatatlan. </l>
-                                <l>Most oda fognak csakhamar betenni, </l>
-                                <l>Ahol könnyű be-, de nehéz kimenni. </l>
-                                <l>Az ingyenszállás s koszt felette jó; </l>
-                                <l>A jó is rossz, ha fel nem mondható. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#inas">
-                            <speaker>INAS</speaker>
-                            <stage>(visszajő)</stage>
-                            <lg>
-                                <l>A nagyságos asszonynak a feje fáj; </l>
-                                <l>Gizella kisasszony szivesen látja.<stage> (El.) </stage></l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l>A sors kedvez! Derülj ki homlokom, </l>
-                                <l>Hisz nincs rád írva, mivel tartozom! <stage>(El balra.)
-                                    </stage></l>
-                            </lg>
-                        </sp>
-                    </div>
-                    <div type="scene">
-                        <head type="title">MÁSODIK JELENET </head>
-                        <stage>Donátfi, Etelka (jőnek jobbról) </stage>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Éjjel miféle lótás és futás volt? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>A bálból jöttek vissza. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Oly hamar? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Anyám a bálban főfájást kapott. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>S ezt most mondjátok? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l> Megtiltá anyám. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Csak nem beteg? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l> Nem, de rossz kedve van. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Talán rosszúl mulattak? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l> Nem tudom; </l>
-                                <l>De valaminek történni kelletett, </l>
-                                <l>Mert megjövén, szemén könny rezegett, </l>
-                                <l>Gyöngédeden kebléhez szoritott, </l>
-                                <l>S okos jó gyermekének szólitott - </l>
-                                <l>S azt rég nem tette. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <stage>(megöleli)</stage>
-                            <lg>
-                                <l> Az vagy, angyalom, </l>
-                                <l>Okos jó gyermek! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l> S a legboldogabb, </l>
-                                <l>Mert szüleim szeretnek! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Nem vagy az, </l>
-                                <l>Mert úgy nem volnál oly bús, hallgatag! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Az már természetem - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Nem, nem! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l> Anyám jő! - </l>
-                                <l><stage>(Félre:)</stage> Miért is oly rossz, áruló e szem!? </l>
-                                <stage> (Elsiet.) </stage>
-                            </lg>
-                        </sp>
-                    </div>
-                    <div type="scene">
-                        <head type="title">HARMADIK JELENET </head>
-                        <stage>Klára (jő), Donátfi </stage>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(egyszerűen öltözve)</stage>
-                            <lg>
-                                <l>Jó reggelt! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <stage>(elébe megy)</stage>
-                            <lg>
-                                <l> Klárikám, beteg valál? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(keblére borul)</stage>
-                            <lg>
-                                <l>Óh nem, de a bál!... </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Rosszul múlatál? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Óh, vajha rád hallgattam volna mindig! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>S én vajha ne hallgattam volna rád! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Óh, csak ne kérdezz! Mondd fel e lakást, </l>
-                                <l>Adjunk el mindent, bútort, equipage-t! </l>
-                                <l>Több bálban nem látsz; nem nekünk való; </l>
-                                <l>Rám nézve tegnap volt a hamvazó. </l>
-                                <l>Fejemre hamvat kéne hintenem! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Mi ez, mi történt, Klárikám? hiszen </l>
-                                <l>Igy bűnbánó Magdolna sem beszélt. </l>
-                                <l>Dél lesz, s te még fel sem öltözködél? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Eszemre tértem! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Végre! - Hála isten! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Az álarcos bál gyógyított ki tegnap. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Lám, nemcsak víz-, hanem bálkúra is van. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Dorgálj! Megérdemlem! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> S nem mondanád, </l>
-                                <l>Minek köszönjem e csodák csodáját? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Én jót akartam - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Csakhogy sokba van! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Megkaptam a leckét, lakoltam érte! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Mondd el, talán nekem is szólt a lecke. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Jótékony álarcos bál tartatott - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>A jótékonyság a legfőbb erény, </l>
-                                <l>Így bálban is erényből voltatok. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Így bálban is erényből voltatok. </l>
-                                <l>Emeljük, pompás maszkokul menénk; </l>
-                                <l>Én és Gizella, s a mi Várinénk. </l>
-                                <l>Ah, kincsem, hogyha láttál volna minket, </l>
-                                <l>Mint perzsa nőket! fényes jelmezinket! </l>
-                                <l>Mely a kis lábat úgy kiemeli, </l>
-                                <l>S a termet bájait csak sejteti!... </l>
-                                <l>Hidd el, midőn lementünk a terembe; </l>
-                                <l>Midőn megláttak, el voltak büvölve; </l>
-                                <l>Csak egy szemük volt, s az minket csodált. </l>
-                                <l>Pest még nem látott három ily csodát! </l>
-                                <l>Az ífjuság mindjárt körülrajongott; </l>
-                                <l>Ki hozzánk juthatott, az volt a boldog. </l>
-                                <l>A bók özönlött, az élc pattogott, </l>
-                                <l>A bál királynője Gizella volt!... </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <stage>(megfogja kezét)</stage>
-                            <lg>
-                                <l>Csak lassan! Előbb recitíva lesz. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(bánatosan)</stage>
-                            <lg>
-                                <l>Hadd el barátom, mindjárt vége lesz! - </l>
-                                <l>Mig ők ketten sétáltak a teremben, </l>
-                                <l>Én egy földszintpáholy alatt pihentem. </l>
-                                <l>Ezen páholyban minket emlegettek. </l>
-                                <l>Én visszanéztem. Fényes társaság volt; </l>
-                                <l>A férfiak nálunk is megjelentek, </l>
-                                <l>Midőn bált adtunk. Köztük Vízi Ádolf, </l>
-                                <l>Ki szemben mindenütt kitüntetett - </l>
-                                <l>S im, képzeld! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Megszólt a hátad megett. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klra">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>A többiek velünk szuttyongaták - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>S ő nem védett? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(sírva)</stage>
-                            <lg>
-                                <l> Úgy szokta a libát </l>
-                                <l>A róka védni. Azt mondá, libák </l>
-                                <l>Vagyunk, akik még azt sem látjuk át, </l>
-                                <l>Hogy ők csupán tréfát üznek velünk. </l>
-                                <l>Hogy a magas körökbe tolakodtunk - </l>
-                                <l>S ott táncprodukciókat ad leányunk - </l>
-                                <l>S jaj annak, akit mi karon csipünk! - </l>
-                                <l>Képzeld! megszóltak a bálunk miatt - </l>
-                                <l>Hogy verbuváltuk az arszlánokat, </l>
-                                <l>Kötéllel fogtuk. - Hogy a francia </l>
-                                <l>Pezsgő magyar volt. - Úgye, nem igaz? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Gazdálkodásból közte volt biz az </l>
-                                <l>Egy-két üveg - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(felpattanva)</stage>
-                            <lg>
-                                <l> Volt?! Te vagy az oka! </l>
-                                <l>Tudtam! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Na Klári! ez recitiva! - </l>
-                                <l>S csak a pezsgő ellen volt kifogás? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(ismét bánatosan)</stage>
-                            <lg>
-                                <l>Óh, az csekélység! képzeld! ránk fogák - </l>
-                                <l>Hogy a báróra hálókat veténk ki, </l>
-                                <l>De ő magát nem hagyta megfogatni. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>De édes Klárikám, hisz ez valóság! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(kifakadva)</stage>
-                            <lg>
-                                <l>De már bocsáss meg, az csak sült hazugság, </l>
-                                <l>Hogy most Etelkát bálba csak azért </l>
-                                <l>Nem visszük - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Mert ő rég eszére tért. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Dehogy! mivel már nem telik mitőlünk; </l>
-                                <l>Mert eddig már mindent magunkra vettünk, </l>
-                                <l>S ez rágalom! - Hát még az adoma, </l>
-                                <l>Melyet miránk az egyik kohola, </l>
-                                <l>S amin jóízüt kacagott a többi. - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Mondd el, talán én is fogok kacagni. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Hogy két leányunkkal mi úgy teszünk, </l>
-                                <l>Mint amikor két kortesnek csak egy pár </l>
-                                <l>Csizmája volt: kettőt nem vihetünk </l>
-                                <l>A bálba, mert nincs pénz, azért csak egy jár. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Ahá, tudom már azt az adomát! </l>
-                                <l>Kocsin vitték őket tisztújitásra, </l>
-                                <l>S csak az egyiknek volt egy pár csizmája: </l>
-                                <l>S ők a világot úgy bolonditák, </l>
-                                <l>Hogy mindenik félcsizmát visele, </l>
-                                <l>És a szekérről azt lógázta le. - <stage>(Kacag.)</stage>
-                                </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Pedig nem úgy van, s ez bosszant! Etelka </l>
-                                <l>Nem megy, mivel nem óhajt menni bálba. </l>
-                                <l>Ez mind hazugság! mégis semmivé tett, <stage>(bánatosan:)
-                                    </stage></l>
-                                <l>Mert a magas körök rajtunk nevetnek! - </l>
-                                <l>De ami legjobban fáj: az egyik </l>
-                                <l>Azt állitotta - s hitte mindenik - </l>
-                                <l>Hogy összes birtokunk harmincezer </l>
-                                <l>Forintra sem megy - s ez végképp lever! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Hisz ez igaz. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l> S ennek te vagy oka; </l>
-                                <l>Ezt tőled tudja. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Ez recitiva! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Ez fáj! Ha hallgatsz, azt hinnék felőlünk, </l>
-                                <l>Hogy azon összeg évi jövedelmünk. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Ha mondtam, akkor mondtam azt neki, </l>
-                                <l>Midőn még nem akartuk a világot - </l>
-                                <l>Vagyis magunkat így bolondítani. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Most vége! E hír végképpen levágott! </l>
-                                <l>Azok előtt vagyunk gúny tárgyai, </l>
-                                <l>Kiknek leginkább vágytunk tetszeni. </l>
-                                <l>Én nem megyek több bálba az idén! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Mindig felejted: holnap húshagyó kedd. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Nem; a jövő évben sem megyek én! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Köszönd istennek, hogy álarc alatt </l>
-                                <l>Ily szépen megtudók az igazat. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>De hogyha fele sem igaz! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Elég</l>
-                                <l>Nekünk az is, ha elhiszik felét. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Azért sem ülnek rajtunk győzedelmet! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Ej, ej! a kúra mégsem gyógyított meg? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Igaz! - de hogyha ez mind - Igazad van!... </l>
-                                <stage>(Kitörve ellene:) </stage>
-                                <l>Mért is nem vagy te férfi? úr a házban? </l>
-                                <l>Ha ostromlunk, ellent kell állanod! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Ne félj, ezentul szirt leszek, kemény! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(szelídülve)</stage>
-                            <lg>
-                                <l>Ugy, édes kincsem! - De még van remény; </l>
-                                <l>Mit sem vesztettünk; itt van Rejtei. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Jaj-jaj, ne is említsd! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l> Ő szereti </l>
-                                <l>Leányodat; gazdag, s nőül veszi. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <stage>(haraggal)</stage>
-                            <lg>
-                                <l>Szeretném látni! Egy oly semmiházi! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(szintúgy)</stage>
-                            <lg>
-                                <l>Előbb be kell azt bizonyítanod! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Én bizonyítsak?! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l> S hogyha nem tudod </l>
-                                <l>Bebizonyítni, mért vagy ellene? </l>
-                                <l>Mért bánol oly méltatlanul vele, </l>
-                                <l>Mint a világ velünk bánt? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Éppen az; </l>
-                                <l>Ha ő is: fenn az ernyő, nincsen kas?! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Te a szerencsét lábbal tapodod! - </l>
-                                <l>De ha mint kérő jön - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <stage>(eréllyel)</stage>
-                            <lg>
-                                <l> Hozzám fogod </l>
-                                <l>Őt küldni. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l> Nem ily házi zsarnokot - ! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Ej Klárikám! megint recitiválsz! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Jó, megteendem, mit tőlem kivánsz; </l>
-                                <l>De sokkal inkább szereted Gizellát, </l>
-                                <l>Mintsem világos ésszel át ne látnád, </l>
-                                <l>Lányunk minő házasságot mulaszt - </l>
-                                <l>Főképp, ha én is jónak látom azt! </l>
-                            </lg>
-                        </sp>
-                    </div>
-                    <div type="scene">
-                        <head type="title">NEGYEDIK JELENET</head>
-                        <stage>Etelka (jő), előbbiek </stage>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Atyám, két úr van itt. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Nem ismered? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Hajhászok lesznek, úgy hiszem. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Megyek. </l>
-                                <l>Váltóadósság lesz alkalmasint. <stage>(El.)</stage>
-                                </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(félre)</stage>
-                            <lg>
-                                <l>Gizellával kell szólnom. Rejteit </l>
-                                <l>Elhanyagolta. Nincs mit válogatni. <stage>(El.) </stage></l>
-                            </lg>
-                        </sp>
-                    </div>
-                    <div type="scene">
-                        <head type="title">ÖTÖDIK JELENET </head>
-                        <stage>Etelka (egyedül, az ablakhoz megy) </stage>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Szeles leány! im, még az ablakot </l>
-                                <l>Sem zárta jól be. Aztán nem csoda, </l>
-                                <l>Hogy a fa úgy fogy. - Óh isten! Ez ő! </l>
-                                <stage>(Az ablaktól elugrik:) </stage>
-                                <l>A báró! - Eszerint nem útazott el. </l>
-                                <l>Az csak ürügy volt. Többé nem akart </l>
-                                <l>A házhoz járni. Ah, szegény Gizella, </l>
-                                <l>Ha ezt megtudja, mily rosszúl fog esni! </l>
-                                <l>De tán csalódtam! - <stage>(Ablakhoz megy.)</stage>
-                                </l>
-                                <l> Mert én tegnap is </l>
-                                <l>Őt véltem látni, és - nem ő vala. - </l>
-                                <l>Ő az! - Mi ez? - áttér - e házba jön. - </l>
-                                <l>Talán igaz volt, s útról jött haza. </l>
-                                <l>S most ide jő: - Gizellát szereti; - </l>
-                                <l>Óh, bár ugy volna! Mily boldog leend </l>
-                                <l>Az én Gizellám! Hasztalan tagadja, </l>
-                                <l>Ő mégis legjobban tetszék neki - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#inas">
-                            <speaker>INAS</speaker>
-                            <stage>(jelenti)</stage>
-                            <lg>
-                                <l>Báró Várkövi úr őnagysága. <stage>(El.) </stage>
-                                </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Óh isten! ide jő. - Elfussak-e? - </l>
-                                <l>Gizellát hívom. - Már késő! </l>
-                            </lg>
-                        </sp>
-                    </div>
-                    <div type="scene">
-                        <head type="title">HATODIK JELENET </head>
-                        <stage>Etelka, Várkövi </stage>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <stage>(jő, zavarodva)</stage>
-                            <lg>
-                                <l> Bocsánat! </l>
-                                <l>Lélegzetem a lépcsőn elszorúlt. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Báró ur - kérem - majd inkább anyámhoz </l>
-                                <l>Fogom vezetni. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l> Sőt ellenkezőleg; </l>
-                                <l>A sorsot áldom, mely először is </l>
-                                <l>E rég kivánt szerencsét adja meg. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Azt hittük, báró úr elútazott. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Akartam; hogyha útamat nem állják. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Ennek leginkább fog örvendeni </l>
-                                <l>Anyám - s Gizella. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l> S nagysád. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l> Én? - nem értem. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖKVI</speaker>
-                            <lg>
-                                <l>Szabad nyiltan s őszintén szólanom? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Kérem! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l> S mért járjak mellék-útakon? </l>
-                                <l>Hisz végre is legjobb az egyenes út. </l>
-                                <l>Midőn bucsúztam, a nagysád szemében </l>
-                                <l>Két drága gyöngyöt láttam rezgeni. - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Az - ön csalódott - rosszul látta azt. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Jól láttam én azt; és higgyen nekem, </l>
-                                <l>E könny szivemre a legsúlyosabb </l>
-                                <l>Terhül nehézkedett, és útamat </l>
-                                <l>Egész tengerrel árasztotta el. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Nyiltabban szólva: e könny indokát </l>
-                                <l>Ha sejti, önt gyöngédebbnek hiszem - </l>
-                                <l>S nem fogja magyarázatát kivánni. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Oh nem; de mást sug a remény fülembe. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <stage>(sietve)</stage>
-                            <lg>
-                                <l>Nehogy gyanussá váljék e könyű, </l>
-                                <l>Bevallom, hogy Gizellát illeté. </l>
-                                <l>Okát ön fogja tudni. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l> Akkor is </l>
-                                <l>Drágák valának, mert e gyöngyszemek </l>
-                                <l>A jó testvért legszebben ékiték. </l>
-                                <l>De bár nevessen ki - én is hiú </l>
-                                <l>Vagyok, hiú, mint minden éveimben - </l>
-                                <l>E könnynek én más magyarázatot </l>
-                                <l>Adtam; ha tán csalódtam, bűnhödöm! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Kétségkivűl csalódott. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l> Mért siet </l>
-                                <l>Ezen gyanút cáfolni? ez teszi </l>
-                                <l>Gyanússá; s ez ad új reményt nekem! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Reményt? - Bocsásson meg, megint nem értem. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Éppen azért, nehogy gyöngédtelen </l>
-                                <l>Legyek, csupán talányban szólhatok, </l>
-                                <l>Nem mondom el, hogyan történt szivemben </l>
-                                <l>E változás: De halvány arca volt, </l>
-                                <l>S a könny szemében, mik feledteték </l>
-                                <l>A rózsa arcot s ragyogó szemet - </l>
-                                <l>Azóta szeretem! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l> Felejti, hogy </l>
-                                <l>Gizella testvérének mondja ezt!? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Gizella engem nem szeretett soha! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Ön félreérti - tán rágalmazák - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Nem; ezt tulajdon ajkáról tudom. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Ne higgyen annak; mást mondott nekem. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Ugy nincs remény! Ugy ön sem ismeri, </l>
-                                <l>Mi a valódi tiszta szerelem! - </l>
-                                <l>Ha ő szeretne, nem lett volna folyvást </l>
-                                <l>Vidám, enyelgő és hódoltató. </l>
-                                <l>Ő éppen ugy táncolt, s a bókokat </l>
-                                <l>Oly örömest hallá, mint azelőtt. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Kiméljen azzal, hogy kiméli őt. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Hisz én azért őt nem hibáztatom. </l>
-                                <l>De meg kell győznöm, hogy nem bántja őt, </l>
-                                <l>Ha tán azért reményem teljesül. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>S oly bárgyunak tart, hogy többnek hiszem </l>
-                                <l>Mindezt üres bóknál? - Ön akkor is </l>
-                                <l>Látott, beszélt velem, s mást szeretett. </l>
-                                <l>E változás gyorsabb, mintsem hihetnők. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Nem olyan gyors, mint hinné; mert azon </l>
-                                <l>Nap óta majd mindennap láttam önt, </l>
-                                <l>Elmondatám magamnak szavait. </l>
-                                <l>Valóban szörnyüképp bünös vagyok. </l>
-                                <l>Mert kémszemekkel hálóztam körül. </l>
-                                <l>De higgye el, mindez csak énnekem </l>
-                                <l>Ártott - mert így támadt e szenvedély! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Látott? - azóta bálban nem valék. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Ez fő erénye volt. S én nem is ott </l>
-                                <l>Kerestem önt; hanem - ki fog nevetni! </l>
-                                <l>De föltevém, hogy nem fogok hazudni. - </l>
-                                <l>Midőn piacra vásárolni ment, </l>
-                                <l>Inkognitó, én mint fejedelem, </l>
-                                <l>Vagy inkább, mint szerelmes kis diák, </l>
-                                <l>Nyomában voltam, s végig hallgatám, </l>
-                                <l>Mint alkudott egy óranegyedig </l>
-                                <l>Egy-egy kofával. Láttam, a cseléd </l>
-                                <l>Karján kosárral mint zsémbeskedék: </l>
-                                <l>"Menjünk kisasszony! Nem szégyenli, annyit </l>
-                                <l>Alkudni!" - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l> Báró úr, reám pirít! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Ellenkezőleg, ez is fő erény </l>
-                                <l>Előttem, mert kissé fösvény vagyok. </l>
-                                <l>És láttam aztán, mért fösvénykedik </l>
-                                <l>E kis gazdasszony, s hogy mért alkuszik </l>
-                                <l>Élet-halálra egypár garasért: </l>
-                                <l>Mert amit ekkép meggazdálkodott, </l>
-                                <l>A koldusok közt osztogatta el. </l>
-                                <l>S midőn bevégzé a vásárt, haza- </l>
-                                <l>Küldötte a cselédet a kosárral. </l>
-                                <l>És én azon törtem most fejemet, </l>
-                                <l>Hová fog menni kis gazdasszonyunk? </l>
-                                <l>Kétségkivűl barátnőt látogat meg, </l>
-                                <l>Hogy ami szívét nyomja, elcsevegje? </l>
-                                <l>Óh nem! templomba ment. Utána mentem, </l>
-                                <l>Együtt imádtuk, s tán egy gondolattal </l>
-                                <l>Az Istent, tán ugyanazon szavakkal. </l>
-                                <l>Eltávozott; de arcán látható volt, </l>
-                                <l>Hogy megkönnyebbült szívvel megy haza: </l>
-                                <l>De én nehézült szívvel váltam el; </l>
-                                <l>Mert e perctől szerettem, igazán, </l>
-                                <l>Mélyen s örökre! - Engem ez kötött le; </l>
-                                <l>S ha a bálokra, fényüzésre gondol, </l>
-                                <l>Meg fogja érteni: mi oldozott fel. - </l>
-                                <l>És most tanitson meg, hogy nyerhetem meg </l>
-                                <l>Az ön szivét is! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l> Az nem oly nehéz... </l>
-                                <l>Ne várjon tőlem nyiltabb vallomást, </l>
-                                <l>Mert a multért pirulnom kellene, </l>
-                                <l>Jobbnak hisz, mint amilyen én vagyok. </l>
-                                <l>Erénynek látta, ami gyöngeség volt. </l>
-                                <l>Én nem szerettem úgy testvéremet, </l>
-                                <l>Mint véli - mert - <stage>(elfordított arccal:) </stage></l>
-                                <l> mindig szerettem önt! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>És mégis titkolá! - volt ereje </l>
-                                <l>Titkolni? volt ereje lemondani? </l>
-                                <l>Legszebb erénye volt, mit legnagyobb </l>
-                                <l>Bünének tartott! - Atyjától szabad </l>
-                                <l>Kezét megkérnem? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l> Báró úr, hiszi, </l>
-                                <l>Hogy ez Gizellának nem fogna fájni? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Talán hiúságát megsértheti, </l>
-                                <l>De nem szerelmét! mert hitem szerint </l>
-                                <l>Gizella nem szerelmes senkibe. </l>
-                                <l>Az álgyöngédség áldozatjai </l>
-                                <l>Miért legyünk mi? s boldogtalanok </l>
-                                <l>Azáltal, ami őt sem boldogítja? </l>
-                                <l>Vagy édesanyjával szóljunk előbb? - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Nem, nem; atyámmal. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <stage>(kezet csókol)</stage>
-                            <lg>
-                                <l> Úgy hozzá megyek. <stage>(El.) </stage></l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <stage>(maga)</stage>
-                            <lg>
-                                <l>Óh, csak Gizellának ne fájna ez! </l>
-                                <l>De amit érzett, az nem szerelem: </l>
-                                <l>Vagy az nem az, amit én érezek! </l>
-                            </lg>
-                        </sp>
-                    </div>
-                    <div type="scene">
-                        <head type="title">HETEDIK JELENET </head>
-                        <stage>Gizella, Etelka </stage>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <stage>(jő)</stage>
-                            <lg>
-                                <l>A báró itt van - Terka súgta meg. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Itt volt. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l> Volt? Elment? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Nem</l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l> Hol van tehát? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Atyánkhoz ment. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l> Atyánkhoz? - Tudtam én! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l> - - Mit? Óh szólj! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Hogy visszatér, s nem oly könnyen felejt! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <stage>(félre)</stage>
-                            <lg>
-                                <l>Ha ez való, engem kétségbeejt! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Elútazott, s a mágnes visszavonta. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Ha tán csalódol, s nem az hozta vissza? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Hiszen szeret - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l> S te? - Tán nem szereted? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Inkább a báró, mint e Rejtei. </l>
-                                <l>Ámbár van több is. Például Vizi </l>
-                                <l>Majd megbolondul, oly nagyon szeret. </l>
-                                <l>Aztán a város, mely most azt hiszi, </l>
-                                <l>Hogy ő hagyott el, mérgelődni fog, </l>
-                                <l>Látván, hogy mégis báróné vagyok! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>S ha ő másért jött volna? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l> Azt hiszed? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <lg>
-                                <l>Ez új csalódás fájna-é neked? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Én és kétségbeesni!? - Nem vesz el? </l>
-                                <l>Ugy e szegény bárót sajnálni kell; </l>
-                                <l>Mert többet veszt, mint én nyernék vele. </l>
-                                <l>Sőt - csak választanom ne kellene! - </l>
-                                <l>S így is - galambkedélyemnek köszönje, </l>
-                                <l>Ha a kosártól meg leend kimélve. </l>
-                                <l>Ah, csak az a Rejtei volna más; - </l>
-                                <l>Oly jólesnék most a kosáradás! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#etelka">
-                            <speaker>ETELKA</speaker>
-                            <stage>(félre)</stage>
-                            <lg>
-                                <l>Sértett hiúság ez, nem szerelem. <stage>(El.)</stage>
-                                </l>
-                            </lg>
-                        </sp>
-                    </div>
-                    <div type="scene">
-                        <head type="title">NYOLCADIK JELENET </head>
-                        <stage>Klára, Rejtei (jőnek), Gizella </stage>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Kedves Gizellám, ő nyilatkozott - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Szokás szerint bókokkal halmozott. </l>
-                                <l>Nem más az ily bók, mint virágbokréta: </l>
-                                <l>Elvesszük azt, de ritkán tesszük el. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l>Kedves nagysád, s ha most nem volna tréfa? </l>
-                                <l>Ha most komolyan léptem volna fel? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Majd máskor! Farsang van: még most kacagjon! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l>Ne szóljon így, mert bátorságom elhagy. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Ej, oly ijesztő rém vagyok, hogy oly nagy </l>
-                                <l>Bátorság kell ahhoz? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l> Úgy van, kisasszony, </l>
-                                <l>Mert e szavától függ élet-halálom! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Hallgasd ki végre! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <stage>(nevetve)</stage>
-                            <lg>
-                                <l> Élet és halál </l>
-                                <l>Van a kockán?! Siessen, el talál </l>
-                                <l>Különben késni! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l> Tudja, hogy imádom! </l>
-                                <l>Midőn a báró kezdett - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l> Ön imád? </l>
-                                <l>Tudom; de ne felejtse e szavát! - </l>
-                                <l>Tudják-e, hogy a báró visszatért? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l>Mi gondom - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l> Apropos! mit is beszélt </l>
-                                <l>Felőlünk a világ? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l> Hogy kosarat </l>
-                                <l>Kapott. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l> Még nem; de kaphat. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l> Kéz alatt </l>
-                                <l>Én hírlelém azt. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l> Ön mutatta bé; </l>
-                                <l>Valóban ezt nem okosan tevé. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l>Előre tudtam, hogy nem oly veszélyes. </l>
-                                <l>Az ily ősváriak nagyon hasonlók </l>
-                                <l>Várromjaikhoz. Távolról regényes </l>
-                                <l>Látványok ők, közelről szánni méltók, </l>
-                                <l>Lakván előitélet baglyai, </l>
-                                <l>S a gőgnek fúlánkos kigyójai. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Igaz! kik azt hiszik, mert gazdagok, </l>
-                                <l>Egyébbel már nem is kell bírniok! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l>Gazdag? - a báró gazdag? - az lehetne, </l>
-                                <l>Ha az adósság kevesebbre menne. </l>
-                                <l>Nagysád! midőn az ily ősváriak </l>
-                                <l>Magas romok közűl leszállanak, </l>
-                                <l>S alantabb régiókban keresik </l>
-                                <l>A nőt; keresik, ami nincs nekik: </l>
-                                <l>A pénzt; és szabadulni vágynak attól, </l>
-                                <l>Ami sok is van: adósságaiktól. </l>
-                                <l>Mert most a váltók és a szóbeli </l>
-                                <l>Rövid perek az ég mennykövei; </l>
-                                <l>Éppúgy sujtják a kastély urait, </l>
-                                <l>Mint azt, ki völgyben őrzi barmait. </l>
-                                <l>Most mind szatócsok, kalmárok vagyunk; </l>
-                                <l>Szemünk a mérlegen kell tartanunk, </l>
-                                <l>Hogy a bevétel súlyegyenbe légyen </l>
-                                <l>A kiadással a két serpenyőben. </l>
-                                <l>Ha több a kiadás csak egy szemerrel, </l>
-                                <l>Ha az csak egy hajszálnyival lebillen, </l>
-                                <l>A légbe röppen az egész bevétel. </l>
-                                <l>Mert az adósság úgy nő, mint a láncszem, </l>
-                                <l>Egy-egy nullával nyúlik minden évben. </l>
-                                <l>Mert átkozott a prolongáció, </l>
-                                <l>Azáltal lesz százból egy millió. </l>
-                                <l>Van példa rá! Azért én ötezernél </l>
-                                <l>Nem költök többet. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l> Annyiból megél </l>
-                                <l>Egy kis család. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l> Ah, mily mulattató, </l>
-                                <l>Váltójogból ez a prelekció! </l>
-                                <l>Atyám ügyvéd, s a lány bosszankodik, </l>
-                                <l>Ha apja mesterségét emlitik. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Ő ezzel azt akarja mondani - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Hogy ötezer forint is valami. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l>Ments isten! Én megkérem szép kezét - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Ha arra majd én felhatalmazom. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(Rejteihez)</stage>
-                            <lg>
-                                <l>Megleptük őt. Engedjen szólanom; </l>
-                                <l>Én majd meggyőzöm szívét és eszét. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <stage>(zsebkendővel törölve szemeit)</stage>
-                            <lg>
-                                <l>Elfojtnak úgy is szűmnek árjai! <stage>(Hátravonul.) </stage></l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Anyám, mit gondol? Én és Rejtei! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Tán azt hiszed, hogy mi gazdagok vagyunk? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Amit mamácska mondott, azt hiszem: </l>
-                                <l>Atyám dusgazdag, s még mi várhatunk; </l>
-                                <l>S én ezt az embert nem szenvedhetem! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Csalódás volt; atyád majdnem szegény - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Úgy mit jelent ez a fejdelmi fény? </l>
-                                <l>S anyám azt véli, ezzel rám ijeszt? </l>
-                                <l>Én mind Etelkának hagyandom ezt; </l>
-                                <l>A hozományt én nélkülözhetem. <stage>(Azok jőnek.) </stage></l>
-                                <l>Mindjárt meglátja, hogy azt tehetem! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(félre)</stage>
-                            <lg>
-                                <l>Én ástam a vermet magunk alatt! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <stage>(félre)</stage>
-                            <lg>
-                                <l>Most értem! mellőz e vágytárs miatt! </l>
-                            </lg>
-                        </sp>
-                    </div>
-                    <div type="scene">
-                        <head type="title">KILENCEDIK JELENET </head>
-                        <stage>Donátfi, Várkövi, Etelka (már előbb jöttek), előbbiek </stage>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <stage>(anyjához, Várkövit mutatva súgja)</stage>
-                            <lg>
-                                <l>Egy kis meglepetés! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l> Ah, Várkövi!? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <stage>(súgva)</stage>
-                            <lg>
-                                <l>Ezért kapott kosarat Rejtei! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Okos gyerek vagy! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Kedves feleség, </l>
-                                <l>Örömhír! a báró lányunk kezét </l>
-                                <l>Megkérte. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l> Ez valóban meglepő! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <stage>(félre)</stage>
-                            <lg>
-                                <l>S ha kosarat adnék! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <stage>(félre)</stage>
-                            <lg>
-                                <l> Tudta, hogy ő </l>
-                                <l>Van a játékban! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <stage>(Etelkát anyjához vezeti)</stage>
-                            <lg>
-                                <l> Áldásért esengünk! </l>
-                                <l>Donátfi úr már megáldotta frígyünk. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(bámulva és örömmel)</stage>
-                            <lg>
-                                <l>Mi? mit? - Etelka?! - Báró úr, valóban </l>
-                                <l>Ez oly váratlan, mintha álom volna! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <stage>(fére)</stage>
-                            <lg>
-                                <l>No most majd én is jó leszek neki! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Épp igy csudálkoztam; de Várkövi </l>
-                                <l>Megmagyarázta - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l> Hogy szerettük egymást! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>De hát miért volt e nagy titkolódás? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Rossz testvér, nem volt hozzám bizodalmad! </l>
-                                <stage>(Megöleli)</stage>
-                                <l>Nem! legjobb testvér széles e világon! <stage>(Súgva:)
-                                    </stage></l>
-                                <l>Mert most belátom, most tisztán megértem, </l>
-                                <l>Te áldozat akartál lenni értem! </l>
-                                <l>E kis csalódás nem fáj énnekem. <stage>(A báróhoz:) </stage></l>
-                                <l>Szeresse őt úgy, mint én szeretem! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Báró ur, hogyha mindez nemcsak álom, </l>
-                                <l>Akkor boldog csalódás, s én megáldom! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <stage>(félre)</stage>
-                            <lg>
-                                <l>Rajtunk a sor! - Kérem nagysádtokat, </l>
-                                <l>Hogy az áldással gazdálkodjanak, </l>
-                                <l>Annak felére én tartok igényt - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <lg>
-                                <l>Előbb engedjen engem szólanom. </l>
-                                <l>Nekem negyedrész áldás nem elég, </l>
-                                <l>S így a féláldást meg nem oszthatom. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(titkon)</stage>
-                            <lg>
-                                <l>De miután - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#gizella">
-                            <speaker>GIZELLA</speaker>
-                            <stage>(szintúgy)</stage>
-                            <lg>
-                                <l> Még jobbat is kapok. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <stage>(Rejteihez)</stage>
-                            <lg>
-                                <l>Ön azt hiszi, hogy én gazdag vagyok? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l>Óh kérem, arra én nem gondolok. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>De minthogy a Gizella hozománya </l>
-                                <l>Csak tízezer forint lesz, ön belátja - </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l>Oh kérem; én és a nagylelküség </l>
-                                <l>Egy nap születtünk. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l> Önnek az elég </l>
-                                <l>Csak másfél évre volna. Miután </l>
-                                <l>Ön minden évben négy-ötezret ad ki, </l>
-                                <l>S miután csak tizezer a hozomány, </l>
-                                <l>S öntől előbb négyezret kell levonni; </l>
-                                <l>Több nem marad, csak hatezer forint. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l>Tőlem levonni?! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <stage>(egy csomó váltót mutat)</stage>
-                            <lg>
-                                <l> E váltók szerint - </l>
-                                <l>Most kaptam. - S minthogy ön nem tud fizetni, </l>
-                                <l>Becses személyét fogjuk még ma kérni. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <stage>(magában)</stage>
-                            <lg>
-                                <l>Leányát kérem, s ím - ő engemet kér! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>De hát mi ez? </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l> Az álarc mit sem ér, </l>
-                                <l>Ha a farsang lejár. Váltóm lejárt, </l>
-                                <l>S konok hitelezőm engem bezár. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <lg>
-                                <l>Ön minket eszerint csak ámitott?! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l>Bocsánat! itt csak én lőttem bakot. </l>
-                                <l>Én lepke voltam, fényes külsejű, </l>
-                                <l>Csapongó, s éppoly rövid életű. </l>
-                                <l>A fény s divat szerelme felkapott, </l>
-                                <l>De Spitzenberger a földhöz csapott. </l>
-                                <stage>(Gizellára nézve:) </stage>
-                                <l>Azt hittem, Ámor majd uj röptet ad; </l>
-                                <l>De hajh, az is csak elpergelte szárnyamat! </l>
-                                <stage>(Donátfihoz:) </stage>
-                                <l>De tennék egy okos ajánlatot. </l>
-                                <l>Ha Spitzenberger engem becsukat, </l>
-                                <l>Naponként egy húszast kell adnia, </l>
-                                <l>S a pénzét mégsem kapja meg soha; </l>
-                                <l>De hogyha nem csukat be, megmarad </l>
-                                <l>Az a húszas; azt naponként adja ki </l>
-                                <l>Százhúsz percentre: így törlesztheti </l>
-                                <l>Az én adósságom pár év alatt. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Barátocskám, tán jobb lesz e tanács: </l>
-                                <l>Szived nem romlott, tudsz is valamit; </l>
-                                <l>Keress magadnak jobb alkalmazást: </l>
-                                <l>Gazdálkodjál, mert csak az gazdagit. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l>Ez Spitzenbergtől meg nem szabadit! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#varkovi">
-                            <speaker>VÁRKÖVI</speaker>
-                            <lg>
-                                <l>Műszóval: én majd arranzsírozom. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#rejtei">
-                            <speaker>REJTEI</speaker>
-                            <lg>
-                                <l>Óh szabadíts meg ettől a gonosztól; </l>
-                                <l>Több kísértetbe nem hoz, fogadom! </l>
-                            </lg>
-                        </sp>
-                        <sp who="#klara">
-                            <speaker>KLÁRA</speaker>
-                            <stage>(Donátfihoz halkan)</stage>
-                            <lg>
-                                <l>Barátom, légy ur a háznál magad; </l>
-                                <l>Látom, neked volt mindig igazad. </l>
-                            </lg>
-                        </sp>
-                        <sp who="#donatfi">
-                            <speaker>DONÁTFI</speaker>
-                            <lg>
-                                <l>Bölcs férj vagyok én a teóriába', </l>
-                                <l>De gyönge in praxi! De tán okúltunk; </l>
-                                <l>S a súlyegyent, melyen fennáll Evrópa, </l>
-                                <l>Mi is fenntartjuk - csak ne tántorodjunk! </l>
-                            </lg>
-                        </sp>
-                    </div>
+			</div>
+            <div type="act">
+                <head type="title">HARMADIK FELVONÁS</head>
+                <stage>(Az előbbi terem.)</stage>
+                <div type="scene">
+                    <head type="title">ELSŐ JELENET</head>
+                    <stage>Rejtei, inas (jőnek)</stage>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <stage>(igen szerényen)</stage>
+                        <lg>
+                            <l>Nem lenne szíves bejelenteni? <stage>(Inas balra el.)
+                                </stage></l>
+                            <l>Mint a mennykőcsapás, oly gyors e válság! </l>
+                            <l>De olyan is ez a váltóadósság, </l>
+                            <l>Mint a lavína, gyorsan fut alá, </l>
+                            <l>S mindig nagyobb lesz. A hitelezők </l>
+                            <l>Rosszabbak a szúnyognál; nem csupán </l>
+                            <l>Csipnek, hanem meg is csipetnek ők. </l>
+                            <l>Otthon miattuk nem maradhatok, </l>
+                            <l>Azért miként gerilla harcolok; </l>
+                            <l>Bujdosva mint elítélt számüzött </l>
+                            <l>Pest-Buda rengeteg utcáiban, </l>
+                            <l>A kávéházak barlangjaiban, </l>
+                            <l>S a bálozások ingoványi közt - </l>
+                            <l>Szalónias szegény legény vagyok! </l>
+                            <l>Ne kérdje senki, hány hét a világ? </l>
+                            <l>Nekem csak egy nap; holnap megbukom. </l>
+                            <l>Túléltük a hódítás fénykorát: </l>
+                            <l>Csak államcsíny segíthet a bajon. </l>
+                            <l>Kesztyűm elveszté tiszta jellemét, </l>
+                            <l>Az ingem az ártatlanság szinét. </l>
+                            <l>Most már az óra, gyűrű láthatatlan, </l>
+                            <l>Mellény, topány, kabát változhatatlan. </l>
+                            <l>Most oda fognak csakhamar betenni, </l>
+                            <l>Ahol könnyű be-, de nehéz kimenni. </l>
+                            <l>Az ingyenszállás s koszt felette jó; </l>
+                            <l>A jó is rossz, ha fel nem mondható. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#inas">
+                        <speaker>INAS</speaker>
+                        <stage>(visszajő)</stage>
+                        <lg>
+                            <l>A nagyságos asszonynak a feje fáj; </l>
+                            <l>Gizella kisasszony szivesen látja.<stage> (El.) </stage></l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l>A sors kedvez! Derülj ki homlokom, </l>
+                            <l>Hisz nincs rád írva, mivel tartozom! <stage>(El balra.)
+                                </stage></l>
+                        </lg>
+                    </sp>
                 </div>
-            </div>
+                <div type="scene">
+                    <head type="title">MÁSODIK JELENET </head>
+                    <stage>Donátfi, Etelka (jőnek jobbról) </stage>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Éjjel miféle lótás és futás volt? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>A bálból jöttek vissza. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Oly hamar? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Anyám a bálban főfájást kapott. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>S ezt most mondjátok? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l> Megtiltá anyám. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Csak nem beteg? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l> Nem, de rossz kedve van. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Talán rosszúl mulattak? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l> Nem tudom; </l>
+                            <l>De valaminek történni kelletett, </l>
+                            <l>Mert megjövén, szemén könny rezegett, </l>
+                            <l>Gyöngédeden kebléhez szoritott, </l>
+                            <l>S okos jó gyermekének szólitott - </l>
+                            <l>S azt rég nem tette. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <stage>(megöleli)</stage>
+                        <lg>
+                            <l> Az vagy, angyalom, </l>
+                            <l>Okos jó gyermek! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l> S a legboldogabb, </l>
+                            <l>Mert szüleim szeretnek! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Nem vagy az, </l>
+                            <l>Mert úgy nem volnál oly bús, hallgatag! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Az már természetem - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Nem, nem! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l> Anyám jő! - </l>
+                            <l><stage>(Félre:)</stage> Miért is oly rossz, áruló e szem!? </l>
+                            <stage> (Elsiet.) </stage>
+                        </lg>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head type="title">HARMADIK JELENET </head>
+                    <stage>Klára (jő), Donátfi </stage>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(egyszerűen öltözve)</stage>
+                        <lg>
+                            <l>Jó reggelt! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <stage>(elébe megy)</stage>
+                        <lg>
+                            <l> Klárikám, beteg valál? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(keblére borul)</stage>
+                        <lg>
+                            <l>Óh nem, de a bál!... </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Rosszul múlatál? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Óh, vajha rád hallgattam volna mindig! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>S én vajha ne hallgattam volna rád! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Óh, csak ne kérdezz! Mondd fel e lakást, </l>
+                            <l>Adjunk el mindent, bútort, equipage-t! </l>
+                            <l>Több bálban nem látsz; nem nekünk való; </l>
+                            <l>Rám nézve tegnap volt a hamvazó. </l>
+                            <l>Fejemre hamvat kéne hintenem! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Mi ez, mi történt, Klárikám? hiszen </l>
+                            <l>Igy bűnbánó Magdolna sem beszélt. </l>
+                            <l>Dél lesz, s te még fel sem öltözködél? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Eszemre tértem! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Végre! - Hála isten! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Az álarcos bál gyógyított ki tegnap. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Lám, nemcsak víz-, hanem bálkúra is van. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Dorgálj! Megérdemlem! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> S nem mondanád, </l>
+                            <l>Minek köszönjem e csodák csodáját? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Én jót akartam - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Csakhogy sokba van! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Megkaptam a leckét, lakoltam érte! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Mondd el, talán nekem is szólt a lecke. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Jótékony álarcos bál tartatott - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>A jótékonyság a legfőbb erény, </l>
+                            <l>Így bálban is erényből voltatok. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Így bálban is erényből voltatok. </l>
+                            <l>Emeljük, pompás maszkokul menénk; </l>
+                            <l>Én és Gizella, s a mi Várinénk. </l>
+                            <l>Ah, kincsem, hogyha láttál volna minket, </l>
+                            <l>Mint perzsa nőket! fényes jelmezinket! </l>
+                            <l>Mely a kis lábat úgy kiemeli, </l>
+                            <l>S a termet bájait csak sejteti!... </l>
+                            <l>Hidd el, midőn lementünk a terembe; </l>
+                            <l>Midőn megláttak, el voltak büvölve; </l>
+                            <l>Csak egy szemük volt, s az minket csodált. </l>
+                            <l>Pest még nem látott három ily csodát! </l>
+                            <l>Az ífjuság mindjárt körülrajongott; </l>
+                            <l>Ki hozzánk juthatott, az volt a boldog. </l>
+                            <l>A bók özönlött, az élc pattogott, </l>
+                            <l>A bál királynője Gizella volt!... </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <stage>(megfogja kezét)</stage>
+                        <lg>
+                            <l>Csak lassan! Előbb recitíva lesz. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(bánatosan)</stage>
+                        <lg>
+                            <l>Hadd el barátom, mindjárt vége lesz! - </l>
+                            <l>Mig ők ketten sétáltak a teremben, </l>
+                            <l>Én egy földszintpáholy alatt pihentem. </l>
+                            <l>Ezen páholyban minket emlegettek. </l>
+                            <l>Én visszanéztem. Fényes társaság volt; </l>
+                            <l>A férfiak nálunk is megjelentek, </l>
+                            <l>Midőn bált adtunk. Köztük Vízi Ádolf, </l>
+                            <l>Ki szemben mindenütt kitüntetett - </l>
+                            <l>S im, képzeld! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Megszólt a hátad megett. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klra">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>A többiek velünk szuttyongaták - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>S ő nem védett? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(sírva)</stage>
+                        <lg>
+                            <l> Úgy szokta a libát </l>
+                            <l>A róka védni. Azt mondá, libák </l>
+                            <l>Vagyunk, akik még azt sem látjuk át, </l>
+                            <l>Hogy ők csupán tréfát üznek velünk. </l>
+                            <l>Hogy a magas körökbe tolakodtunk - </l>
+                            <l>S ott táncprodukciókat ad leányunk - </l>
+                            <l>S jaj annak, akit mi karon csipünk! - </l>
+                            <l>Képzeld! megszóltak a bálunk miatt - </l>
+                            <l>Hogy verbuváltuk az arszlánokat, </l>
+                            <l>Kötéllel fogtuk. - Hogy a francia </l>
+                            <l>Pezsgő magyar volt. - Úgye, nem igaz? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Gazdálkodásból közte volt biz az </l>
+                            <l>Egy-két üveg - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(felpattanva)</stage>
+                        <lg>
+                            <l> Volt?! Te vagy az oka! </l>
+                            <l>Tudtam! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Na Klári! ez recitiva! - </l>
+                            <l>S csak a pezsgő ellen volt kifogás? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(ismét bánatosan)</stage>
+                        <lg>
+                            <l>Óh, az csekélység! képzeld! ránk fogák - </l>
+                            <l>Hogy a báróra hálókat veténk ki, </l>
+                            <l>De ő magát nem hagyta megfogatni. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>De édes Klárikám, hisz ez valóság! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(kifakadva)</stage>
+                        <lg>
+                            <l>De már bocsáss meg, az csak sült hazugság, </l>
+                            <l>Hogy most Etelkát bálba csak azért </l>
+                            <l>Nem visszük - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Mert ő rég eszére tért. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Dehogy! mivel már nem telik mitőlünk; </l>
+                            <l>Mert eddig már mindent magunkra vettünk, </l>
+                            <l>S ez rágalom! - Hát még az adoma, </l>
+                            <l>Melyet miránk az egyik kohola, </l>
+                            <l>S amin jóízüt kacagott a többi. - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Mondd el, talán én is fogok kacagni. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Hogy két leányunkkal mi úgy teszünk, </l>
+                            <l>Mint amikor két kortesnek csak egy pár </l>
+                            <l>Csizmája volt: kettőt nem vihetünk </l>
+                            <l>A bálba, mert nincs pénz, azért csak egy jár. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Ahá, tudom már azt az adomát! </l>
+                            <l>Kocsin vitték őket tisztújitásra, </l>
+                            <l>S csak az egyiknek volt egy pár csizmája: </l>
+                            <l>S ők a világot úgy bolonditák, </l>
+                            <l>Hogy mindenik félcsizmát visele, </l>
+                            <l>És a szekérről azt lógázta le. - <stage>(Kacag.)</stage>
+                            </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Pedig nem úgy van, s ez bosszant! Etelka </l>
+                            <l>Nem megy, mivel nem óhajt menni bálba. </l>
+                            <l>Ez mind hazugság! mégis semmivé tett, <stage>(bánatosan:)
+                                </stage></l>
+                            <l>Mert a magas körök rajtunk nevetnek! - </l>
+                            <l>De ami legjobban fáj: az egyik </l>
+                            <l>Azt állitotta - s hitte mindenik - </l>
+                            <l>Hogy összes birtokunk harmincezer </l>
+                            <l>Forintra sem megy - s ez végképp lever! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Hisz ez igaz. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l> S ennek te vagy oka; </l>
+                            <l>Ezt tőled tudja. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Ez recitiva! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Ez fáj! Ha hallgatsz, azt hinnék felőlünk, </l>
+                            <l>Hogy azon összeg évi jövedelmünk. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Ha mondtam, akkor mondtam azt neki, </l>
+                            <l>Midőn még nem akartuk a világot - </l>
+                            <l>Vagyis magunkat így bolondítani. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Most vége! E hír végképpen levágott! </l>
+                            <l>Azok előtt vagyunk gúny tárgyai, </l>
+                            <l>Kiknek leginkább vágytunk tetszeni. </l>
+                            <l>Én nem megyek több bálba az idén! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Mindig felejted: holnap húshagyó kedd. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Nem; a jövő évben sem megyek én! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Köszönd istennek, hogy álarc alatt </l>
+                            <l>Ily szépen megtudók az igazat. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>De hogyha fele sem igaz! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Elég</l>
+                            <l>Nekünk az is, ha elhiszik felét. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Azért sem ülnek rajtunk győzedelmet! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Ej, ej! a kúra mégsem gyógyított meg? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Igaz! - de hogyha ez mind - Igazad van!... </l>
+                            <stage>(Kitörve ellene:) </stage>
+                            <l>Mért is nem vagy te férfi? úr a házban? </l>
+                            <l>Ha ostromlunk, ellent kell állanod! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Ne félj, ezentul szirt leszek, kemény! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(szelídülve)</stage>
+                        <lg>
+                            <l>Ugy, édes kincsem! - De még van remény; </l>
+                            <l>Mit sem vesztettünk; itt van Rejtei. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Jaj-jaj, ne is említsd! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l> Ő szereti </l>
+                            <l>Leányodat; gazdag, s nőül veszi. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <stage>(haraggal)</stage>
+                        <lg>
+                            <l>Szeretném látni! Egy oly semmiházi! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(szintúgy)</stage>
+                        <lg>
+                            <l>Előbb be kell azt bizonyítanod! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Én bizonyítsak?! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l> S hogyha nem tudod </l>
+                            <l>Bebizonyítni, mért vagy ellene? </l>
+                            <l>Mért bánol oly méltatlanul vele, </l>
+                            <l>Mint a világ velünk bánt? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Éppen az; </l>
+                            <l>Ha ő is: fenn az ernyő, nincsen kas?! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Te a szerencsét lábbal tapodod! - </l>
+                            <l>De ha mint kérő jön - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <stage>(eréllyel)</stage>
+                        <lg>
+                            <l> Hozzám fogod </l>
+                            <l>Őt küldni. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l> Nem ily házi zsarnokot - ! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Ej Klárikám! megint recitiválsz! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Jó, megteendem, mit tőlem kivánsz; </l>
+                            <l>De sokkal inkább szereted Gizellát, </l>
+                            <l>Mintsem világos ésszel át ne látnád, </l>
+                            <l>Lányunk minő házasságot mulaszt - </l>
+                            <l>Főképp, ha én is jónak látom azt! </l>
+                        </lg>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head type="title">NEGYEDIK JELENET</head>
+                    <stage>Etelka (jő), előbbiek </stage>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Atyám, két úr van itt. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Nem ismered? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Hajhászok lesznek, úgy hiszem. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Megyek. </l>
+                            <l>Váltóadósság lesz alkalmasint. <stage>(El.)</stage>
+                            </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(félre)</stage>
+                        <lg>
+                            <l>Gizellával kell szólnom. Rejteit </l>
+                            <l>Elhanyagolta. Nincs mit válogatni. <stage>(El.) </stage></l>
+                        </lg>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head type="title">ÖTÖDIK JELENET </head>
+                    <stage>Etelka (egyedül, az ablakhoz megy) </stage>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Szeles leány! im, még az ablakot </l>
+                            <l>Sem zárta jól be. Aztán nem csoda, </l>
+                            <l>Hogy a fa úgy fogy. - Óh isten! Ez ő! </l>
+                            <stage>(Az ablaktól elugrik:) </stage>
+                            <l>A báró! - Eszerint nem útazott el. </l>
+                            <l>Az csak ürügy volt. Többé nem akart </l>
+                            <l>A házhoz járni. Ah, szegény Gizella, </l>
+                            <l>Ha ezt megtudja, mily rosszúl fog esni! </l>
+                            <l>De tán csalódtam! - <stage>(Ablakhoz megy.)</stage>
+                            </l>
+                            <l> Mert én tegnap is </l>
+                            <l>Őt véltem látni, és - nem ő vala. - </l>
+                            <l>Ő az! - Mi ez? - áttér - e házba jön. - </l>
+                            <l>Talán igaz volt, s útról jött haza. </l>
+                            <l>S most ide jő: - Gizellát szereti; - </l>
+                            <l>Óh, bár ugy volna! Mily boldog leend </l>
+                            <l>Az én Gizellám! Hasztalan tagadja, </l>
+                            <l>Ő mégis legjobban tetszék neki - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#inas">
+                        <speaker>INAS</speaker>
+                        <stage>(jelenti)</stage>
+                        <lg>
+                            <l>Báró Várkövi úr őnagysága. <stage>(El.) </stage>
+                            </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Óh isten! ide jő. - Elfussak-e? - </l>
+                            <l>Gizellát hívom. - Már késő! </l>
+                        </lg>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head type="title">HATODIK JELENET </head>
+                    <stage>Etelka, Várkövi </stage>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <stage>(jő, zavarodva)</stage>
+                        <lg>
+                            <l> Bocsánat! </l>
+                            <l>Lélegzetem a lépcsőn elszorúlt. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Báró ur - kérem - majd inkább anyámhoz </l>
+                            <l>Fogom vezetni. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l> Sőt ellenkezőleg; </l>
+                            <l>A sorsot áldom, mely először is </l>
+                            <l>E rég kivánt szerencsét adja meg. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Azt hittük, báró úr elútazott. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Akartam; hogyha útamat nem állják. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Ennek leginkább fog örvendeni </l>
+                            <l>Anyám - s Gizella. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l> S nagysád. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l> Én? - nem értem. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖKVI</speaker>
+                        <lg>
+                            <l>Szabad nyiltan s őszintén szólanom? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Kérem! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l> S mért járjak mellék-útakon? </l>
+                            <l>Hisz végre is legjobb az egyenes út. </l>
+                            <l>Midőn bucsúztam, a nagysád szemében </l>
+                            <l>Két drága gyöngyöt láttam rezgeni. - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Az - ön csalódott - rosszul látta azt. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Jól láttam én azt; és higgyen nekem, </l>
+                            <l>E könny szivemre a legsúlyosabb </l>
+                            <l>Terhül nehézkedett, és útamat </l>
+                            <l>Egész tengerrel árasztotta el. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Nyiltabban szólva: e könny indokát </l>
+                            <l>Ha sejti, önt gyöngédebbnek hiszem - </l>
+                            <l>S nem fogja magyarázatát kivánni. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Oh nem; de mást sug a remény fülembe. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <stage>(sietve)</stage>
+                        <lg>
+                            <l>Nehogy gyanussá váljék e könyű, </l>
+                            <l>Bevallom, hogy Gizellát illeté. </l>
+                            <l>Okát ön fogja tudni. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l> Akkor is </l>
+                            <l>Drágák valának, mert e gyöngyszemek </l>
+                            <l>A jó testvért legszebben ékiték. </l>
+                            <l>De bár nevessen ki - én is hiú </l>
+                            <l>Vagyok, hiú, mint minden éveimben - </l>
+                            <l>E könnynek én más magyarázatot </l>
+                            <l>Adtam; ha tán csalódtam, bűnhödöm! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Kétségkivűl csalódott. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l> Mért siet </l>
+                            <l>Ezen gyanút cáfolni? ez teszi </l>
+                            <l>Gyanússá; s ez ad új reményt nekem! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Reményt? - Bocsásson meg, megint nem értem. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Éppen azért, nehogy gyöngédtelen </l>
+                            <l>Legyek, csupán talányban szólhatok, </l>
+                            <l>Nem mondom el, hogyan történt szivemben </l>
+                            <l>E változás: De halvány arca volt, </l>
+                            <l>S a könny szemében, mik feledteték </l>
+                            <l>A rózsa arcot s ragyogó szemet - </l>
+                            <l>Azóta szeretem! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l> Felejti, hogy </l>
+                            <l>Gizella testvérének mondja ezt!? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Gizella engem nem szeretett soha! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Ön félreérti - tán rágalmazák - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Nem; ezt tulajdon ajkáról tudom. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Ne higgyen annak; mást mondott nekem. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Ugy nincs remény! Ugy ön sem ismeri, </l>
+                            <l>Mi a valódi tiszta szerelem! - </l>
+                            <l>Ha ő szeretne, nem lett volna folyvást </l>
+                            <l>Vidám, enyelgő és hódoltató. </l>
+                            <l>Ő éppen ugy táncolt, s a bókokat </l>
+                            <l>Oly örömest hallá, mint azelőtt. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Kiméljen azzal, hogy kiméli őt. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Hisz én azért őt nem hibáztatom. </l>
+                            <l>De meg kell győznöm, hogy nem bántja őt, </l>
+                            <l>Ha tán azért reményem teljesül. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>S oly bárgyunak tart, hogy többnek hiszem </l>
+                            <l>Mindezt üres bóknál? - Ön akkor is </l>
+                            <l>Látott, beszélt velem, s mást szeretett. </l>
+                            <l>E változás gyorsabb, mintsem hihetnők. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Nem olyan gyors, mint hinné; mert azon </l>
+                            <l>Nap óta majd mindennap láttam önt, </l>
+                            <l>Elmondatám magamnak szavait. </l>
+                            <l>Valóban szörnyüképp bünös vagyok. </l>
+                            <l>Mert kémszemekkel hálóztam körül. </l>
+                            <l>De higgye el, mindez csak énnekem </l>
+                            <l>Ártott - mert így támadt e szenvedély! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Látott? - azóta bálban nem valék. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Ez fő erénye volt. S én nem is ott </l>
+                            <l>Kerestem önt; hanem - ki fog nevetni! </l>
+                            <l>De föltevém, hogy nem fogok hazudni. - </l>
+                            <l>Midőn piacra vásárolni ment, </l>
+                            <l>Inkognitó, én mint fejedelem, </l>
+                            <l>Vagy inkább, mint szerelmes kis diák, </l>
+                            <l>Nyomában voltam, s végig hallgatám, </l>
+                            <l>Mint alkudott egy óranegyedig </l>
+                            <l>Egy-egy kofával. Láttam, a cseléd </l>
+                            <l>Karján kosárral mint zsémbeskedék: </l>
+                            <l>"Menjünk kisasszony! Nem szégyenli, annyit </l>
+                            <l>Alkudni!" - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l> Báró úr, reám pirít! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Ellenkezőleg, ez is fő erény </l>
+                            <l>Előttem, mert kissé fösvény vagyok. </l>
+                            <l>És láttam aztán, mért fösvénykedik </l>
+                            <l>E kis gazdasszony, s hogy mért alkuszik </l>
+                            <l>Élet-halálra egypár garasért: </l>
+                            <l>Mert amit ekkép meggazdálkodott, </l>
+                            <l>A koldusok közt osztogatta el. </l>
+                            <l>S midőn bevégzé a vásárt, haza- </l>
+                            <l>Küldötte a cselédet a kosárral. </l>
+                            <l>És én azon törtem most fejemet, </l>
+                            <l>Hová fog menni kis gazdasszonyunk? </l>
+                            <l>Kétségkivűl barátnőt látogat meg, </l>
+                            <l>Hogy ami szívét nyomja, elcsevegje? </l>
+                            <l>Óh nem! templomba ment. Utána mentem, </l>
+                            <l>Együtt imádtuk, s tán egy gondolattal </l>
+                            <l>Az Istent, tán ugyanazon szavakkal. </l>
+                            <l>Eltávozott; de arcán látható volt, </l>
+                            <l>Hogy megkönnyebbült szívvel megy haza: </l>
+                            <l>De én nehézült szívvel váltam el; </l>
+                            <l>Mert e perctől szerettem, igazán, </l>
+                            <l>Mélyen s örökre! - Engem ez kötött le; </l>
+                            <l>S ha a bálokra, fényüzésre gondol, </l>
+                            <l>Meg fogja érteni: mi oldozott fel. - </l>
+                            <l>És most tanitson meg, hogy nyerhetem meg </l>
+                            <l>Az ön szivét is! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l> Az nem oly nehéz... </l>
+                            <l>Ne várjon tőlem nyiltabb vallomást, </l>
+                            <l>Mert a multért pirulnom kellene, </l>
+                            <l>Jobbnak hisz, mint amilyen én vagyok. </l>
+                            <l>Erénynek látta, ami gyöngeség volt. </l>
+                            <l>Én nem szerettem úgy testvéremet, </l>
+                            <l>Mint véli - mert - <stage>(elfordított arccal:) </stage></l>
+                            <l> mindig szerettem önt! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>És mégis titkolá! - volt ereje </l>
+                            <l>Titkolni? volt ereje lemondani? </l>
+                            <l>Legszebb erénye volt, mit legnagyobb </l>
+                            <l>Bünének tartott! - Atyjától szabad </l>
+                            <l>Kezét megkérnem? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l> Báró úr, hiszi, </l>
+                            <l>Hogy ez Gizellának nem fogna fájni? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Talán hiúságát megsértheti, </l>
+                            <l>De nem szerelmét! mert hitem szerint </l>
+                            <l>Gizella nem szerelmes senkibe. </l>
+                            <l>Az álgyöngédség áldozatjai </l>
+                            <l>Miért legyünk mi? s boldogtalanok </l>
+                            <l>Azáltal, ami őt sem boldogítja? </l>
+                            <l>Vagy édesanyjával szóljunk előbb? - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Nem, nem; atyámmal. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <stage>(kezet csókol)</stage>
+                        <lg>
+                            <l> Úgy hozzá megyek. <stage>(El.) </stage></l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <stage>(maga)</stage>
+                        <lg>
+                            <l>Óh, csak Gizellának ne fájna ez! </l>
+                            <l>De amit érzett, az nem szerelem: </l>
+                            <l>Vagy az nem az, amit én érezek! </l>
+                        </lg>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head type="title">HETEDIK JELENET </head>
+                    <stage>Gizella, Etelka </stage>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <stage>(jő)</stage>
+                        <lg>
+                            <l>A báró itt van - Terka súgta meg. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Itt volt. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l> Volt? Elment? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Nem</l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l> Hol van tehát? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Atyánkhoz ment. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l> Atyánkhoz? - Tudtam én! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l> - - Mit? Óh szólj! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Hogy visszatér, s nem oly könnyen felejt! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <stage>(félre)</stage>
+                        <lg>
+                            <l>Ha ez való, engem kétségbeejt! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Elútazott, s a mágnes visszavonta. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Ha tán csalódol, s nem az hozta vissza? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Hiszen szeret - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l> S te? - Tán nem szereted? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Inkább a báró, mint e Rejtei. </l>
+                            <l>Ámbár van több is. Például Vizi </l>
+                            <l>Majd megbolondul, oly nagyon szeret. </l>
+                            <l>Aztán a város, mely most azt hiszi, </l>
+                            <l>Hogy ő hagyott el, mérgelődni fog, </l>
+                            <l>Látván, hogy mégis báróné vagyok! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>S ha ő másért jött volna? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l> Azt hiszed? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <lg>
+                            <l>Ez új csalódás fájna-é neked? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Én és kétségbeesni!? - Nem vesz el? </l>
+                            <l>Ugy e szegény bárót sajnálni kell; </l>
+                            <l>Mert többet veszt, mint én nyernék vele. </l>
+                            <l>Sőt - csak választanom ne kellene! - </l>
+                            <l>S így is - galambkedélyemnek köszönje, </l>
+                            <l>Ha a kosártól meg leend kimélve. </l>
+                            <l>Ah, csak az a Rejtei volna más; - </l>
+                            <l>Oly jólesnék most a kosáradás! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#etelka">
+                        <speaker>ETELKA</speaker>
+                        <stage>(félre)</stage>
+                        <lg>
+                            <l>Sértett hiúság ez, nem szerelem. <stage>(El.)</stage>
+                            </l>
+                        </lg>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head type="title">NYOLCADIK JELENET </head>
+                    <stage>Klára, Rejtei (jőnek), Gizella </stage>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Kedves Gizellám, ő nyilatkozott - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Szokás szerint bókokkal halmozott. </l>
+                            <l>Nem más az ily bók, mint virágbokréta: </l>
+                            <l>Elvesszük azt, de ritkán tesszük el. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l>Kedves nagysád, s ha most nem volna tréfa? </l>
+                            <l>Ha most komolyan léptem volna fel? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Majd máskor! Farsang van: még most kacagjon! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l>Ne szóljon így, mert bátorságom elhagy. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Ej, oly ijesztő rém vagyok, hogy oly nagy </l>
+                            <l>Bátorság kell ahhoz? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l> Úgy van, kisasszony, </l>
+                            <l>Mert e szavától függ élet-halálom! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Hallgasd ki végre! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <stage>(nevetve)</stage>
+                        <lg>
+                            <l> Élet és halál </l>
+                            <l>Van a kockán?! Siessen, el talál </l>
+                            <l>Különben késni! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l> Tudja, hogy imádom! </l>
+                            <l>Midőn a báró kezdett - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l> Ön imád? </l>
+                            <l>Tudom; de ne felejtse e szavát! - </l>
+                            <l>Tudják-e, hogy a báró visszatért? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l>Mi gondom - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l> Apropos! mit is beszélt </l>
+                            <l>Felőlünk a világ? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l> Hogy kosarat </l>
+                            <l>Kapott. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l> Még nem; de kaphat. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l> Kéz alatt </l>
+                            <l>Én hírlelém azt. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l> Ön mutatta bé; </l>
+                            <l>Valóban ezt nem okosan tevé. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l>Előre tudtam, hogy nem oly veszélyes. </l>
+                            <l>Az ily ősváriak nagyon hasonlók </l>
+                            <l>Várromjaikhoz. Távolról regényes </l>
+                            <l>Látványok ők, közelről szánni méltók, </l>
+                            <l>Lakván előitélet baglyai, </l>
+                            <l>S a gőgnek fúlánkos kigyójai. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Igaz! kik azt hiszik, mert gazdagok, </l>
+                            <l>Egyébbel már nem is kell bírniok! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l>Gazdag? - a báró gazdag? - az lehetne, </l>
+                            <l>Ha az adósság kevesebbre menne. </l>
+                            <l>Nagysád! midőn az ily ősváriak </l>
+                            <l>Magas romok közűl leszállanak, </l>
+                            <l>S alantabb régiókban keresik </l>
+                            <l>A nőt; keresik, ami nincs nekik: </l>
+                            <l>A pénzt; és szabadulni vágynak attól, </l>
+                            <l>Ami sok is van: adósságaiktól. </l>
+                            <l>Mert most a váltók és a szóbeli </l>
+                            <l>Rövid perek az ég mennykövei; </l>
+                            <l>Éppúgy sujtják a kastély urait, </l>
+                            <l>Mint azt, ki völgyben őrzi barmait. </l>
+                            <l>Most mind szatócsok, kalmárok vagyunk; </l>
+                            <l>Szemünk a mérlegen kell tartanunk, </l>
+                            <l>Hogy a bevétel súlyegyenbe légyen </l>
+                            <l>A kiadással a két serpenyőben. </l>
+                            <l>Ha több a kiadás csak egy szemerrel, </l>
+                            <l>Ha az csak egy hajszálnyival lebillen, </l>
+                            <l>A légbe röppen az egész bevétel. </l>
+                            <l>Mert az adósság úgy nő, mint a láncszem, </l>
+                            <l>Egy-egy nullával nyúlik minden évben. </l>
+                            <l>Mert átkozott a prolongáció, </l>
+                            <l>Azáltal lesz százból egy millió. </l>
+                            <l>Van példa rá! Azért én ötezernél </l>
+                            <l>Nem költök többet. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l> Annyiból megél </l>
+                            <l>Egy kis család. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l> Ah, mily mulattató, </l>
+                            <l>Váltójogból ez a prelekció! </l>
+                            <l>Atyám ügyvéd, s a lány bosszankodik, </l>
+                            <l>Ha apja mesterségét emlitik. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Ő ezzel azt akarja mondani - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Hogy ötezer forint is valami. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l>Ments isten! Én megkérem szép kezét - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Ha arra majd én felhatalmazom. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(Rejteihez)</stage>
+                        <lg>
+                            <l>Megleptük őt. Engedjen szólanom; </l>
+                            <l>Én majd meggyőzöm szívét és eszét. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <stage>(zsebkendővel törölve szemeit)</stage>
+                        <lg>
+                            <l>Elfojtnak úgy is szűmnek árjai! <stage>(Hátravonul.) </stage></l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Anyám, mit gondol? Én és Rejtei! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Tán azt hiszed, hogy mi gazdagok vagyunk? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Amit mamácska mondott, azt hiszem: </l>
+                            <l>Atyám dusgazdag, s még mi várhatunk; </l>
+                            <l>S én ezt az embert nem szenvedhetem! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Csalódás volt; atyád majdnem szegény - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Úgy mit jelent ez a fejdelmi fény? </l>
+                            <l>S anyám azt véli, ezzel rám ijeszt? </l>
+                            <l>Én mind Etelkának hagyandom ezt; </l>
+                            <l>A hozományt én nélkülözhetem. <stage>(Azok jőnek.) </stage></l>
+                            <l>Mindjárt meglátja, hogy azt tehetem! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(félre)</stage>
+                        <lg>
+                            <l>Én ástam a vermet magunk alatt! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <stage>(félre)</stage>
+                        <lg>
+                            <l>Most értem! mellőz e vágytárs miatt! </l>
+                        </lg>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head type="title">KILENCEDIK JELENET </head>
+                    <stage>Donátfi, Várkövi, Etelka (már előbb jöttek), előbbiek </stage>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <stage>(anyjához, Várkövit mutatva súgja)</stage>
+                        <lg>
+                            <l>Egy kis meglepetés! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l> Ah, Várkövi!? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <stage>(súgva)</stage>
+                        <lg>
+                            <l>Ezért kapott kosarat Rejtei! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Okos gyerek vagy! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Kedves feleség, </l>
+                            <l>Örömhír! a báró lányunk kezét </l>
+                            <l>Megkérte. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l> Ez valóban meglepő! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <stage>(félre)</stage>
+                        <lg>
+                            <l>S ha kosarat adnék! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <stage>(félre)</stage>
+                        <lg>
+                            <l> Tudta, hogy ő </l>
+                            <l>Van a játékban! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <stage>(Etelkát anyjához vezeti)</stage>
+                        <lg>
+                            <l> Áldásért esengünk! </l>
+                            <l>Donátfi úr már megáldotta frígyünk. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(bámulva és örömmel)</stage>
+                        <lg>
+                            <l>Mi? mit? - Etelka?! - Báró úr, valóban </l>
+                            <l>Ez oly váratlan, mintha álom volna! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <stage>(fére)</stage>
+                        <lg>
+                            <l>No most majd én is jó leszek neki! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Épp igy csudálkoztam; de Várkövi </l>
+                            <l>Megmagyarázta - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l> Hogy szerettük egymást! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>De hát miért volt e nagy titkolódás? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Rossz testvér, nem volt hozzám bizodalmad! </l>
+                            <stage>(Megöleli)</stage>
+                            <l>Nem! legjobb testvér széles e világon! <stage>(Súgva:)
+                                </stage></l>
+                            <l>Mert most belátom, most tisztán megértem, </l>
+                            <l>Te áldozat akartál lenni értem! </l>
+                            <l>E kis csalódás nem fáj énnekem. <stage>(A báróhoz:) </stage></l>
+                            <l>Szeresse őt úgy, mint én szeretem! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Báró ur, hogyha mindez nemcsak álom, </l>
+                            <l>Akkor boldog csalódás, s én megáldom! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <stage>(félre)</stage>
+                        <lg>
+                            <l>Rajtunk a sor! - Kérem nagysádtokat, </l>
+                            <l>Hogy az áldással gazdálkodjanak, </l>
+                            <l>Annak felére én tartok igényt - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <lg>
+                            <l>Előbb engedjen engem szólanom. </l>
+                            <l>Nekem negyedrész áldás nem elég, </l>
+                            <l>S így a féláldást meg nem oszthatom. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(titkon)</stage>
+                        <lg>
+                            <l>De miután - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#gizella">
+                        <speaker>GIZELLA</speaker>
+                        <stage>(szintúgy)</stage>
+                        <lg>
+                            <l> Még jobbat is kapok. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <stage>(Rejteihez)</stage>
+                        <lg>
+                            <l>Ön azt hiszi, hogy én gazdag vagyok? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l>Óh kérem, arra én nem gondolok. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>De minthogy a Gizella hozománya </l>
+                            <l>Csak tízezer forint lesz, ön belátja - </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l>Oh kérem; én és a nagylelküség </l>
+                            <l>Egy nap születtünk. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l> Önnek az elég </l>
+                            <l>Csak másfél évre volna. Miután </l>
+                            <l>Ön minden évben négy-ötezret ad ki, </l>
+                            <l>S miután csak tizezer a hozomány, </l>
+                            <l>S öntől előbb négyezret kell levonni; </l>
+                            <l>Több nem marad, csak hatezer forint. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l>Tőlem levonni?! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <stage>(egy csomó váltót mutat)</stage>
+                        <lg>
+                            <l> E váltók szerint - </l>
+                            <l>Most kaptam. - S minthogy ön nem tud fizetni, </l>
+                            <l>Becses személyét fogjuk még ma kérni. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <stage>(magában)</stage>
+                        <lg>
+                            <l>Leányát kérem, s ím - ő engemet kér! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>De hát mi ez? </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l> Az álarc mit sem ér, </l>
+                            <l>Ha a farsang lejár. Váltóm lejárt, </l>
+                            <l>S konok hitelezőm engem bezár. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <lg>
+                            <l>Ön minket eszerint csak ámitott?! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l>Bocsánat! itt csak én lőttem bakot. </l>
+                            <l>Én lepke voltam, fényes külsejű, </l>
+                            <l>Csapongó, s éppoly rövid életű. </l>
+                            <l>A fény s divat szerelme felkapott, </l>
+                            <l>De Spitzenberger a földhöz csapott. </l>
+                            <stage>(Gizellára nézve:) </stage>
+                            <l>Azt hittem, Ámor majd uj röptet ad; </l>
+                            <l>De hajh, az is csak elpergelte szárnyamat! </l>
+                            <stage>(Donátfihoz:) </stage>
+                            <l>De tennék egy okos ajánlatot. </l>
+                            <l>Ha Spitzenberger engem becsukat, </l>
+                            <l>Naponként egy húszast kell adnia, </l>
+                            <l>S a pénzét mégsem kapja meg soha; </l>
+                            <l>De hogyha nem csukat be, megmarad </l>
+                            <l>Az a húszas; azt naponként adja ki </l>
+                            <l>Százhúsz percentre: így törlesztheti </l>
+                            <l>Az én adósságom pár év alatt. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Barátocskám, tán jobb lesz e tanács: </l>
+                            <l>Szived nem romlott, tudsz is valamit; </l>
+                            <l>Keress magadnak jobb alkalmazást: </l>
+                            <l>Gazdálkodjál, mert csak az gazdagit. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l>Ez Spitzenbergtől meg nem szabadit! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#varkovi">
+                        <speaker>VÁRKÖVI</speaker>
+                        <lg>
+                            <l>Műszóval: én majd arranzsírozom. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#rejtei">
+                        <speaker>REJTEI</speaker>
+                        <lg>
+                            <l>Óh szabadíts meg ettől a gonosztól; </l>
+                            <l>Több kísértetbe nem hoz, fogadom! </l>
+                        </lg>
+                    </sp>
+                    <sp who="#klara">
+                        <speaker>KLÁRA</speaker>
+                        <stage>(Donátfihoz halkan)</stage>
+                        <lg>
+                            <l>Barátom, légy ur a háznál magad; </l>
+                            <l>Látom, neked volt mindig igazad. </l>
+                        </lg>
+                    </sp>
+                    <sp who="#donatfi">
+                        <speaker>DONÁTFI</speaker>
+                        <lg>
+                            <l>Bölcs férj vagyok én a teóriába', </l>
+                            <l>De gyönge in praxi! De tán okúltunk; </l>
+                            <l>S a súlyegyent, melyen fennáll Evrópa, </l>
+                            <l>Mi is fenntartjuk - csak ne tántorodjunk! </l>
+                        </lg>
+                    </sp>
+                </div>
+             </div>
         </body>
     </text>
 </TEI>

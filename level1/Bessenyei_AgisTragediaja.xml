@@ -1108,1539 +1108,1539 @@
 						<stage>Vége az első játéknak</stage>
 					</stage>
 				</div>
-				<div type="act">
-					<head type="title">MÁSODIK JÁTÉK</head>
-					<div type="scene">
-						<head type="title">Első jelenés</head>
-						<stage>DEMÓKARES, LEÓNIDAS.</stage>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Demókares, mit kér a’ tévelygő község?</l>
-								<l>Lehet-é Spártába hartz nélkül egyesség?</l>
-								<l>Me’dig félthetem még tőlök trónusomat?</l>
-								<l>Mikor’ terjeszthetem rajtok hatalmamat?</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Nagy Király, a’ népnek sokat kell szenyvedni,</l>
-								<l>Hamar hibájokat, meg-lehet engedni.</l>
-								<l>Ez a’ szegény község, vér’ verejtékével</l>
-								<l>Tartja Világunkat, gazdag értékével:</l>
-								<l>Tsak a' tudományok, hogy mindég dolgoznak</l>
-								<l>’S mezőkön, hadakba fáradván izzadnak.</l>
-								<l>Ha egy-ügyüségek, lármát tesz’ is néha,</l>
-								<l>Nem kell el-veszteni életeket soha:</l>
-								<l>Tsak azért lármáz most Spártának községe.</l>
-								<l>Hogy adósságával, nagyra ment ínsége.</l>
-								<l>De ha illy terhektől meg-szabadúlnának,</l>
-								<l>Királyok előtt még térdre húllanának;</l>
-								<l>A’ pártot-ütöttek' erejek vesztenék,</l>
-								<l>Mihelyt segedelmek’, ezekbe, nem lelnék.</l>
-								<l>Ágis, Kleombrotes, Ágézilaussal,</l>
-								<l>Nem állhatnának úgy szembe a’ trónussal,</l>
-								<l>A’ Király’ adó is pénzt szedvén magára,</l>
-								<l>Me’nyi kintset nem veszt a' sok u'zorára!</l>
-								<l>De ha adósságink, mind el-töröltetnek;</l>
-								<l>Dúló szél-veszeink, meg-tsendesíttetnek.</l>
-								<l>A’ nép, magához jő szabadúlásával,</l>
-								<l>Híven meg-egyezik igaz Királyával.</l>
-								<l>Veszteket, el-érik így, az el-pártoltak,</l>
-								<l>Kik székedbe uram, méltatlan vádoltak.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Demókares, érzem hasznom, tanátsodból,</l>
-								<l>Bóldogságom' nézem-ki minden szavadból.</l>
-								<l>Az adósságokról írt kötés levelek.</l>
-								<l>Egettessenek-meg: én is így rendelek.</l>
-								<l>Meg-határozta már eztet nagy tanátsunk.</l>
-								<l>Ne szegezzük mi is, hát ellenbe magunk’,</l>
-								<l>Sijess Demókares, kiált’ni a" népnek,</l>
-								<l>Hogy hasznát várhatják méltó kéréseknek,</l>
-								<l>Örök Isteneink a’ nagy Olympusról,</l>
-								<l>Kegyelmes végezést tettek ma sorsunkról.</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Uram, a’ hű Királyt, (ha népének Atyja)</l>
-								<l>A’ ki nem őrizi. Hazájának fatyja:</l>
-								<l>A’ sok tanáts, sok ként rontja Országunkat;</l>
-								<l>De egy igaz Király, jól viszi dolgunkat.</l>
-								<l>Szabadságunk, veszély sok tudatlanságnak;</l>
-								<l>Büntető trónus kell a’ rósz makatsságnak.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Demókares, láttam a’ tanátsosokat</l>
-								<l>Gyakran, mi-ként nyomtak sok ártatlanokat;</l>
-								<l>Hogy nagy hatalmaknak káráról ne tudjak,</l>
-								<l>’S törvényinknek titkosjajáról ne halljak.</l>
-								<l>Az erö-szak alatt, sok-szor sok ártatlan</l>
-								<l>Nyögött, üldöztetvén közöttünk6 méltatlan.</l>
-								<l>Kitsinységért, hánynak rontjuk-el léteket,</l>
-								<l>Kik bakatellákkal, vesztik életeket.</l>
-								<l>A’ régen szőtt törvény, gyakorta parantsol</l>
-								<l>Ott is halált, hol a’ természet nem vádol.</l>
-								<l>A’ Lelki-isméret, bennünk reszketvén, fél;</l>
-								<l>Midőn nyelvünk, sok főt halálára ítél.</l>
-								<l>Illy hibájit köztünk, tanátsunk teheti —</l>
-								<l>Mellynek veszélyét egy Király, el-veheti.</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Nem szól így az, a’ki nem Atyja Népének;</l>
-								<l>Fija Leónidás, örök Istenének.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Demókares, hív vagy, jere trónusomhoz;</l>
-								<l>Téged’ választalak tanátsúl magamhoz.</l>
-								<l>Melly édes öröm, egy Ország’ Királyának,</l>
-								<l>Ha hívségét látja hozzá jobbágyának!</l>
-							</lg>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Második jelenés</head>
-						<stage>ÁGÉZILAUS, ÁMFARES.</stage>
-						<sp who="#agezilaus">
-							<speaker>ÁGIZÉLAUS</speaker>
-							<lg>
-								<l>Ámfares, látod ma Spártának Keservét.</l>
-								<l>Isméred-é vele Királyod félelmét?</l>
-								<l>A’ pártot ütöttek’ seregi közt járván,</l>
-								<l>Háborgók magam is, szerentsémet várván.</l>
-								<l>Tselekedetemnek okát, nem titkolom;</l>
-								<l>Szándékom’ előtted barátom ki-vallom.</l>
-								<l>Ne véld Leónidás ellen párt-ütésem’,</l>
-								<l>Minden lármám’ e’dig tsak kéntelen tettem.</l>
-								<l>A’ sok adósság nyom, azért fáradozok,</l>
-								<l>És hiszem, hogy veled, meg is szabadúlok.</l>
-								<l>Ha ezek váltunkról, egy-szer le-vétetnek.</l>
-								<l>Likurgus’ törvényi, még porba eshetnek.</l>
-								<l>Kleombrot’ és Ágis, magok’ védelmezzék,</l>
-								<l>’S nálam nélkül dolgok’, mint lehet intézzék.</l>
-							</lg>
-						</sp>
-						<sp who="#amfares">
-							<speaker>ÁMFARES</speaker>
-							<lg>
-								<l>Meg-értettem Vitéz, el-titkolt tzélodat,</l>
-								<l>Mind úgy veszem, a' mint mondottad, szavadat;</l>
-								<l>És színességedet, magamba tsudálom:</l>
-								<l>Tselekedetedet, szívembe vádolom.</l>
-								<l>Egy férj-fi, mindenkor’ egy Lelket viseljen’,</l>
-								<l>Hogy nyelvének, soha hazudni ne kelljen.</l>
-								<l>Minddég egyet mutat a’ természet bennünk,</l>
-								<l>Azért, tsalárdsággal kettősök ne legyünk.</l>
-								<l>Tsak a’ tisztességért sóhajthat egy Vitéz,</l>
-								<l>Ki ditsőségére, egyenes úton néz.</l>
-								<l>Gyalázatnak tartja, színességgel nyerni,</l>
-								<l>Tsak fegyverrel, ’s szívvel lehet néki verni.</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>Illy feleletedet, Ámfares nem kértem;</l>
-								<l>Vitéz erköltsödet, hidd-el, hogy jól értem —</l>
-								<l>A’ tsalárd színesség, tudom alatsonyság,</l>
-								<l>Mellyel meg-romlik, sok szegény ártatlanság.</l>
-								<l>De igaz ügyünket, lehet védelmezni,</l>
-								<l>Ha méltatlanéi kell sebünket érezni.</l>
-								<l>Job színes manérral tenni nyereséget;</l>
-								<l>Mint fegyverrel ölni a’ vélt ellenséget.</l>
-								<l>Kleombrot’ ’s Ágisnak, színelem magamat,</l>
-								<l>De nem kárhoztatom, el-hihedd dolgomat,</l>
-								<l>Egy trónust őrzök most a’ párt-ütés ellen,</l>
-								<l>’S akár-mit tselekszem, nem vagyok hitetlen.</l>
-								<l>
-									<stage>Ágiaris, és Télónis, e’kor ’ a Játék-piatznak fenekébe
-                                        állanak, ’S Ágézilausnak beszédét, kihalgatván, míg a ’
-                                        Vitézek el-nem mennek, magokat sem jelentik, sem elő-nem
-                                        indúlnak</stage>
-								</l>
-							</lg>
-						</sp>
-						<sp who="#amfares">
-							<speaker>ÁMFARES</speaker>
-							<lg>
-								<l>Jupiter' ügyébe is lehet gonoszság,</l>
-								<l>Mi-helyt színleltetik érte a’ barátság.</l>
-								<l>Ez az érzékenység, szent tűz lett szívünkbe;</l>
-								<l>’S tsak ő is nemesít leg-inkább értünkbe.</l>
-								<l>A’ ki ezt nem érzi; világunk közepén</l>
-								<l>Magánosán bujdos, széllyel tévelyegvén.</l>
-								<l>Megyek; itt maradsz-é, vagy jösz a’ Királyhoz?</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>El-megyek, hogy férjek jobban trónusához.</l>
-							</lg>
-							<stage>el-mennek</stage>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Harmadik jelenés</head>
-						<stage>ÁGIARIS, TÉLÓNIS.</stage>
-						<stage>
-							<stage>A Játék-piatz fenekéből, tsendesen, mind ketten
-                                        elő-jőnek.</stage>
-						</stage>
-						<sp who="#telonis">
-							<speaker>TÉLONIS</speaker>
-							<lg>
-								<l>Ágiaris, hallád ezt az ördögséget?</l>
-								<l>Istenek, verjétek az illy veszettséget!</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Télónis, illy módon, sok Vitézek vesznek,</l>
-								<l>Kik a’ vadaknál is mérgesebbek lesznek.</l>
-								<l>Egy-más ellen törvén, pusztítják Nemeket,</l>
-								<l>'S alatsonságokkal motskolják Lelkeket.</l>
-								<l>Mind igazság nálok, valamit akarnak:</l>
-								<l>Minden veszettséget, szép színnel takarnak.</l>
-								<l>Egyike, másikát halálra ítéli,</l>
-								<l>Mert tsak ő benne szóll Istene, úgy véli.</l>
-								<l>Tsalással, erővel, szövik dolgaikat,</l>
-								<l>Lelkek ellen, hordják-elő szavaikat.</l>
-								<l>Töbnyire, tsak külön’ hasznokért fáradnak;</l>
-								<l>Mellynek nyerésébe, Eget, földet dúlnak.</l>
-								<l>Fel-fúvalkodások, Olimpushoz is vér</l>
-								<l>Eletekkel, minden alatsonyság, meg-fér.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>Ágiaris, hidd-el, hogy-az emberi Nem,</l>
-								<l>Mint most, olly erősen nem volt még ellenem.</l>
-								<l>De ma már, meg-vetvén kívánt békességét;</l>
-								<l>Méreggel keveri Isteninknek Egét.</l>
-								<l>Kiki, igazsága mellet fegyverkezik:</l>
-								<l>Minden magát őrzi, ’s azért vérengezik:</l>
-								<l>Egyik vad, másikba ha magát fel-leli,</l>
-								<l>Nem öldökli Nemét: formáját tiszteli;</l>
-								<l>De az ember önként vesztegeti magát</l>
-								<l>Nem tekintvén faján, első méltóságát.</l>
-								<l>A veszedelmes sors! Kínos történetek!</l>
-								<l>Mit végeztek rólunk ma a’ búsúlt Egek!</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Télónis, fordítsuk-el vérengezésünk',</l>
-								<l>Nyomjuk-meg Spártába ma ellenkezésünk'.</l>
-								<l>Kleombrot’, ’s Ágisnak tudtokra kell adni,</l>
-								<l>Hogy nem lehet tovább dolgokba haladni.</l>
-								<l>Éltek, minden felől lásd, mint árúltatik,</l>
-								<l>A’ sok titkos tanáts tőlünk sem tudatik.</l>
-								<l>Minek áldozzák-fel magokat Spártáért?</l>
-								<l>Miért veszítsenek bennek olly nemes vért?</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLONIS</speaker>
-							<lg>
-								<l>Az ember, minden kor’ maga kezdi vesztét.</l>
-								<l>És Istenink őrzik osztán tsak életét,</l>
-								<l>A’ sebet, egy tsapás könnyen fel-szakasztja;</l>
-								<l>Mellynek színét flastrom, ’s sok idő forrasztja.</l>
-								<l>Belé-szökött Spárta, mai veszélyébe;</l>
-								<l>Sok Vitéz el-húnyhat nemes életébe.</l>
-								<l>Lássuk Ágiaris, dolgunk’ hogy tehetjük.</l>
-								<l>Ah ha Hazánkról e’ veszélyt le-vehetjük!</l>
-								<l>Me’nyi öröme lesz el-fáradt szívünknek,</l>
-								<l>Millyen tisztába jő napja életünknek.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Te vehetsz töb erőt itt a’ veszedelmen,</l>
-								<l>Néked enged Atyád tsak, tetszése ellen.</l>
-								<l>Lágyítsd-meg nagy szívét, a’ hú természettel:</l>
-								<l>Ne légy soha hozzá kemény felelettel.</l>
-								<l>Tanítsd férjedet is, engedelmeskedni:</l>
-								<l>Királlyal, egy főnek nehéz vetekedni.</l>
-								<l>Ha el-hagyja a’ nép, mit tesz’ életével;</l>
-								<l>Hová rejti magát gyötrelmes létével?</l>
-								<l>Tudod — egy trónusnak melly hoszszak kezei;</l>
-								<l>A’ tengeren is túl-hatnak fegyverei.</l>
-								<l>A'dig kell hóldolni, a’ míg remélhetünk,</l>
-								<l>Veréstől, haláltól egy-szerre félhetünk.</l>
-								<l>Nagy fúlánkja van egy Király hatalmának;</l>
-								<l>Ha tárgyát meg-kapja búsúlt haragjának.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLONIS</speaker>
-							<lg>
-								<l>Hogy győzzem Kleombrot’ büszke vitézségét?</l>
-								<l>Miként tsendesítsem Leónidás’ mérgét?</l>
-								<l>Vitézeink, a'mit magokba fel-tesznek,</l>
-								<l>Mint azt meg-tagadják, inkáb mind el-vesznek</l>
-								<l>Sok él’tet rontott már az illyen kevélység!</l>
-								<l>Tudod, hogy ver köztünk ez a’ büszke ínség.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Ne rettenj előre még a’ dologtól-el;</l>
-								<l>Sokat végbe lehet vinni egy nagy szívvel.</l>
-								<l>Menjünk tanátskozni bölts férj-fiainkkal.</l>
-								<l>Kik nem tudnak élni szabadságainkkal,</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLONIS</speaker>
-							<lg>
-								<l>Férj-fijak! férj-fijak! ti földi Istenek.</l>
-								<l>Me’nyi tsudát tettek belétek az Egek!</l>
-							</lg>
-							<stage>el-mennek</stage>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Negyedik jelenés</head>
-						<stage>DEMÓKARES, KLEOMBROTES.</stage>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Demókares, tudod a’ Király tetszését?</l>
-								<l>Me’dig véled reánk tömi rendelését.</l>
-								<l>A’ nép nem szűnik-meg; kiált szüntelenül;</l>
-								<l>Szenyved sérelme közt járva büntelenül.</l>
-								<l>Mi lesz vége, részeg történeteinknek?</l>
-								<l>Hogy van akaratjok rólunk Isteninknek?</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Kleombrot’, a’ trónus még szüntelen dörög;</l>
-								<l>Menny-köve, Spártának falai közt görög.</l>
-								<l>Hánykódik közöttünk búsúlt méltósága;</l>
-								<l>Nevekedik mérge, és hatalmassága.</l>
-								<l>Agissal a’ népet együvé gyűjtitek,</l>
-								<l>A’ fő méltóságot, úgy sértegetitek.</l>
-								<l>De el-fordúl e’ rósz még Leónidásról.</l>
-								<l>A’ki osztán törvényt oszt majd trónusáról.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Az Ég’ igazsága egyedül Királyom,</l>
-								<l>Hidd-el, hogy e’ szerént követem is dolgom</l>
-								<l>Tsak hadd menny-dörögjön Leónidás köztünk,</l>
-								<l>El-nem fog-változni haragjára szívünk.</l>
-								<l>Minden jövedelmünk úgyis, mint itt talál</l>
-								<l>Nem egyéb, hanem tsak egy érdemes halál.</l>
-								<l>Szívembe, még ollyan dolog nem tenyészett,</l>
-								<l>A’mit gonoszságnak mondott a’ természet;</l>
-								<l>Meg-halhatok e’nek nagy igazságáért;</l>
-								<l>Ditsősség törvénye mellet ontani vért.</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Mitsoda igazság egy Királyra törni?</l>
-								<l>’S hogy ő el-enyészszen, embereket ölni?</l>
-								<l>A’ ki Hazájának trónusára dúl fúl,</l>
-								<l>Ollyan, mint egy gyermek, ki maga el-fajúl:</l>
-								<l>Meg-veszvén, haraggal támad hű Atyjára,</l>
-								<l>Ki méltán gerjedhet hitetlen fatyjára.</l>
-							</lg>
-						</sp>
-						<sp who="#kleomrotes">
-							<speaker>KLEOMROTES</speaker>
-							<lg>
-								<l>A’melly Király elég az úralkodásra,</l>
-								<l>Veszszen el, ki fel-kél véle tsatázásra;</l>
-								<l>De hogy ha a’ nép nyög kínos fájdalmába,</l>
-								<l>Ne hagyjuk rómlani halálosjármába.</l>
-								<l>Az Égnek, ’s trónusnak rósz magyarázatja,</l>
-								<l>Kínja közt népünket, gyakran el-altatja;</l>
-								<l>Melly, ha tsak magától nem emelkedhetik,</l>
-								<l>Szerentsés az, kitől védelmeztethetik.</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Leónidás tudod Atyja volt népének,</l>
-								<l>Emberi munkájit láttuk nagy szívének:</l>
-								<l>E’dig te is minddég Atyádnak ismérted,</l>
-								<l>Noha most magadat, ellene-szegezted.</l>
-								<l>Hidd-el; az ok nélkül meg-sértetett jóság,</l>
-								<l>Ellenünk, minden kor’ büntető igazság.</l>
-								<l>Mit akarsz kezdeni a’ szegény községgel?</l>
-								<l>Melly végezés szerént származik ínséggel.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Istent, ’s természetet védelmezek benne,</l>
-								<l>Tudod nála nélkül Király úr nem lenne.</l>
-								<l>Ö tőle veszszük-el kóldúlt kenyérünket,</l>
-								<l>Verejtékkel tartják büszke életünket:</l>
-								<l>Azért szolgál ő úgy, hogy tsak igazságot</l>
-								<l>Fizessünk sorsának, ’s nem háborúságot.</l>
-								<l>Mint kevély kóldúsok, ki-szíjjuk véreket,</l>
-								<l>’S felül jutalomért el-nyomjuk él’teket.</l>
-								<l>Adjuk-meg nekik is a’ mivel állhatnak,</l>
-								<l>Tsináljuk magunkat, hív ’s igaz bíróknak.</l>
-								<l>Jobbágyink’,törvények kívánják tsak tőlünk;</l>
-								<l>Külömben örömest izzadnak érettünk.</l>
-								<l>Ha el-veszszük tőlök kínos adójokat,</l>
-								<l>Hordozzuk igazság szerént hát dolgokat.</l>
-								<l>Mint herék, ne szíjjunk rótok izzadtságot,</l>
-								<l>A’ Lelkekből nekik tegyünk igazságot.</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Vér-ontással kell hát igazságot tenni?</l>
-								<l>Nem lehet más módon Kegyelmesnek lenni?</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>A’ sértett igazság, ha áldozatot kér,</l>
-								<l>Ki-omolhat érte, mind rósz, mind igaz vér.</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Nem engedik-é hát továb az Istenek,</l>
-								<l>Hogy észszel tegyenek törvényt az emberek?</l>
-								<l>Királyaink közöt minddég meg-maradjon</l>
-								<l>Az hartz, hogy Világunk töb vérrel izzadjon.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Törvényre nem fegyvert adtak az Istenek.</l>
-								<l>Hanem belénk a’ra tsak bölts Lelket tettek —</l>
-								<l>Tsupa oltalomra kelhet-fel a’ fegyver;</l>
-								<l>Meg-veszett egy ollyan, ki büszkeségből ver.</l>
-							</lg>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Ötödik jelenés</head>
-						<stage>DEMÓKARES, KLEOMBROTES, ÁGÉZILAUS, ÁGIS</stage>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>Figyelmetes lévén hív tiszteletedre,</l>
-								<l>Kleombrot", érkezem meg-ölelésedre.</l>
-								<l>Tudod-é már köztünk a’ sors' rendelését?</l>
-								<l>’S Olimpusnak rajtunk meg-tett végezését?</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Halandóságomtól, még a’ nagy Istenek,</l>
-								<l>E’ szem-pillantásig, mindent el-fedeztek.</l>
-								<l>Szívünkbe, kétséggel tévelyeg reményünk,</l>
-								<l>A’ háborúk között tsatáz bús életünk.</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>Meg-nyertem barátit lásd Leónidásnak.</l>
-								<l>Engedelmeskedni kell már a" trónusnak.</l>
-								<l>Likurgus’ törvénye — fel-állíttathatik;</l>
-								<l>’S szentségével a’ nép igazgattathatik.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Mi igazgathatja e'képen szívetek’?</l>
-								<l>Demókares már tsak, ki nem tart veletek?</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Ha a’ Vitéz sereg így végzett sorsunkról,</l>
-								<l>Én is engedelmet ajánlok magamról.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>Halandó sorsunkba, úgy van bóldogságunk,</l>
-								<l>Ha barátság teszi köztünk társaságunk’.</l>
-								<l>Mindenkor’ édeseb nálunk a’ békesség.</l>
-								<l>Mint az erő-szakkal rablót fény, ’s ditsőség.</l>
-								<l>Egyezzünk-meg magunk ma Hazánknak sorsán,</l>
-								<l>Törődjön a’ Király, háborús trónusán:</l>
-								<l>Álljon-fel Likurgus' szabados törvénye,</l>
-								<l>Édesüljön a' nép keserű reménye.</l>
-							</lg>
-						</sp>
-						<sp who="#amfares">
-							<speaker>ÁMFARES</speaker>
-							<lg>
-								<l>Leónidás sem lesz hidjed ma ellenünk,</l>
-								<l>Tzélunkba meg-egyez ó is végre velünk:</l>
-								<l>Ne gondold, hogy népét örömest vesztené,</l>
-								<l>’S sorsát, a’ mint lehet, ne könnyebbítené.</l>
-								<l>Egy Király, Országát, ha öszve-vérezi,</l>
-								<l>Hidd-el, hogy székébe gyötrelmét érezi.</l>
-								<l>A’ meg-lankadott nép, kívánja életé</l>
-								<l>Királyától, viszsza-kéri verejtékét.</l>
-								<l>Leónidás, nem tesz’ hartzot a’ községgel,</l>
-								<l>Melly alatta, úgy is nyomorog ínséggel.</l>
-								<l>Ha pedig valahol magát felejtheti,</l>
-								<l>Az igazság, ’s törvény, Lelkét meg-intheti.</l>
-								<l>Nem mehet egy Király, olly hatalmasságra,</l>
-								<l>Hogy r’á hágjon a’ leg-felsőbb igazságra.</l>
-								<l>Istenünk’ félelme, józan vallásunkkal,</l>
-								<l>Minddég meg-maradnak tanátskozásunkkal.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>A'ki természetünk törvényét isméri,</l>
-								<l>’S a’nak valóságát, tisztelettel féli.</l>
-								<l>Józan embersége, jól tesz’ mindeneket;</l>
-								<l>Igaz vallása is, ’s nem üldöz Lelkeket.</l>
-								<l>Istenink, szívünkbe rejtették magokat;</l>
-								<l>Fel-lelhetjük bennünk, nagy igazságokat.</l>
-								<l>A" természet tanít érezni, gondolni;</l>
-								<l>Isteni törvény ő, neki kell hóldolni.</l>
-								<l>Egy Király, ki eztet benne felejtette,</l>
-								<l>Istenét, vallását, együtt el-vesztette.</l>
-								<l>Ha nyögő árváknál sohajtozást hallunk;</l>
-								<l>Érezze-meg bennünk azt, szánakozásunk.</l>
-								<l>Természetbe lássuk hú természetünket,</l>
-								<l>Védelmezzük vele emberi Nemünket.</l>
-								<l>Nem kell Isteninknek vérrel imádkozni,</l>
-								<l>Igazsággal lehet tsak nekik áldozni —</l>
-								<l>Természetünkbe van minden józan törvény</l>
-								<l>Tsak haszontalanság e’ Világi sok fény.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>Kleombrot. de lásd itt másképen tanítnak</l>
-								<l>Sokan, kit a’ nép közt lármázni hallatnak.</l>
-								<l>Jupiter' nevébe, hartzra ingerelnek,</l>
-								<l>Fegyver nélkül, nyelvvel, ’s vallással véreznek.</l>
-								<l>Királyunk’ trónusán, más Isten parantsol,</l>
-								<l>Kit községeinknek töb Istenek, vádol.</l>
-								<l>A’ két részre osztott okosok tesznek így,</l>
-								<l>Közöttök nem tudnád, inkáb mellyiknek hidj;</l>
-								<l>De tudd-meg barátom, hogy ők tévelyegnek,</l>
-								<l>’S Világi hasznokért. Istentelenkednek.</l>
-								<l>Egy Istene vagyon népnek és Királynak,</l>
-								<l>Jupiter bírája az egész Világnak.</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Hát, ha Királyunkkal, egy Istenünk lehet,</l>
-								<l>Mi az itt e’ földön, mi ő reá-mehet.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>A’ bennünk sértetett Isten’ igazsága,</l>
-								<l>Melly a’ természetnek felső méltósága.</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>Istenink szóljanak Királyunkba mindég,</l>
-								<l>Ezeknek trónusán fénylik, ’s dörög az Ég.</l>
-								<l>Első eszközök ők Jupiter’ kezébe,</l>
-								<l>Ki velek ostoroz emésztő tüzébe:</l>
-								<l>Vernek — jutalmaznak ő bennek az Egek,</l>
-								<l>Úgy élnek közöttünk, mint földi Istenek.</l>
-							</lg>
-						</sp>
-						<sp who="#amfares">
-							<speaker>ÁMFARES</speaker>
-							<lg>
-								<l>Ugyan azért szükség hát a' Királysággal</l>
-								<l>Tanátskozásunkban, szólni igazsággal.</l>
-								<l>Menjünk-el mindnyájan, ma Leónidáshoz;</l>
-								<l>Fordúljon kegyesen, fáradt Hazájához.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>Meg-állanak-é mind e’be a’ Vitézek?</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Én, leg-alább ma itt más-képen nem végzek.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Jerünk hát mindnyájan; lássuk a’ végezést,</l>
-								<l>Jupiter’', tégy köztünk ma, kívánt egyezést!</l>
-							</lg>
-							<stage>el-mennek</stage>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Hatodik jelenés</head>
-						<stage>ÁGISZTRAT, ÁGIARIS.</stage>
-						<sp who="#agisztrat">
-							<speaker>ÁGISZTRAT</speaker>
-							<lg>
-								<l>Ágiaris, tudod már veszedelmünket.</l>
-								<l>Miként oltalmazzuk ma-meg életünket?</l>
-								<l>Nem látom, mit tegyek keserves sorsommal;</l>
-								<l>Úgy tetszik, küszködni kezdek halálommal.</l>
-								<l>Utolsó vesztünkbe, az örök Istenek,</l>
-								<l>Ügyünket el-hagyván, már nem védelmeznek.</l>
-								<l>Jupiter! a’ kinek reszketve kegyelmed’</l>
-								<l>Kérem; méltóztassál nyújtni segedelmed'</l>
-								<l>Magyarázd félelmem’ kínos rettegésit,</l>
-								<l>Mint gyűlt haragodnak első büntetésit.</l>
-								<l>Halálos érzésem, Ágis’ életétől</l>
-								<l>Verd-el; ne érezzek jövendöléséről.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Hertzegné, tsendesítsd méltó keservedet,</l>
-								<l>Éleszszed szíveden édes reményedet:</l>
-								<l>Mikor’ üldöztetvén, bajokkal küszködünk,</l>
-								<l>Reménljük, hogy a’ból tsendességre érünk.</l>
-								<l>Zivatart várhatunk tiszta Egeinkbe:</l>
-								<l>Hamar meg-dördülhet a’ tűz felleginkbe</l>
-								<l>A’ki tengerinkén, szél-veszek között jár,</l>
-								<l>Háborúji után, tsendes időket vár.</l>
-								<l>Ki, jutunk még mi is nagy veszedelmünkből;</l>
-								<l>Ne verjük a’ kedves reményt-el szívünkről.</l>
-								<l>Szenyvédéseink közt bátorsággal legyünk,</l>
-								<l>Él’tünkre, ok nélkül, kínokat ne tegyünk.</l>
-							</lg>
-						</sp>
-						<sp who="#agisztrat">
-							<speaker>ÁGISZTRAT</speaker>
-							<lg>
-								<l>Mind lehetünk bátrak; de ha sebet kaptunk,</l>
-								<l>Azzal, gyötrelmeink ellen — nem állhatunk.</l>
-								<l>Kínos esetink közt, tudomány, böltsesség,</l>
-								<l>Nyugodalmunk helyett, nem elég tsendesség.</l>
-								<l>Fel-nyílt sebeinket velek el-fedezzük.</l>
-								<l>De maró férgeket belólrül érezzük.</l>
-								<l>Akármit tselekszünk, kiált a' természet;</l>
-								<l>Soha böltsességért, kínja nem enyészett.</l>
-								<l>Hogy ha vérzik szívünk, szegény okosságunk,</l>
-								<l>Nehezen űzheti belőlünk fájdalmunk'.</l>
-								<l>Sőt, a’ bő gondolat érzékenységünket</l>
-								<l>Még töbre neveli, terhelvén értünket.</l>
-								<l>A’ böltsesség ollyan, mint egy széles tenger:</l>
-								<l>Szüntelen hánykódik, felleghez, földhöz ver:</l>
-								<l>A’ bátorság pedig, büszke vak-merőség,</l>
-								<l>Ha vérzünk, egyikbe sem lehet tsendesség.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Az ember’ élet, igy tsak haszontalanság,</l>
-								<l>Minden nemű sorsa árnyék, ’s múlandóság.</l>
-								<l>Bátorság, ész, erkölts, hasznunkra nintsenek,</l>
-								<l>Miért teremtettek hát így az Istenek!</l>
-								<l>Téved a’ Hertzegné vélekedésébe,</l>
-								<l>Felettéb hibázik vetélkedésébe.</l>
-								<l>Bátor szív, ész, erkölts, ésjózan természet</l>
-								<l>Egyedül, mellyekbe igazságunk lehet.</l>
-								<l>Az igazság pedig igen nagy valóság,</l>
-								<l>Isteneinkbe is első tulajdonság.</l>
-							</lg>
-						</sp>
-						<sp who="#agisztrat">
-							<speaker>ÁGISZTRAT</speaker>
-							<lg>
-								<l>Tudom nagy valóság az, a’ki teremtett,</l>
-								<l>De a’ mi életünk haszontalanság lett.</l>
-								<l>Formáltatásunkba az erős Istenek,</l>
-								<l>Magyarázhatatlan, mesterséggel élnek.</l>
-								<l>Köztünk minden húmor, magának vezére,</l>
-								<l>Tsak úgy él, mint forog benne heves vére.</l>
-								<l>Itt nyugszik közöttünk a’ törvény, ’s természet,</l>
-								<l>Igazságunk benne, gyakorta el-veszett.</l>
-								<l>Mindent lehet tenni lásd embereinknek,</l>
-								<l>Nem halljuk érettek hartzát Isteniknek.</l>
-								<l>Akárki mit tegyen kínos ínségével,</l>
-								<l>Egy történetet sem függeszt-fel értével.</l>
-								<l>Az örökös-rendnek minden rabjává lett,</l>
-								<l>E’ nagy természeten senki erőt nem vett.</l>
-								<l>Születünk, bámúlunk. jádzunk életünkkel.</l>
-								<l>Szenyvedünk, örülünk, küszködünk szívünkkel.</l>
-								<l>Hányattatásunkban, eszünket forgatjuk,</l>
-								<l>Valóság mibe van, nem határozhatjuk.</l>
-								<l>Tsak a’ nagy Istenek tudnak mindeneket,</l>
-								<l>Kik, magokból fújták-ki teremtéseket.</l>
-								<l>Spárta lármájába, hidjed ma el-múlunk,</l>
-								<l>’S mint száradt levelek, a’ földre le-húllunk.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Hát így szemed előtt, minden semmivé lett,</l>
-								<l>Valamit Jupiter, halandojival tett?</l>
-								<l>Hertzegné, ne fáraszd magadat e’nyire,</l>
-								<l>Ezt tsak nagy fájdalmad okozza többnyire.</l>
-								<l>A’ szív hogy ha szenyved; tűzzel hánykolódik.</l>
-								<l>Lelkünk’ gyötrelmére, meg-homályosodik</l>
-								<l>A’ nagy igazságot, úgy osztán el-vesztjük,</l>
-								<l>’S magunkat az által még inkáb büntetjük.</l>
-								<l>Menjünk-el, nézzük meg a’ bús Vitézeket,</l>
-								<l>’S ha még lehet, mentsük veszélyes él’teket.</l>
-							</lg>
-						</sp>
-						<stage>el-mennek</stage>
-						<stage>
-							<stage>Vége a második Játéknak</stage>
-						</stage>
-					</div>
+			</div>
+			<div type="act">
+				<head type="title">MÁSODIK JÁTÉK</head>
+				<div type="scene">
+					<head type="title">Első jelenés</head>
+					<stage>DEMÓKARES, LEÓNIDAS.</stage>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Demókares, mit kér a’ tévelygő község?</l>
+							<l>Lehet-é Spártába hartz nélkül egyesség?</l>
+							<l>Me’dig félthetem még tőlök trónusomat?</l>
+							<l>Mikor’ terjeszthetem rajtok hatalmamat?</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Nagy Király, a’ népnek sokat kell szenyvedni,</l>
+							<l>Hamar hibájokat, meg-lehet engedni.</l>
+							<l>Ez a’ szegény község, vér’ verejtékével</l>
+							<l>Tartja Világunkat, gazdag értékével:</l>
+							<l>Tsak a' tudományok, hogy mindég dolgoznak</l>
+							<l>’S mezőkön, hadakba fáradván izzadnak.</l>
+							<l>Ha egy-ügyüségek, lármát tesz’ is néha,</l>
+							<l>Nem kell el-veszteni életeket soha:</l>
+							<l>Tsak azért lármáz most Spártának községe.</l>
+							<l>Hogy adósságával, nagyra ment ínsége.</l>
+							<l>De ha illy terhektől meg-szabadúlnának,</l>
+							<l>Királyok előtt még térdre húllanának;</l>
+							<l>A’ pártot-ütöttek' erejek vesztenék,</l>
+							<l>Mihelyt segedelmek’, ezekbe, nem lelnék.</l>
+							<l>Ágis, Kleombrotes, Ágézilaussal,</l>
+							<l>Nem állhatnának úgy szembe a’ trónussal,</l>
+							<l>A’ Király’ adó is pénzt szedvén magára,</l>
+							<l>Me’nyi kintset nem veszt a' sok u'zorára!</l>
+							<l>De ha adósságink, mind el-töröltetnek;</l>
+							<l>Dúló szél-veszeink, meg-tsendesíttetnek.</l>
+							<l>A’ nép, magához jő szabadúlásával,</l>
+							<l>Híven meg-egyezik igaz Királyával.</l>
+							<l>Veszteket, el-érik így, az el-pártoltak,</l>
+							<l>Kik székedbe uram, méltatlan vádoltak.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Demókares, érzem hasznom, tanátsodból,</l>
+							<l>Bóldogságom' nézem-ki minden szavadból.</l>
+							<l>Az adósságokról írt kötés levelek.</l>
+							<l>Egettessenek-meg: én is így rendelek.</l>
+							<l>Meg-határozta már eztet nagy tanátsunk.</l>
+							<l>Ne szegezzük mi is, hát ellenbe magunk’,</l>
+							<l>Sijess Demókares, kiált’ni a" népnek,</l>
+							<l>Hogy hasznát várhatják méltó kéréseknek,</l>
+							<l>Örök Isteneink a’ nagy Olympusról,</l>
+							<l>Kegyelmes végezést tettek ma sorsunkról.</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Uram, a’ hű Királyt, (ha népének Atyja)</l>
+							<l>A’ ki nem őrizi. Hazájának fatyja:</l>
+							<l>A’ sok tanáts, sok ként rontja Országunkat;</l>
+							<l>De egy igaz Király, jól viszi dolgunkat.</l>
+							<l>Szabadságunk, veszély sok tudatlanságnak;</l>
+							<l>Büntető trónus kell a’ rósz makatsságnak.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Demókares, láttam a’ tanátsosokat</l>
+							<l>Gyakran, mi-ként nyomtak sok ártatlanokat;</l>
+							<l>Hogy nagy hatalmaknak káráról ne tudjak,</l>
+							<l>’S törvényinknek titkosjajáról ne halljak.</l>
+							<l>Az erö-szak alatt, sok-szor sok ártatlan</l>
+							<l>Nyögött, üldöztetvén közöttünk6 méltatlan.</l>
+							<l>Kitsinységért, hánynak rontjuk-el léteket,</l>
+							<l>Kik bakatellákkal, vesztik életeket.</l>
+							<l>A’ régen szőtt törvény, gyakorta parantsol</l>
+							<l>Ott is halált, hol a’ természet nem vádol.</l>
+							<l>A’ Lelki-isméret, bennünk reszketvén, fél;</l>
+							<l>Midőn nyelvünk, sok főt halálára ítél.</l>
+							<l>Illy hibájit köztünk, tanátsunk teheti —</l>
+							<l>Mellynek veszélyét egy Király, el-veheti.</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Nem szól így az, a’ki nem Atyja Népének;</l>
+							<l>Fija Leónidás, örök Istenének.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Demókares, hív vagy, jere trónusomhoz;</l>
+							<l>Téged’ választalak tanátsúl magamhoz.</l>
+							<l>Melly édes öröm, egy Ország’ Királyának,</l>
+							<l>Ha hívségét látja hozzá jobbágyának!</l>
+						</lg>
+					</sp>
 				</div>
+				<div type="scene">
+					<head type="title">Második jelenés</head>
+					<stage>ÁGÉZILAUS, ÁMFARES.</stage>
+					<sp who="#agezilaus">
+						<speaker>ÁGIZÉLAUS</speaker>
+						<lg>
+							<l>Ámfares, látod ma Spártának Keservét.</l>
+							<l>Isméred-é vele Királyod félelmét?</l>
+							<l>A’ pártot ütöttek’ seregi közt járván,</l>
+							<l>Háborgók magam is, szerentsémet várván.</l>
+							<l>Tselekedetemnek okát, nem titkolom;</l>
+							<l>Szándékom’ előtted barátom ki-vallom.</l>
+							<l>Ne véld Leónidás ellen párt-ütésem’,</l>
+							<l>Minden lármám’ e’dig tsak kéntelen tettem.</l>
+							<l>A’ sok adósság nyom, azért fáradozok,</l>
+							<l>És hiszem, hogy veled, meg is szabadúlok.</l>
+							<l>Ha ezek váltunkról, egy-szer le-vétetnek.</l>
+							<l>Likurgus’ törvényi, még porba eshetnek.</l>
+							<l>Kleombrot’ és Ágis, magok’ védelmezzék,</l>
+							<l>’S nálam nélkül dolgok’, mint lehet intézzék.</l>
+						</lg>
+					</sp>
+					<sp who="#amfares">
+						<speaker>ÁMFARES</speaker>
+						<lg>
+							<l>Meg-értettem Vitéz, el-titkolt tzélodat,</l>
+							<l>Mind úgy veszem, a' mint mondottad, szavadat;</l>
+							<l>És színességedet, magamba tsudálom:</l>
+							<l>Tselekedetedet, szívembe vádolom.</l>
+							<l>Egy férj-fi, mindenkor’ egy Lelket viseljen’,</l>
+							<l>Hogy nyelvének, soha hazudni ne kelljen.</l>
+							<l>Minddég egyet mutat a’ természet bennünk,</l>
+							<l>Azért, tsalárdsággal kettősök ne legyünk.</l>
+							<l>Tsak a’ tisztességért sóhajthat egy Vitéz,</l>
+							<l>Ki ditsőségére, egyenes úton néz.</l>
+							<l>Gyalázatnak tartja, színességgel nyerni,</l>
+							<l>Tsak fegyverrel, ’s szívvel lehet néki verni.</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>Illy feleletedet, Ámfares nem kértem;</l>
+							<l>Vitéz erköltsödet, hidd-el, hogy jól értem —</l>
+							<l>A’ tsalárd színesség, tudom alatsonyság,</l>
+							<l>Mellyel meg-romlik, sok szegény ártatlanság.</l>
+							<l>De igaz ügyünket, lehet védelmezni,</l>
+							<l>Ha méltatlanéi kell sebünket érezni.</l>
+							<l>Job színes manérral tenni nyereséget;</l>
+							<l>Mint fegyverrel ölni a’ vélt ellenséget.</l>
+							<l>Kleombrot’ ’s Ágisnak, színelem magamat,</l>
+							<l>De nem kárhoztatom, el-hihedd dolgomat,</l>
+							<l>Egy trónust őrzök most a’ párt-ütés ellen,</l>
+							<l>’S akár-mit tselekszem, nem vagyok hitetlen.</l>
+							<l>
+								<stage>Ágiaris, és Télónis, e’kor ’ a Játék-piatznak fenekébe
+                                    állanak, ’S Ágézilausnak beszédét, kihalgatván, míg a ’
+                                    Vitézek el-nem mennek, magokat sem jelentik, sem elő-nem
+                                    indúlnak</stage>
+							</l>
+						</lg>
+					</sp>
+					<sp who="#amfares">
+						<speaker>ÁMFARES</speaker>
+						<lg>
+							<l>Jupiter' ügyébe is lehet gonoszság,</l>
+							<l>Mi-helyt színleltetik érte a’ barátság.</l>
+							<l>Ez az érzékenység, szent tűz lett szívünkbe;</l>
+							<l>’S tsak ő is nemesít leg-inkább értünkbe.</l>
+							<l>A’ ki ezt nem érzi; világunk közepén</l>
+							<l>Magánosán bujdos, széllyel tévelyegvén.</l>
+							<l>Megyek; itt maradsz-é, vagy jösz a’ Királyhoz?</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>El-megyek, hogy férjek jobban trónusához.</l>
+						</lg>
+						<stage>el-mennek</stage>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Harmadik jelenés</head>
+					<stage>ÁGIARIS, TÉLÓNIS.</stage>
+					<stage>
+						<stage>A Játék-piatz fenekéből, tsendesen, mind ketten
+                                    elő-jőnek.</stage>
+					</stage>
+					<sp who="#telonis">
+						<speaker>TÉLONIS</speaker>
+						<lg>
+							<l>Ágiaris, hallád ezt az ördögséget?</l>
+							<l>Istenek, verjétek az illy veszettséget!</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Télónis, illy módon, sok Vitézek vesznek,</l>
+							<l>Kik a’ vadaknál is mérgesebbek lesznek.</l>
+							<l>Egy-más ellen törvén, pusztítják Nemeket,</l>
+							<l>'S alatsonságokkal motskolják Lelkeket.</l>
+							<l>Mind igazság nálok, valamit akarnak:</l>
+							<l>Minden veszettséget, szép színnel takarnak.</l>
+							<l>Egyike, másikát halálra ítéli,</l>
+							<l>Mert tsak ő benne szóll Istene, úgy véli.</l>
+							<l>Tsalással, erővel, szövik dolgaikat,</l>
+							<l>Lelkek ellen, hordják-elő szavaikat.</l>
+							<l>Töbnyire, tsak külön’ hasznokért fáradnak;</l>
+							<l>Mellynek nyerésébe, Eget, földet dúlnak.</l>
+							<l>Fel-fúvalkodások, Olimpushoz is vér</l>
+							<l>Eletekkel, minden alatsonyság, meg-fér.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>Ágiaris, hidd-el, hogy-az emberi Nem,</l>
+							<l>Mint most, olly erősen nem volt még ellenem.</l>
+							<l>De ma már, meg-vetvén kívánt békességét;</l>
+							<l>Méreggel keveri Isteninknek Egét.</l>
+							<l>Kiki, igazsága mellet fegyverkezik:</l>
+							<l>Minden magát őrzi, ’s azért vérengezik:</l>
+							<l>Egyik vad, másikba ha magát fel-leli,</l>
+							<l>Nem öldökli Nemét: formáját tiszteli;</l>
+							<l>De az ember önként vesztegeti magát</l>
+							<l>Nem tekintvén faján, első méltóságát.</l>
+							<l>A veszedelmes sors! Kínos történetek!</l>
+							<l>Mit végeztek rólunk ma a’ búsúlt Egek!</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Télónis, fordítsuk-el vérengezésünk',</l>
+							<l>Nyomjuk-meg Spártába ma ellenkezésünk'.</l>
+							<l>Kleombrot’, ’s Ágisnak tudtokra kell adni,</l>
+							<l>Hogy nem lehet tovább dolgokba haladni.</l>
+							<l>Éltek, minden felől lásd, mint árúltatik,</l>
+							<l>A’ sok titkos tanáts tőlünk sem tudatik.</l>
+							<l>Minek áldozzák-fel magokat Spártáért?</l>
+							<l>Miért veszítsenek bennek olly nemes vért?</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLONIS</speaker>
+						<lg>
+							<l>Az ember, minden kor’ maga kezdi vesztét.</l>
+							<l>És Istenink őrzik osztán tsak életét,</l>
+							<l>A’ sebet, egy tsapás könnyen fel-szakasztja;</l>
+							<l>Mellynek színét flastrom, ’s sok idő forrasztja.</l>
+							<l>Belé-szökött Spárta, mai veszélyébe;</l>
+							<l>Sok Vitéz el-húnyhat nemes életébe.</l>
+							<l>Lássuk Ágiaris, dolgunk’ hogy tehetjük.</l>
+							<l>Ah ha Hazánkról e’ veszélyt le-vehetjük!</l>
+							<l>Me’nyi öröme lesz el-fáradt szívünknek,</l>
+							<l>Millyen tisztába jő napja életünknek.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Te vehetsz töb erőt itt a’ veszedelmen,</l>
+							<l>Néked enged Atyád tsak, tetszése ellen.</l>
+							<l>Lágyítsd-meg nagy szívét, a’ hú természettel:</l>
+							<l>Ne légy soha hozzá kemény felelettel.</l>
+							<l>Tanítsd férjedet is, engedelmeskedni:</l>
+							<l>Királlyal, egy főnek nehéz vetekedni.</l>
+							<l>Ha el-hagyja a’ nép, mit tesz’ életével;</l>
+							<l>Hová rejti magát gyötrelmes létével?</l>
+							<l>Tudod — egy trónusnak melly hoszszak kezei;</l>
+							<l>A’ tengeren is túl-hatnak fegyverei.</l>
+							<l>A'dig kell hóldolni, a’ míg remélhetünk,</l>
+							<l>Veréstől, haláltól egy-szerre félhetünk.</l>
+							<l>Nagy fúlánkja van egy Király hatalmának;</l>
+							<l>Ha tárgyát meg-kapja búsúlt haragjának.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLONIS</speaker>
+						<lg>
+							<l>Hogy győzzem Kleombrot’ büszke vitézségét?</l>
+							<l>Miként tsendesítsem Leónidás’ mérgét?</l>
+							<l>Vitézeink, a'mit magokba fel-tesznek,</l>
+							<l>Mint azt meg-tagadják, inkáb mind el-vesznek</l>
+							<l>Sok él’tet rontott már az illyen kevélység!</l>
+							<l>Tudod, hogy ver köztünk ez a’ büszke ínség.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Ne rettenj előre még a’ dologtól-el;</l>
+							<l>Sokat végbe lehet vinni egy nagy szívvel.</l>
+							<l>Menjünk tanátskozni bölts férj-fiainkkal.</l>
+							<l>Kik nem tudnak élni szabadságainkkal,</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLONIS</speaker>
+						<lg>
+							<l>Férj-fijak! férj-fijak! ti földi Istenek.</l>
+							<l>Me’nyi tsudát tettek belétek az Egek!</l>
+						</lg>
+						<stage>el-mennek</stage>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Negyedik jelenés</head>
+					<stage>DEMÓKARES, KLEOMBROTES.</stage>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Demókares, tudod a’ Király tetszését?</l>
+							<l>Me’dig véled reánk tömi rendelését.</l>
+							<l>A’ nép nem szűnik-meg; kiált szüntelenül;</l>
+							<l>Szenyved sérelme közt járva büntelenül.</l>
+							<l>Mi lesz vége, részeg történeteinknek?</l>
+							<l>Hogy van akaratjok rólunk Isteninknek?</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Kleombrot’, a’ trónus még szüntelen dörög;</l>
+							<l>Menny-köve, Spártának falai közt görög.</l>
+							<l>Hánykódik közöttünk búsúlt méltósága;</l>
+							<l>Nevekedik mérge, és hatalmassága.</l>
+							<l>Agissal a’ népet együvé gyűjtitek,</l>
+							<l>A’ fő méltóságot, úgy sértegetitek.</l>
+							<l>De el-fordúl e’ rósz még Leónidásról.</l>
+							<l>A’ki osztán törvényt oszt majd trónusáról.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Az Ég’ igazsága egyedül Királyom,</l>
+							<l>Hidd-el, hogy e’ szerént követem is dolgom</l>
+							<l>Tsak hadd menny-dörögjön Leónidás köztünk,</l>
+							<l>El-nem fog-változni haragjára szívünk.</l>
+							<l>Minden jövedelmünk úgyis, mint itt talál</l>
+							<l>Nem egyéb, hanem tsak egy érdemes halál.</l>
+							<l>Szívembe, még ollyan dolog nem tenyészett,</l>
+							<l>A’mit gonoszságnak mondott a’ természet;</l>
+							<l>Meg-halhatok e’nek nagy igazságáért;</l>
+							<l>Ditsősség törvénye mellet ontani vért.</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Mitsoda igazság egy Királyra törni?</l>
+							<l>’S hogy ő el-enyészszen, embereket ölni?</l>
+							<l>A’ ki Hazájának trónusára dúl fúl,</l>
+							<l>Ollyan, mint egy gyermek, ki maga el-fajúl:</l>
+							<l>Meg-veszvén, haraggal támad hű Atyjára,</l>
+							<l>Ki méltán gerjedhet hitetlen fatyjára.</l>
+						</lg>
+					</sp>
+					<sp who="#kleomrotes">
+						<speaker>KLEOMROTES</speaker>
+						<lg>
+							<l>A’melly Király elég az úralkodásra,</l>
+							<l>Veszszen el, ki fel-kél véle tsatázásra;</l>
+							<l>De hogy ha a’ nép nyög kínos fájdalmába,</l>
+							<l>Ne hagyjuk rómlani halálosjármába.</l>
+							<l>Az Égnek, ’s trónusnak rósz magyarázatja,</l>
+							<l>Kínja közt népünket, gyakran el-altatja;</l>
+							<l>Melly, ha tsak magától nem emelkedhetik,</l>
+							<l>Szerentsés az, kitől védelmeztethetik.</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Leónidás tudod Atyja volt népének,</l>
+							<l>Emberi munkájit láttuk nagy szívének:</l>
+							<l>E’dig te is minddég Atyádnak ismérted,</l>
+							<l>Noha most magadat, ellene-szegezted.</l>
+							<l>Hidd-el; az ok nélkül meg-sértetett jóság,</l>
+							<l>Ellenünk, minden kor’ büntető igazság.</l>
+							<l>Mit akarsz kezdeni a’ szegény községgel?</l>
+							<l>Melly végezés szerént származik ínséggel.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Istent, ’s természetet védelmezek benne,</l>
+							<l>Tudod nála nélkül Király úr nem lenne.</l>
+							<l>Ö tőle veszszük-el kóldúlt kenyérünket,</l>
+							<l>Verejtékkel tartják büszke életünket:</l>
+							<l>Azért szolgál ő úgy, hogy tsak igazságot</l>
+							<l>Fizessünk sorsának, ’s nem háborúságot.</l>
+							<l>Mint kevély kóldúsok, ki-szíjjuk véreket,</l>
+							<l>’S felül jutalomért el-nyomjuk él’teket.</l>
+							<l>Adjuk-meg nekik is a’ mivel állhatnak,</l>
+							<l>Tsináljuk magunkat, hív ’s igaz bíróknak.</l>
+							<l>Jobbágyink’,törvények kívánják tsak tőlünk;</l>
+							<l>Külömben örömest izzadnak érettünk.</l>
+							<l>Ha el-veszszük tőlök kínos adójokat,</l>
+							<l>Hordozzuk igazság szerént hát dolgokat.</l>
+							<l>Mint herék, ne szíjjunk rótok izzadtságot,</l>
+							<l>A’ Lelkekből nekik tegyünk igazságot.</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Vér-ontással kell hát igazságot tenni?</l>
+							<l>Nem lehet más módon Kegyelmesnek lenni?</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>A’ sértett igazság, ha áldozatot kér,</l>
+							<l>Ki-omolhat érte, mind rósz, mind igaz vér.</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Nem engedik-é hát továb az Istenek,</l>
+							<l>Hogy észszel tegyenek törvényt az emberek?</l>
+							<l>Királyaink közöt minddég meg-maradjon</l>
+							<l>Az hartz, hogy Világunk töb vérrel izzadjon.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Törvényre nem fegyvert adtak az Istenek.</l>
+							<l>Hanem belénk a’ra tsak bölts Lelket tettek —</l>
+							<l>Tsupa oltalomra kelhet-fel a’ fegyver;</l>
+							<l>Meg-veszett egy ollyan, ki büszkeségből ver.</l>
+						</lg>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Ötödik jelenés</head>
+					<stage>DEMÓKARES, KLEOMBROTES, ÁGÉZILAUS, ÁGIS</stage>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>Figyelmetes lévén hív tiszteletedre,</l>
+							<l>Kleombrot", érkezem meg-ölelésedre.</l>
+							<l>Tudod-é már köztünk a’ sors' rendelését?</l>
+							<l>’S Olimpusnak rajtunk meg-tett végezését?</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Halandóságomtól, még a’ nagy Istenek,</l>
+							<l>E’ szem-pillantásig, mindent el-fedeztek.</l>
+							<l>Szívünkbe, kétséggel tévelyeg reményünk,</l>
+							<l>A’ háborúk között tsatáz bús életünk.</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>Meg-nyertem barátit lásd Leónidásnak.</l>
+							<l>Engedelmeskedni kell már a" trónusnak.</l>
+							<l>Likurgus’ törvénye — fel-állíttathatik;</l>
+							<l>’S szentségével a’ nép igazgattathatik.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Mi igazgathatja e'képen szívetek’?</l>
+							<l>Demókares már tsak, ki nem tart veletek?</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Ha a’ Vitéz sereg így végzett sorsunkról,</l>
+							<l>Én is engedelmet ajánlok magamról.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>Halandó sorsunkba, úgy van bóldogságunk,</l>
+							<l>Ha barátság teszi köztünk társaságunk’.</l>
+							<l>Mindenkor’ édeseb nálunk a’ békesség.</l>
+							<l>Mint az erő-szakkal rablót fény, ’s ditsőség.</l>
+							<l>Egyezzünk-meg magunk ma Hazánknak sorsán,</l>
+							<l>Törődjön a’ Király, háborús trónusán:</l>
+							<l>Álljon-fel Likurgus' szabados törvénye,</l>
+							<l>Édesüljön a' nép keserű reménye.</l>
+						</lg>
+					</sp>
+					<sp who="#amfares">
+						<speaker>ÁMFARES</speaker>
+						<lg>
+							<l>Leónidás sem lesz hidjed ma ellenünk,</l>
+							<l>Tzélunkba meg-egyez ó is végre velünk:</l>
+							<l>Ne gondold, hogy népét örömest vesztené,</l>
+							<l>’S sorsát, a’ mint lehet, ne könnyebbítené.</l>
+							<l>Egy Király, Országát, ha öszve-vérezi,</l>
+							<l>Hidd-el, hogy székébe gyötrelmét érezi.</l>
+							<l>A’ meg-lankadott nép, kívánja életé</l>
+							<l>Királyától, viszsza-kéri verejtékét.</l>
+							<l>Leónidás, nem tesz’ hartzot a’ községgel,</l>
+							<l>Melly alatta, úgy is nyomorog ínséggel.</l>
+							<l>Ha pedig valahol magát felejtheti,</l>
+							<l>Az igazság, ’s törvény, Lelkét meg-intheti.</l>
+							<l>Nem mehet egy Király, olly hatalmasságra,</l>
+							<l>Hogy r’á hágjon a’ leg-felsőbb igazságra.</l>
+							<l>Istenünk’ félelme, józan vallásunkkal,</l>
+							<l>Minddég meg-maradnak tanátskozásunkkal.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>A'ki természetünk törvényét isméri,</l>
+							<l>’S a’nak valóságát, tisztelettel féli.</l>
+							<l>Józan embersége, jól tesz’ mindeneket;</l>
+							<l>Igaz vallása is, ’s nem üldöz Lelkeket.</l>
+							<l>Istenink, szívünkbe rejtették magokat;</l>
+							<l>Fel-lelhetjük bennünk, nagy igazságokat.</l>
+							<l>A" természet tanít érezni, gondolni;</l>
+							<l>Isteni törvény ő, neki kell hóldolni.</l>
+							<l>Egy Király, ki eztet benne felejtette,</l>
+							<l>Istenét, vallását, együtt el-vesztette.</l>
+							<l>Ha nyögő árváknál sohajtozást hallunk;</l>
+							<l>Érezze-meg bennünk azt, szánakozásunk.</l>
+							<l>Természetbe lássuk hú természetünket,</l>
+							<l>Védelmezzük vele emberi Nemünket.</l>
+							<l>Nem kell Isteninknek vérrel imádkozni,</l>
+							<l>Igazsággal lehet tsak nekik áldozni —</l>
+							<l>Természetünkbe van minden józan törvény</l>
+							<l>Tsak haszontalanság e’ Világi sok fény.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>Kleombrot. de lásd itt másképen tanítnak</l>
+							<l>Sokan, kit a’ nép közt lármázni hallatnak.</l>
+							<l>Jupiter' nevébe, hartzra ingerelnek,</l>
+							<l>Fegyver nélkül, nyelvvel, ’s vallással véreznek.</l>
+							<l>Királyunk’ trónusán, más Isten parantsol,</l>
+							<l>Kit községeinknek töb Istenek, vádol.</l>
+							<l>A’ két részre osztott okosok tesznek így,</l>
+							<l>Közöttök nem tudnád, inkáb mellyiknek hidj;</l>
+							<l>De tudd-meg barátom, hogy ők tévelyegnek,</l>
+							<l>’S Világi hasznokért. Istentelenkednek.</l>
+							<l>Egy Istene vagyon népnek és Királynak,</l>
+							<l>Jupiter bírája az egész Világnak.</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Hát, ha Királyunkkal, egy Istenünk lehet,</l>
+							<l>Mi az itt e’ földön, mi ő reá-mehet.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>A’ bennünk sértetett Isten’ igazsága,</l>
+							<l>Melly a’ természetnek felső méltósága.</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>Istenink szóljanak Királyunkba mindég,</l>
+							<l>Ezeknek trónusán fénylik, ’s dörög az Ég.</l>
+							<l>Első eszközök ők Jupiter’ kezébe,</l>
+							<l>Ki velek ostoroz emésztő tüzébe:</l>
+							<l>Vernek — jutalmaznak ő bennek az Egek,</l>
+							<l>Úgy élnek közöttünk, mint földi Istenek.</l>
+						</lg>
+					</sp>
+					<sp who="#amfares">
+						<speaker>ÁMFARES</speaker>
+						<lg>
+							<l>Ugyan azért szükség hát a' Királysággal</l>
+							<l>Tanátskozásunkban, szólni igazsággal.</l>
+							<l>Menjünk-el mindnyájan, ma Leónidáshoz;</l>
+							<l>Fordúljon kegyesen, fáradt Hazájához.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>Meg-állanak-é mind e’be a’ Vitézek?</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Én, leg-alább ma itt más-képen nem végzek.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Jerünk hát mindnyájan; lássuk a’ végezést,</l>
+							<l>Jupiter’', tégy köztünk ma, kívánt egyezést!</l>
+						</lg>
+						<stage>el-mennek</stage>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Hatodik jelenés</head>
+					<stage>ÁGISZTRAT, ÁGIARIS.</stage>
+					<sp who="#agisztrat">
+						<speaker>ÁGISZTRAT</speaker>
+						<lg>
+							<l>Ágiaris, tudod már veszedelmünket.</l>
+							<l>Miként oltalmazzuk ma-meg életünket?</l>
+							<l>Nem látom, mit tegyek keserves sorsommal;</l>
+							<l>Úgy tetszik, küszködni kezdek halálommal.</l>
+							<l>Utolsó vesztünkbe, az örök Istenek,</l>
+							<l>Ügyünket el-hagyván, már nem védelmeznek.</l>
+							<l>Jupiter! a’ kinek reszketve kegyelmed’</l>
+							<l>Kérem; méltóztassál nyújtni segedelmed'</l>
+							<l>Magyarázd félelmem’ kínos rettegésit,</l>
+							<l>Mint gyűlt haragodnak első büntetésit.</l>
+							<l>Halálos érzésem, Ágis’ életétől</l>
+							<l>Verd-el; ne érezzek jövendöléséről.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Hertzegné, tsendesítsd méltó keservedet,</l>
+							<l>Éleszszed szíveden édes reményedet:</l>
+							<l>Mikor’ üldöztetvén, bajokkal küszködünk,</l>
+							<l>Reménljük, hogy a’ból tsendességre érünk.</l>
+							<l>Zivatart várhatunk tiszta Egeinkbe:</l>
+							<l>Hamar meg-dördülhet a’ tűz felleginkbe</l>
+							<l>A’ki tengerinkén, szél-veszek között jár,</l>
+							<l>Háborúji után, tsendes időket vár.</l>
+							<l>Ki, jutunk még mi is nagy veszedelmünkből;</l>
+							<l>Ne verjük a’ kedves reményt-el szívünkről.</l>
+							<l>Szenyvédéseink közt bátorsággal legyünk,</l>
+							<l>Él’tünkre, ok nélkül, kínokat ne tegyünk.</l>
+						</lg>
+					</sp>
+					<sp who="#agisztrat">
+						<speaker>ÁGISZTRAT</speaker>
+						<lg>
+							<l>Mind lehetünk bátrak; de ha sebet kaptunk,</l>
+							<l>Azzal, gyötrelmeink ellen — nem állhatunk.</l>
+							<l>Kínos esetink közt, tudomány, böltsesség,</l>
+							<l>Nyugodalmunk helyett, nem elég tsendesség.</l>
+							<l>Fel-nyílt sebeinket velek el-fedezzük.</l>
+							<l>De maró férgeket belólrül érezzük.</l>
+							<l>Akármit tselekszünk, kiált a' természet;</l>
+							<l>Soha böltsességért, kínja nem enyészett.</l>
+							<l>Hogy ha vérzik szívünk, szegény okosságunk,</l>
+							<l>Nehezen űzheti belőlünk fájdalmunk'.</l>
+							<l>Sőt, a’ bő gondolat érzékenységünket</l>
+							<l>Még töbre neveli, terhelvén értünket.</l>
+							<l>A’ böltsesség ollyan, mint egy széles tenger:</l>
+							<l>Szüntelen hánykódik, felleghez, földhöz ver:</l>
+							<l>A’ bátorság pedig, büszke vak-merőség,</l>
+							<l>Ha vérzünk, egyikbe sem lehet tsendesség.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Az ember’ élet, igy tsak haszontalanság,</l>
+							<l>Minden nemű sorsa árnyék, ’s múlandóság.</l>
+							<l>Bátorság, ész, erkölts, hasznunkra nintsenek,</l>
+							<l>Miért teremtettek hát így az Istenek!</l>
+							<l>Téved a’ Hertzegné vélekedésébe,</l>
+							<l>Felettéb hibázik vetélkedésébe.</l>
+							<l>Bátor szív, ész, erkölts, ésjózan természet</l>
+							<l>Egyedül, mellyekbe igazságunk lehet.</l>
+							<l>Az igazság pedig igen nagy valóság,</l>
+							<l>Isteneinkbe is első tulajdonság.</l>
+						</lg>
+					</sp>
+					<sp who="#agisztrat">
+						<speaker>ÁGISZTRAT</speaker>
+						<lg>
+							<l>Tudom nagy valóság az, a’ki teremtett,</l>
+							<l>De a’ mi életünk haszontalanság lett.</l>
+							<l>Formáltatásunkba az erős Istenek,</l>
+							<l>Magyarázhatatlan, mesterséggel élnek.</l>
+							<l>Köztünk minden húmor, magának vezére,</l>
+							<l>Tsak úgy él, mint forog benne heves vére.</l>
+							<l>Itt nyugszik közöttünk a’ törvény, ’s természet,</l>
+							<l>Igazságunk benne, gyakorta el-veszett.</l>
+							<l>Mindent lehet tenni lásd embereinknek,</l>
+							<l>Nem halljuk érettek hartzát Isteniknek.</l>
+							<l>Akárki mit tegyen kínos ínségével,</l>
+							<l>Egy történetet sem függeszt-fel értével.</l>
+							<l>Az örökös-rendnek minden rabjává lett,</l>
+							<l>E’ nagy természeten senki erőt nem vett.</l>
+							<l>Születünk, bámúlunk. jádzunk életünkkel.</l>
+							<l>Szenyvedünk, örülünk, küszködünk szívünkkel.</l>
+							<l>Hányattatásunkban, eszünket forgatjuk,</l>
+							<l>Valóság mibe van, nem határozhatjuk.</l>
+							<l>Tsak a’ nagy Istenek tudnak mindeneket,</l>
+							<l>Kik, magokból fújták-ki teremtéseket.</l>
+							<l>Spárta lármájába, hidjed ma el-múlunk,</l>
+							<l>’S mint száradt levelek, a’ földre le-húllunk.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Hát így szemed előtt, minden semmivé lett,</l>
+							<l>Valamit Jupiter, halandojival tett?</l>
+							<l>Hertzegné, ne fáraszd magadat e’nyire,</l>
+							<l>Ezt tsak nagy fájdalmad okozza többnyire.</l>
+							<l>A’ szív hogy ha szenyved; tűzzel hánykolódik.</l>
+							<l>Lelkünk’ gyötrelmére, meg-homályosodik</l>
+							<l>A’ nagy igazságot, úgy osztán el-vesztjük,</l>
+							<l>’S magunkat az által még inkáb büntetjük.</l>
+							<l>Menjünk-el, nézzük meg a’ bús Vitézeket,</l>
+							<l>’S ha még lehet, mentsük veszélyes él’teket.</l>
+						</lg>
+					</sp>
+					<stage>el-mennek</stage>
+					<stage>
+						<stage>Vége a második Játéknak</stage>
+					</stage>
+				</div>
+			</div>
+			<div type="act">
+				<head type="title">HARMADIK JÁTÉK</head>
 				<div type="act">
-					<head type="title">HARMADIK JÁTÉK</head>
-					<div type="act">
-						<head type="title">ELSŐ jelenés</head>
-						<stage>LEÓNIDÁS, ÁMFARES, ÁGIS, DEMÓKARES, KLEOMBROTES, ÁGÉZILAUS,
-                                        TEST-ÖRZÖK.<stage>Leónidás a trónusba fel-ül; Két’ felől,
-                                        palotás vitézek állnak renddel
-                                fegyverbe.</stage>
-						</stage>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>
-									<stage>mély tisztelettel</stage>
-								</l>
-								<l>Méltóságod előtt, nagy Király meg-hajlok,</l>
-								<l>’S a’ népnek ügyébe Kegyelmedhez szólok.</l>
-								<l>Szenyved az igazság Spárta' kérésével;</l>
-								<l>Halgasd-meg nyögését, Hazád’ ínségével.</l>
-								<l>Nem azért vagy Vezér, hogy erő-szakot tégy</l>
-								<l>Istenink akarják: Kegyelmes Atya légy.</l>
-								<l>Néped, szükségébe nagyon adósodott,</l>
-								<l>Közöltök, tömlötzbe már sok el-rothadott.</l>
-								<l>Gazdagaink tették rabbá életeket;</l>
-								<l>Kik véreket szíjják, kínozván testeket.</l>
-								<l>Ezek az üldözők, meg-vévén Országunk’,</l>
-								<l>Akaratjok szerént igazgatják sorsunk’.</l>
-								<l>Földünknek javait magokhoz szerzették;</l>
-								<l>Sok Nemzetek’ javát számokra meg-vették —</l>
-								<l>Likurgus’ törvénye úgy osztotta Spártát,</l>
-								<l>Hogy kiki egy képen bírja benne javát.</l>
-								<l>Meg-tagadtuk ezt a’ józan valóságot:</l>
-								<l>Minden, maga tesz' már törvényt, ’s igazságot.</l>
-								<l>Egy aránt oszszuk-fel még, e' nemes Hazát,</l>
-								<l>Mint vólt; olly boldognak formáljuk ma Spártát.</l>
-								<l>Égessünk-meg, minden adósság levelet,</l>
-								<l>E’ kívánság amúgy is ingerli a’ népet.</l>
-								<l>Halgasd-meg e’ kérést jobbágyid ügyébe,</l>
-								<l>Király! és olvassál Vitézed’ szívébe</l>
-								<l>A’ természet kiált; tiszteld méltóságát,</l>
-								<l>Mert Isteneidnek mondja igazságát.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>
-									<stage>, méltóságos tekintettel.</stage>
-								</l>
-								<l>Népünknek kérését, Ágis benned hallom,</l>
-								<l>De veszett lármáját még sem igazolom.</l>
-								<l>Nem úgy szokás kérni egy igaz Királytól.</l>
-								<l>Mérget lehet e’ként nyerni6 a’ trónustól.</l>
-								<l>Átkozni el-kezdvén gazdagink’ javait</l>
-								<l>Fel-támasztod reám Hazádnak fijait.</l>
-								<l>Tsak mormoltok minddég Királyságom ellen;</l>
-								<l>És rendelésetek, gyakorta helytelen.</l>
-								<l>Hogy szívünkbe, könnyen belé nem láthattok,</l>
-								<l>Gonoszt, és ártatlant reánk indítatok.</l>
-								<l>Spártdba, igen sok parantsolat hazud,</l>
-								<l>Mellyekről hatalmam, gyakran semmit nem tud.</l>
-								<l>De még is minden kor’, tsak én vádoltatom</l>
-								<l>Noha mere nézek, mindenütt lopatom.</l>
-								<l>Dézma-tábláinknál, sok tolvajok ülnek;</l>
-								<l>És mint igaz szolgák, a'ként betsültetnek</l>
-								<l>Sok törvény székekbe lelünk gyilkosokat.</l>
-								<l>Kik nem tapasztalják alatsonySágokat.</l>
-								<l>Halált parantsolnak minden kitsinységért,</l>
-								<l>Mint vizet, olly könnyen ontják a’ szegény vért.</l>
-								<l>Mind ezen hibákat, magamba jól sejtem,</l>
-								<l>De szegény népemet, el-sem is felejtem.</l>
-								<l>Meg-engedem, hogy az adósság Levelek</l>
-								<l>Égettessenek-meg: fel-álla' trónusba, ezt hallják</l>
-								<l>mindenek</l>
-								<l>Tsendesüljön-meg ma Spárta, lármájába:</l>
-								<l>Mint Atyjába, a’ként bízzon Királyába.</l>
-								<l>Állítsuk-fel újra Likurgus’ törvényét;</l>
-								<l>Édesítsük vele a’ népnek reményét. <stage>A ’ trónusról,
-                                        alá-száll.</stage>
-								</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Soha egy Királyság, a’nyit nem védelmez,</l>
-								<l>Mintha nyögésére népének figyelmez.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Soha egy Haza-fi, jobban meg-sem veszhet,</l>
-								<l>Mint ha hű Királya ellen pártot-üthet.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Tudom, a’ Királynak tzélját itt érteni,</l>
-								<l>De engem’, nem lehet olly könnyen sérteni.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Vitézi büszkeség beszéli ajakadon,</l>
-								<l>A' meg-általkodás látszik homlokodon.</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>A’ hamvazott tüzet, nem jó fel-bolygatni,</l>
-								<l>Tsak tsendességgel kell hevét fogyasztani.</l>
-								<l>Békességünk, köztünk engedelmet kíván,</l>
-								<l>A’ki hamar gerjed, magával nem jól bán.</l>
-								<l>Tsendességre jöttünk mindnyájan Spártába\</l>
-								<l>Nem jó egy Királynak verni Hazájába;</l>
-								<l>Mert belólrül szívét nagyon meg-szaggatja,</l>
-								<l>Mi kor’ birodalmát, magára lázasztj</l>
-								<l>Ha győz, kardra hányja majd egész Hazáját;</l>
-								<l>Ha veszt, el-ejtette fejét, koronáját</l>
-								<l>Leónidás, eztet nem tselekedhette,</l>
-								<l>’S hogy reá támadtunk, nem érdemelhette.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Vitéz, ismérem kötelességemet;</l>
-								<l>Mint Király, ’s mint Atya viszem életemet.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>Egy Királynak nehéz tenni hivatalát;</l>
-								<l>Igen sokan vannak, kik rángatják dolgát.</l>
-								<l>Kiki, tsak hívségét mutatja tettébe;</l>
-								<l>De sok, titkon mérget táplálhat szívébe.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Sok Király is vette már-el büntetését,</l>
-								<l>Hogy nem látván, gyakran nem tette intését.</l>
-								<l>Győzedelmeskedni tsúfság tsalárdsággal,</l>
-								<l>Kivált egy olly szívnél, melly jár igazsággal.</l>
-								<l>Ö mivel ártatlan, sokat ollyannak vél</l>
-								<l>Jóságához bízván, bátor, ’s soha nem fél.</l>
-								<l>így egy gonosz, kárt tesz’ hív Fejedelmének;</l>
-								<l>Ártatlan színt adván alatsony Lelkének.</l>
-								<l>Az illyen, Jupiter’ haragját rettegje,</l>
-								<l>Meg-tudja, mitsodás Istene ereje.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Ne küszdjön a’ Király már történetével.</l>
-								<l>Végezze-el sorsunk’ új rendelésével.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>A’ Vitézi őrzők, húzzák-el magokat,</l>
-								<l>Kleombrot’, Ágis is kövessék azokat.</l>
-								<l>Demókar’, Ámfares, menjenek ezekkel,</l>
-								<l>Tsak Ágézilaus maradjon velem-el.</l>
-							</lg>
-							<stage>el-mennek</stage>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Második jelenés</head>
-						<stage>ÁGÉZILAUS, LEÓNIDÁS.</stage>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Vitéz, ketten vagyunk e’ magánosságba,</l>
-								<l>Próbáljuk-meg szívünk’ most az igazságba.</l>
-								<l>Hogy ma hívségemre állottál kedvellem;</l>
-								<l>De mind-azon-által, két színedet félem.</l>
-								<l>Ágist, mint jó barát a’ként tanátsoltad,</l>
-								<l>Hívséged’, Kleombrot’ előtt is mutattad.</l>
-								<l>Látom, hogy ezektől önként el-pártoltál,</l>
-								<l>És a’ Világ előtt, én mellém állotál.</l>
-								<l>Hibáznék, ha néked próba nélkül hinnék,</l>
-								<l>’S tettedbe, illy hamar valóságot vélnék.</l>
-								<l>A'ki barátsága színével, egyszer tsal,</l>
-								<l>Töbnyire, az osztán gonoszságok közt hal.</l>
-								<l>Nem tudom, hogy értsem külső hívségedet,</l>
-								<l>Félem titkon hidd-el tsapodár szívedet.</l>
-								<l>Isteneink előtt, azért most próbállak;</l>
-								<l>Hogy belől, mint kívül, tisztán meg-lássalak.</l>
-								<l>Kövessem-é bízvást adott tanátsodat?</l>
-								<l>Vagy próbára vessem még minden szavadat?</l>
-								<l>Szólj, magyarázd magad'.</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>Mit tegyen hívségem!</l>
-								<l>Uram, már el-veszett minden tsendességem.</l>
-								<l>Igaz, hogy színeltem érted barátságom’;</l>
-								<l>Mellyel, látom sértem nálad igazságom'.</l>
-								<l>Egyedül Királyom forgott tsak eszembe,</l>
-								<l>’S azért változtattam magamat színembe</l>
-								<l>Javáért, felettéb nagyot is próbáltam.</l>
-								<l>A’ szent barátságot alatsonyúl tsaltam.</l>
-								<l>Egy Király’ hívsége, sok illy szentséget ront,</l>
-								<l>Tsal barátságunkkal; ’s vér tengereket ont.</l>
-								<l>Én is Uram érted egész bűnös lettem,</l>
-								<l>Vitézeink előtt értemnek kárt tettem:</l>
-								<l>Tselekedetem rút mindenütt azt mondják;</l>
-								<l>Valahol Spártába ma dolgomat halják.</l>
-								<l>A’kihez hív vagyok, ott sints már hitelem;</l>
-								<l>Jutalmam, mindenütt gyalázat, ’s félelem.</l>
-								<l>Hogyha hívségem nem tetszik a’ Királynak,</l>
-								<l>Más útját választom gyötrelmes sorsomnak.</l>
-								<l>Be keserves, Király és Haza közt lenni?</l>
-								<l>Me’nyit nem lehet már itt el-veszve lelni!</l>
-								<l>Ha hibázom Uram, tsak kegyelmet kérek</l>
-								<l>Mostani sorsomba; töbre úgy sem érek.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Barátom meg-botsáss, hogy kételkedhettem</l>
-								<l>’S igazságot benned mindjárt nem vélhettem.</l>
-								<l>Tudod, hogy a’ Királyt sok gonoszok tsalják</l>
-								<l>Kik nála, hívségek’ színességből vallják</l>
-								<l>Jobbágyai között, egyedül el-marad;</l>
-								<l>A’ szíveket látni haszontalan fárad.</l>
-								<l>Minden-felől árad a’ tanáts, székéhez;</l>
-								<l>Hol, sok ravaszsággal férnek kegyelméhez:</l>
-								<l>Meg-sérti reményét sok esedezőknek,</l>
-								<l>Nem látván törvényét19 a’ titkos Lelkeknek.</l>
-								<l>E’ szerént ne tsudáld Vitéz, ha nem hiszünk,</l>
-								<l>’S igaz hívünkbe is, gyakran tsalást vélünk.</l>
-								<l>Isteni erő kell egy Király lelkének;</l>
-								<l>Hogy tudhassa titkát jobbágya szívének.</l>
-								<l>Látván kínos sorsom' botsáss-meg nagy Vitéz,</l>
-								<l>Kételkedésemért, r’ám sajnosan ne nézz.</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>Egy Királynak, igen könnyű szívet nyerni;</l>
-								<l>Kevés szóval tud ő vigasztalni, verni.</l>
-								<l>Hogy ha hívségemet, Vezérem meg-hitte,</l>
-								<l>Kegyelme, örömöm az Egekig vitte.</l>
-								<l>Szívemnek több ollyan titka soha nem lesz,</l>
-								<l>Mellyet, Leónidás bennem észre-nem vesz’</l>
-								<l>A’ki egyes lehet Kegyelmes Urával;</l>
-								<l>Keveset bajlódik jobbágyi sorsával.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>
-									<stage>örömmel</stage>
-								</l>
-								<l>Vitéz, a’ Királynak hív szíveket nyerni</l>
-								<l>Nagyobb öröm, mint egy fél Világot verni.</l>
-								<l>Akármiilyen nagyra nő egy hatalmasság;</l>
-								<l>Minden kor’ szülheti vesztét a’ tsalárdság.</l>
-								<l>A’ tnelly ellenséget előttünk nézhetünk,</l>
-								<l>Vigyázassál azok’ kezétől élhetünk.</l>
-								<l>De ha belső méreg futja-el szívünket;</l>
-								<l>Kevés remény tartja a’kor’ életünket.</l>
-								<l>A’ tanátsosokból gonosz veszély kél-fel;</l>
-								<l>Egy Király az ellen fegyvert nehezen lel.</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGIZÉLAUS</speaker>
-							<lg>
-								<l>Nagy Király, e’ szerént én félek Ágistúl,</l>
-								<l>Ez a’ Vitéz szeléd, de titkon igen dúl.</l>
-								<l>Ha tsendes lesz is most kéntelenségébűl,</l>
-								<l>Alkalmatossággal még új háborút szűl.</l>
-							</lg>
-							<stage>E’kor’Ágiaris, és Télónis, a’ Játék-piatz fenekébe tsendesen
-                                    be-tsúsznak: kik Ágézilausnak Leónidással tett beszédjét
-                                    ki-hallgatják.</stage>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Ágézilaus, itt rád bízom magamat,</l>
-								<l>Vezéreljed híven, többekkel dolgomat</l>
-								<l>Ágist ’s Kleombrotest szükség el-veszteni;</l>
-								<l>Ha hívségek’ fel-nem lehet éleszteni.</l>
-								<l>Mikor’ a’ nép köztünk le-tsillapíttatik,</l>
-								<l>Dolgunk a’kor’ jobban meg-visgáltathatik.</l>
-								<l>Kérni kell elő-ször a’ párt-ütötteket,</l>
-								<l>Hogy ismét én hozzám hajtsák bús szíveket.</l>
-								<l>Most töb Vitézeim után el-sijetek;</l>
-								<l>Míg hatalmam alszik, tsendesen legyetek.</l>
-								<l>
-									<stage>el-megyen</stage>
-								</l>
-							</lg>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Harmadik jelenés</head>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>
-									<stage>egyedül</stage>
-								</l>
-								<l>A Haza ’s Király közt e’ként hányattatva</l>
-								<l>Szenyvedek; szívemet kínokkal szaggatva.</l>
-								<l>Nem néztem hasznára sem egy sem más résznek,</l>
-								<l>Rút szövevénye van pénzért, sok nagy észnek.</l>
-								<l>Sokan gondolnak úgy; hogy a’ néphez hajlok;</l>
-								<l>Mások azt hitték-el, á’ Királlyal tartok.</l>
-								<l>Kénteleníttetem titkolni magamat,</l>
-								<l>Nehezen húzom már, terhesült jármomat.</l>
-								<l>A’ Világba, minden önnön javát nézi,</l>
-								<l>’S dolgát szüntelenül hasznára intézi.</l>
-								<l>Alatsonyságomat igazán sajnálom,</l>
-								<l>De Leónidásnál mentségem’ tanálom:</l>
-								<l>Meg-kell erősítni tántorgó trónusát;</l>
-								<l>Hadd verje hatalma mások nyakasságát.</l>
-								<l>Egy nagy Király, a’melly Vitézt egy-szer szeret,</l>
-								<l>Gonosz az, a’ vagy jó, tiszteletet lelhet.</l>
-								<l>Reszketnek körülte szabadon szólani,</l>
-								<l>Kéntelen is meg-kell előtte hajlani.</l>
-								<l>
-									<stage>Zördülést hall.</stage>
-								</l>
-								<l>Valaki érkezik, bánom hogy szólottám;</l>
-								<l>Ezek a’ Hertzegnék: hát őket hallotam.</l>
-							</lg>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Negyedik jelenés</head>
-						<stage>ÁGIARIS, TÉLÓNIS, ÁGÉZILAUS.</stage>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>Ágézilaushoz már régen készültünk,</l>
-								<l>Mivel benne hozzánk hívségét reméltük.</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>Ha ollyan erőbe volna tehetségem,</l>
-								<l>Mint (érzem) kívánja örökös hívségem:</l>
-								<l>Fejedelemné nem lehetne szenyvednünk,</l>
-								<l>Öröm, ’s gyönyörűség közt kellene élnünk.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TELÓNIS</speaker>
-							<lg>
-								<l>
-									<stage>Kettős értelmetjelentő tekintetekkel.</stage>
-								</l>
-								<l>Vitéz, sokat lehet vélni beszédedről.</l>
-								<l>Tudok is ítélni hidjed nagy szívedről.</l>
-								<l>De Kleombrot’ ’s Ágis mindenütt keresnek;</l>
-								<l>Úgy hiszem, tsak hamar velem majd itt lelnek.</l>
-								<l>Tisztelettel fogják-venni személyedet,</l>
-								<l>Betsülvén Hazádhoz-való hívségedet.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Ne tsináljunk manért egy alatsonyságnak;</l>
-								<l>A 'ki ellensége lett a 'barátságnak.</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>Mit magyaráznak e’ mérges tekintetek?</l>
-								<l>A’ beszédek, érzem kínos értelműek.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>A’ beszéd mi köztünk egyenes értelmű;</l>
-								<l>De Ágézilaus’ élete két-színü.</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>Életem’ illy roszra mi magyarázhatta?</l>
-								<l>Gonoszságom' 'e'dig kitsoda tudhatta?</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>Gyalázat Vitéznek vétni tsalárdsággal:</l>
-								<l>’S hibájit tagadni osztán hazugsággal.</l>
-								<l>Leónidással, ma mit beszélt a’ Vitéz?</l>
-								<l>Jól látjuk szándékát, ’s értjük hogy hová néz.</l>
-								<l>El-tévedt haza-fi; tolvaja szívednek.</l>
-								<l>Szégyeneid tettedet; ’s lásd kárát értednek.</l>
-								<l>A’ szent barátságnak színével takarod,</l>
-								<l>Tsekélységed’ ’s hazád-fijait úgy tsalod</l>
-								<l>Benned növekedik Kleombrot’nak vádja:</l>
-								<l>Te is vagy egy részről már haragom' tárgya.</l>
-								<l>De rettegd boszszúját a’ nagy Isteneknek,</l>
-								<l>Féljed égő tüzét zúgó menny-köveknek.</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGIZÉLAUS</speaker>
-							<lg>
-								<l>Ne engedd hertzegné, gyúlni dühösséged’:</l>
-								<l>Ok nélkül ne hevítsd illy méreggel véred’.</l>
-								<l>A’ hirtelenkedés hazug lármát teszen:</l>
-								<l>Haszontalan hírből, sok kínos hartz leszen</l>
-								<l>Meg-tanít az idő majd továb dolgomról;</l>
-								<l>Felejtkezz-el kérlek mostani sorsomról.</l>
-								<l>
-									<stage>el-megyen</stage>
-								</l>
-							</lg>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Ötödik jelenés</head>
-						<stage>TÉLÓNIS, ÁGIARIS.</stage>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Télónis, el-vagyunk (látod) árúitatva,</l>
-								<l>Nyög szívem mellyembe, már felére halva.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>De Leónidásról miként gondolkozzam?</l>
-								<l>Nálam, Atyaságát gyanúba hogy hozzam?</l>
-								<l>Kleombrot’ ’s Agisnak halálokról szóllott</l>
-								<l>Ha nem képzelődöm ’s fülem tisztán hallott.</l>
-								<l>El-kell-é miatta veszteni Férjemet!</l>
-								<l>Vagy szerentséltessem érette él’temet.</l>
-								<l>Átkozott történet! Haragos Istenek!</l>
-								<l>Honnan támad mérge búsúlt dörgésteknek!</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Télónis védelmezd életét férjednek,</l>
-								<l>’S ne rettegd menny-kövét rút történetednek.</l>
-								<l>Én nékem veszett-el minden segedelmem,</l>
-								<l>Ah fel-hatott-é már az Égig gyötrelmem!</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>Ne félj, pártot ütött nálam a’ természet,</l>
-								<l>Gyermeki hívségem bennem el-enyészett.</l>
-								<l>Egy gyilkos Atyának legyek kötelébe?</l>
-								<l>Ki férjemnek vesztét forralja vérébe.</l>
-								<l>El-búsúlt Istenek! ha van igazságtok</l>
-								<l>Él’temet, veszélyén múlni ne hagyjátok.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Fel-ne támadjál még a’ nagy Istenekre,</l>
-								<l>Tekintsreménységgel Kegyelmes Egekre.</l>
-								<l>Várjuk-el tsudáját történeteinknek,</l>
-								<l>Tanúlván titkait a’ végezéseknek.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>Ha tsak várakozunk itt eszközök nélkül,</l>
-								<l>Hidd-meg, hogy Lelkünk majd a’ Stiksz' partjára ül:</l>
-								<l>A’ komor Káronnal lesz veszekedése,</l>
-								<l>’S poklokra lármázni szalad rettegése.</l>
-								<l>De meg-mutatom ma az Istenek ellen,</l>
-								<l>Hogy Férjemnek élni még nem lehetetlen.</l>
-								<l>
-									<stage>E’kor’ kebeléből egy kést ki-húz dühösködve</stage>
-								</l>
-								<l>E’ kés’ hegyén függ majd Leónidás’ Lelke,</l>
-								<l>A’ porba fog-dülni el-mérgesült teste.</l>
-								<l>El-vesztem előre veszedelmes létét;</l>
-								<l>Vérével fújja-ki végső lehelletét.</l>
-								<l>
-									<stage>Iszonyú írtódzással reszket: szemei
-                                    el-fordúlnak.</stage>
-								</l>
-								<l>Ah Istenek! mi ez! <stage>egy helybe néz,</stage>pokol gyúl</l>
-								<l>fel bennem</l>
-								<l>A’ kétségbe-esés rág! hová kell lennem!</l>
-								<l>Dühösségem’ heve égeti testemet;</l>
-								<l>Méreg űzi bennem el-tévedt Lelkemet,.</l>
-								<l>A’melly vérbe létem kezdett melegedni,</l>
-								<l>A’ba kelljen gyilkos kezemet keverni?</l>
-								<l>Jupiter hogy halgat most meg-búsúlt Éged!</l>
-								<l>M’ért nem dörögsz? tsattogj, hadd tsapjon meny-köved.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Ne gyújtsd-fel a’ poklot még dühösségével,</l>
-								<l>Ne kezdj Jupiternek hartzot menny-kövével.</l>
-								<l>Fújd-ki itt vérednek fel-gyúladott mérgét.</l>
-								<l>Ne átkozd hirtelen előttem azt a’ vért;</l>
-								<l>Mellybe szerentsétlen voltod kezdetre ért.</l>
-								<l>Lármázd-fel kéréssel, a’ siket Egeket:</l>
-								<l>Indítsd Kegyelemre néma seregeket.</l>
-								<l>Míg más módot találsz, ne légy soha gyilkos,</l>
-								<l>Tudod, az illyen bűn miilyen kárhozatos.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLONIS</speaker>
-							<lg>
-								<l>Ágiaris, veszett már érzékenységem;</l>
-								<l>Az Ég, és pokol közt szaggatatik Lelkem:</l>
-								<l>Felettem Jupiter' haragja tsatázik:</l>
-								<l>Alattam a’ mélység fel-nyílva szikrázik.</l>
-								<l>Érzem, Leónidás gyilkos akar lenni</l>
-								<l>Nem lehet-é néki e’be ellent tenni?</l>
-								<l>Engedelmességgel tsak a’dig tartozom;</l>
-								<l>Míg Atyám bűnétől nagyon nem irtódzom.</l>
-								<l>Egy gyilkos veszszen-el Isten, Világ előtt;</l>
-								<l>Ez a’ törvény, tudod a’ természetbűl kőlt.</l>
-								<l>Gyermeki hívségem, el-szúnnyadhat bennem,</l>
-								<l>Az Isten, s’ természet mellet kell ma lennem.</l>
-								<l>Mitsoda egy Atya, ha véribe veszett,</l>
-								<l>’S ártatlan gyermekin gyilkosságokat tett.</l>
-								<l>Tsak a’ természetnek maradok fajzása.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>De Leónidásnak lettél származása.</l>
-								<l>Ö benne kezdődött egyedül életed.</l>
-								<l>Néki köszönheted mások felett léted.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>Testi kívánság formált tsak vérébe:</l>
-								<l>A’ természet táplált Anyámnak méhébe</l>
-								<l>Egy gyermeknek tsak e’ marad’o-meg Nemzőül,</l>
-								<l>Ha hozzá kegyelme szüléjinek meg-hűl.</l>
-								<l>Ha az Atyám, Isten ’s Világ ellen kelhet,</l>
-								<l>Szívébe fegyverem véres halált vihet.</l>
-								<l>Mi-kor ő gyermekét mérgéből ölheti,</l>
-								<l>A’ gyermek is él'tét meg-védelmezheti.</l>
-								<l>Mindennek egyenlő Anyja a’ természet,</l>
-								<l>Azért a’tól, a’ki hív fajára veszett,</l>
-								<l>El-veszik Istenink Atya’ méltóságát:</l>
-								<l>Útálják az Egek úndok bolondságát.</l>
-								<l>Leónidás vére a’ poklokra termett;</l>
-								<l>Mert fija’ vesztére rendeléseket tett.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Engedd hát Atyádat tsak bús Isteninknek,</l>
-								<l>’S ne húzd r’á menny-kövét a’ dörgő Egeknek.</l>
-								<l>Egy gyermek, el-fajúlt Atyját nem ölheti:</l>
-								<l>Mert halálát nála futva kerülheti.</l>
-								<l>Tiszteljed Atyádat gonoszságába is,</l>
-								<l>Halgass; hadd szolljanak itt az Istenek is.</l>
-								<l>Fussad őt’ míg lehet ’s úgy őrizd él'tedet;</l>
-								<l>De ellene, fel-ne emeljed kezedet.</l>
-								<l>A’ természet, minden-felől kiált reád,</l>
-								<l>Ne öld-meg mint gyermek, ellened kőlt Atyád’.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>De ha Kleombrot’ ma a’ Királyért el-vesz,</l>
-								<l>Mi az az Ég alatt, mi örömömre lesz;</l>
-								<l>A’ poklokra szállók, ha férjemet vesztem,</l>
-								<l>Meg-ölöm a’ Királyt, ’s el-veszem életem’.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Ne szólj’ a poklokhoz, míg Egeink’ nézhed</l>
-								<l>’S a’ gondviselésbe, életed’ reméllhed.</l>
-								<l>Utolsó dühösség, magát valakinek</l>
-								<l>El-vesztvén, a’ poklot kérni-ki bérinek.</l>
-								<l>Ne húnyd-be szemedet világos napunknak,</l>
-								<l>Lehet még védelme köztünk az igaznak.</l>
-								<l>Az indúlat, tudod, nagy károkat okoz;</l>
-								<l>Tüzébe a’ Lélek, fúldoklással haboz.</l>
-								<l>Hozd-viszsza magadat Lelked’ Világára,</l>
-								<l>Ne nézz olly kínosan férjednek sorsára.</l>
-								<l>Egy érdemes fajzás Eget, földet, poklot,</l>
-								<l>Minden nagy változást, ditséretet, átkot,</l>
-								<l>Meg-veszés nélkül néz tsendes életébe;</l>
-								<l>Mert nints bolondíto méreg a’ vérébe.</l>
-								<l>Remélj hát Télónis: Kérd az Isteneket,</l>
-								<l>Legyél tsendességbe: várjad Kegyelmeket.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>Mit várhatunk továb már az Istenektől?</l>
-								<l>Kik, el-felejtkezni láttatnak ügyünkről.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>
-									<stage>menést sejt</stage>
-								</l>
-								<l>Vannak itt Télónis: férj-fijú érkezik;</l>
-								<l>Leónidás maga, ki köztünk jelenik.</l>
-							</lg>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Hatodik jelenés</head>
-						<stage>LEÓNIDÁS, ÁGIARIS, TÉLÓNIS.</stage>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Télónis, látod-é engedelmességem’</l>
-								<l>Mellyel, itt tsendesen viselem ínségem'</l>
-								<l>Hazánknak javáért kedvezek férjednek;</l>
-								<l>Hogy gyönyörűségét szülhessem szívednek.</l>
-								<l>Tudom, most magadba Atyádnak jóságát</l>
-								<l>Tisztelvén; vádolod férjed’ makatsságát.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>A’ Király’jósága igen meszsze terjed:</l>
-								<l>Benne, egész Spárta ma újonnan éled.</l>
-								<l>Érezzük Kegyelmét Atyai szívének.</l>
-								<l>Illendő sorsot is készítünk él’tének.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Egy igaz származás hív marad Atyjához,</l>
-								<l>Télónisjósága, mindent húz magához</l>
-								<l>
-									<stage>Ágiarishoz fordúl</stage>
-								</l>
-								<l>Hertzegné, nehezen felejtem sebemet;</l>
-								<l>Mélyen sértette-vólt Ágis a’ szívemet.</l>
-								<l>Nem tudom, mit tegyek belső fájdalmamma</l>
-								<l>Félem titkotokat még nehéz gondommal.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>Király, köztünk minden az Ég’ rendelése,</l>
-								<l>Sorsunk az Istenek’ örök végezése.</l>
-								<l>Egy halandó, eszköz Istene’ kezébe:</l>
-								<l>A’mint erőltetik, tsak úgy tesz’ mívébe.</l>
-								<l>Menny-kövét Jupiter hozzád ha le-küldi;</l>
-								<l>És Ágisnak Lelkét benned el-üldözi;</l>
-								<l>Üss ma, ne függeszd-fel mérges tsapásodat:</l>
-								<l>Mútasd Olimpusnak hatalmasságodat.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Büszkeség beszél-ki Hertzegné belőled,</l>
-								<l>Méreggel van tele engedetlen Lelked.</l>
-								<l>Érzéketlenséged, ne gondold hogy győzzön,</l>
-								<l>’S kevély szavaival, szívembe előzzön.</l>
-								<l>Jól látom magamba történeteteket:</l>
-								<l>Hidd-el, hogy ismérem a’ nagy Isteneket.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>El-ne felejtse hát a' Király jóságát:</l>
-								<l>Majd meg-lopja tüze, nagy ártatlanságát.</l>
-								<l>Tsak el-tökéllet szív szóll Ágiarisból;</l>
-								<l>Nem szükség szavára felelni haragból.</l>
-								<l>A’ nagy Kegyelmesség, minden-kor’ ékesít:</l>
-								<l>Ö az, mi egy Királyt leg-inkáb nemesít.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Tsak te vagy Télónis, a'ki szíved bírod,</l>
-								<l>’S érzékenységimet híven tanátsolod.</l>
-								<l>Ágiarisnak is meg-engedek érted;</l>
-								<l>Tsak legyen hív hozzám engedelmes szíved’.</l>
-								<l>
-									<stage>Ágiarishoz fordul.</stage>
-								</l>
-								<l>Hertzegné, vetkezd-le Vitézi tüzedet;</l>
-								<l>Lágyítsd Királyodhoz keményült' szívedet.</l>
-							</lg>
-							<stage>Télónis hátúl-felöl kést ránt: néz az Egekre: ’s Leónidást
-                                    által-akarja ütni</stage>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>
-									<stage>kiáltással, ki Leónidást (látván Télónis’ tselekedetét,) a
-                                        döfés alól el-rántja.</stage>
-								</l>
-								<l>Istenek vegyétek-el haragotokat.</l>
-								<l>Szerentsétlen Király!</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>
-									<stage>rettegve kétfelé tekint.</stage>
-								</l>
-								<l>változásotokat</l>
-								<l>Illy hirtelenséggel érteni nem tudom;</l>
-								<l>Rettegek szívembe igazán meg-vallom.</l>
-								<l>Mitsoda haragot sejthetett Lelketek?</l>
-								<l>Mi az, mi illy lármát okozott bennetek?</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>
-									<stage>kétséges tekintettel.</stage>
-								</l>
-								<l>A’ pokol’ dühösség tsapott-el felettünk;</l>
-								<l>Mellytől én, ’s a’ Király tsak nem majd el-vesztünk.</l>
-								<l>Ágiaris, kárunk’ meg-látván szemével,</l>
-								<l>A’ Királyt hirtelen el-rántá kezével.</l>
-							</lg>
-							<stage>Leónidás hol Ágiarisra, hol Télónisrafordúl: rémülés, kétség,
-                                    ábrázoltatik tekintetébe.</stage>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Mitsoda gyötrelem támadott szívembe!</l>
-								<l>Kétség és rettegés mardosnak Lelkembe.</l>
-								<l>Istenink küldik-é hozzánk óltalmokat?</l>
-								<l>Vagy tsak a pokloknak sejtjük árnyékokat?</l>
-								<l>Kínos halandóság! veszett történetek!</l>
-								<l>Me’nyi sok tsudákkal tsavarog rendetek!</l>
-								<l>
-									<stage>Kétfelé tekint, keservesen.</stage>
-								</l>
-								<l>Jere Ágiaris velem, Télónissal;</l>
-								<l>Hagyjuk-el ez helyet: és fohászkodással</l>
-								<l>Értekezzünk együtt történeteinkről;</l>
-								<l>Beszéljünk tanátssal, nagy Isteneinkről.</l>
-							</lg>
-							<stage>Vége az harmadik Játéknak.</stage>
-						</sp>
-					</div>
+					<head type="title">ELSŐ jelenés</head>
+					<stage>LEÓNIDÁS, ÁMFARES, ÁGIS, DEMÓKARES, KLEOMBROTES, ÁGÉZILAUS,
+                                    TEST-ÖRZÖK.<stage>Leónidás a trónusba fel-ül; Két’ felől,
+                                    palotás vitézek állnak renddel
+                            fegyverbe.</stage>
+					</stage>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>
+								<stage>mély tisztelettel</stage>
+							</l>
+							<l>Méltóságod előtt, nagy Király meg-hajlok,</l>
+							<l>’S a’ népnek ügyébe Kegyelmedhez szólok.</l>
+							<l>Szenyved az igazság Spárta' kérésével;</l>
+							<l>Halgasd-meg nyögését, Hazád’ ínségével.</l>
+							<l>Nem azért vagy Vezér, hogy erő-szakot tégy</l>
+							<l>Istenink akarják: Kegyelmes Atya légy.</l>
+							<l>Néped, szükségébe nagyon adósodott,</l>
+							<l>Közöltök, tömlötzbe már sok el-rothadott.</l>
+							<l>Gazdagaink tették rabbá életeket;</l>
+							<l>Kik véreket szíjják, kínozván testeket.</l>
+							<l>Ezek az üldözők, meg-vévén Országunk’,</l>
+							<l>Akaratjok szerént igazgatják sorsunk’.</l>
+							<l>Földünknek javait magokhoz szerzették;</l>
+							<l>Sok Nemzetek’ javát számokra meg-vették —</l>
+							<l>Likurgus’ törvénye úgy osztotta Spártát,</l>
+							<l>Hogy kiki egy képen bírja benne javát.</l>
+							<l>Meg-tagadtuk ezt a’ józan valóságot:</l>
+							<l>Minden, maga tesz' már törvényt, ’s igazságot.</l>
+							<l>Egy aránt oszszuk-fel még, e' nemes Hazát,</l>
+							<l>Mint vólt; olly boldognak formáljuk ma Spártát.</l>
+							<l>Égessünk-meg, minden adósság levelet,</l>
+							<l>E’ kívánság amúgy is ingerli a’ népet.</l>
+							<l>Halgasd-meg e’ kérést jobbágyid ügyébe,</l>
+							<l>Király! és olvassál Vitézed’ szívébe</l>
+							<l>A’ természet kiált; tiszteld méltóságát,</l>
+							<l>Mert Isteneidnek mondja igazságát.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>
+								<stage>, méltóságos tekintettel.</stage>
+							</l>
+							<l>Népünknek kérését, Ágis benned hallom,</l>
+							<l>De veszett lármáját még sem igazolom.</l>
+							<l>Nem úgy szokás kérni egy igaz Királytól.</l>
+							<l>Mérget lehet e’ként nyerni6 a’ trónustól.</l>
+							<l>Átkozni el-kezdvén gazdagink’ javait</l>
+							<l>Fel-támasztod reám Hazádnak fijait.</l>
+							<l>Tsak mormoltok minddég Királyságom ellen;</l>
+							<l>És rendelésetek, gyakorta helytelen.</l>
+							<l>Hogy szívünkbe, könnyen belé nem láthattok,</l>
+							<l>Gonoszt, és ártatlant reánk indítatok.</l>
+							<l>Spártdba, igen sok parantsolat hazud,</l>
+							<l>Mellyekről hatalmam, gyakran semmit nem tud.</l>
+							<l>De még is minden kor’, tsak én vádoltatom</l>
+							<l>Noha mere nézek, mindenütt lopatom.</l>
+							<l>Dézma-tábláinknál, sok tolvajok ülnek;</l>
+							<l>És mint igaz szolgák, a'ként betsültetnek</l>
+							<l>Sok törvény székekbe lelünk gyilkosokat.</l>
+							<l>Kik nem tapasztalják alatsonySágokat.</l>
+							<l>Halált parantsolnak minden kitsinységért,</l>
+							<l>Mint vizet, olly könnyen ontják a’ szegény vért.</l>
+							<l>Mind ezen hibákat, magamba jól sejtem,</l>
+							<l>De szegény népemet, el-sem is felejtem.</l>
+							<l>Meg-engedem, hogy az adósság Levelek</l>
+							<l>Égettessenek-meg: fel-álla' trónusba, ezt hallják</l>
+							<l>mindenek</l>
+							<l>Tsendesüljön-meg ma Spárta, lármájába:</l>
+							<l>Mint Atyjába, a’ként bízzon Királyába.</l>
+							<l>Állítsuk-fel újra Likurgus’ törvényét;</l>
+							<l>Édesítsük vele a’ népnek reményét. <stage>A ’ trónusról,
+                                    alá-száll.</stage>
+							</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Soha egy Királyság, a’nyit nem védelmez,</l>
+							<l>Mintha nyögésére népének figyelmez.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Soha egy Haza-fi, jobban meg-sem veszhet,</l>
+							<l>Mint ha hű Királya ellen pártot-üthet.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Tudom, a’ Királynak tzélját itt érteni,</l>
+							<l>De engem’, nem lehet olly könnyen sérteni.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Vitézi büszkeség beszéli ajakadon,</l>
+							<l>A' meg-általkodás látszik homlokodon.</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>A’ hamvazott tüzet, nem jó fel-bolygatni,</l>
+							<l>Tsak tsendességgel kell hevét fogyasztani.</l>
+							<l>Békességünk, köztünk engedelmet kíván,</l>
+							<l>A’ki hamar gerjed, magával nem jól bán.</l>
+							<l>Tsendességre jöttünk mindnyájan Spártába\</l>
+							<l>Nem jó egy Királynak verni Hazájába;</l>
+							<l>Mert belólrül szívét nagyon meg-szaggatja,</l>
+							<l>Mi kor’ birodalmát, magára lázasztj</l>
+							<l>Ha győz, kardra hányja majd egész Hazáját;</l>
+							<l>Ha veszt, el-ejtette fejét, koronáját</l>
+							<l>Leónidás, eztet nem tselekedhette,</l>
+							<l>’S hogy reá támadtunk, nem érdemelhette.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Vitéz, ismérem kötelességemet;</l>
+							<l>Mint Király, ’s mint Atya viszem életemet.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>Egy Királynak nehéz tenni hivatalát;</l>
+							<l>Igen sokan vannak, kik rángatják dolgát.</l>
+							<l>Kiki, tsak hívségét mutatja tettébe;</l>
+							<l>De sok, titkon mérget táplálhat szívébe.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Sok Király is vette már-el büntetését,</l>
+							<l>Hogy nem látván, gyakran nem tette intését.</l>
+							<l>Győzedelmeskedni tsúfság tsalárdsággal,</l>
+							<l>Kivált egy olly szívnél, melly jár igazsággal.</l>
+							<l>Ö mivel ártatlan, sokat ollyannak vél</l>
+							<l>Jóságához bízván, bátor, ’s soha nem fél.</l>
+							<l>így egy gonosz, kárt tesz’ hív Fejedelmének;</l>
+							<l>Ártatlan színt adván alatsony Lelkének.</l>
+							<l>Az illyen, Jupiter’ haragját rettegje,</l>
+							<l>Meg-tudja, mitsodás Istene ereje.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Ne küszdjön a’ Király már történetével.</l>
+							<l>Végezze-el sorsunk’ új rendelésével.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>A’ Vitézi őrzők, húzzák-el magokat,</l>
+							<l>Kleombrot’, Ágis is kövessék azokat.</l>
+							<l>Demókar’, Ámfares, menjenek ezekkel,</l>
+							<l>Tsak Ágézilaus maradjon velem-el.</l>
+						</lg>
+						<stage>el-mennek</stage>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Második jelenés</head>
+					<stage>ÁGÉZILAUS, LEÓNIDÁS.</stage>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Vitéz, ketten vagyunk e’ magánosságba,</l>
+							<l>Próbáljuk-meg szívünk’ most az igazságba.</l>
+							<l>Hogy ma hívségemre állottál kedvellem;</l>
+							<l>De mind-azon-által, két színedet félem.</l>
+							<l>Ágist, mint jó barát a’ként tanátsoltad,</l>
+							<l>Hívséged’, Kleombrot’ előtt is mutattad.</l>
+							<l>Látom, hogy ezektől önként el-pártoltál,</l>
+							<l>És a’ Világ előtt, én mellém állotál.</l>
+							<l>Hibáznék, ha néked próba nélkül hinnék,</l>
+							<l>’S tettedbe, illy hamar valóságot vélnék.</l>
+							<l>A'ki barátsága színével, egyszer tsal,</l>
+							<l>Töbnyire, az osztán gonoszságok közt hal.</l>
+							<l>Nem tudom, hogy értsem külső hívségedet,</l>
+							<l>Félem titkon hidd-el tsapodár szívedet.</l>
+							<l>Isteneink előtt, azért most próbállak;</l>
+							<l>Hogy belől, mint kívül, tisztán meg-lássalak.</l>
+							<l>Kövessem-é bízvást adott tanátsodat?</l>
+							<l>Vagy próbára vessem még minden szavadat?</l>
+							<l>Szólj, magyarázd magad'.</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>Mit tegyen hívségem!</l>
+							<l>Uram, már el-veszett minden tsendességem.</l>
+							<l>Igaz, hogy színeltem érted barátságom’;</l>
+							<l>Mellyel, látom sértem nálad igazságom'.</l>
+							<l>Egyedül Királyom forgott tsak eszembe,</l>
+							<l>’S azért változtattam magamat színembe</l>
+							<l>Javáért, felettéb nagyot is próbáltam.</l>
+							<l>A’ szent barátságot alatsonyúl tsaltam.</l>
+							<l>Egy Király’ hívsége, sok illy szentséget ront,</l>
+							<l>Tsal barátságunkkal; ’s vér tengereket ont.</l>
+							<l>Én is Uram érted egész bűnös lettem,</l>
+							<l>Vitézeink előtt értemnek kárt tettem:</l>
+							<l>Tselekedetem rút mindenütt azt mondják;</l>
+							<l>Valahol Spártába ma dolgomat halják.</l>
+							<l>A’kihez hív vagyok, ott sints már hitelem;</l>
+							<l>Jutalmam, mindenütt gyalázat, ’s félelem.</l>
+							<l>Hogyha hívségem nem tetszik a’ Királynak,</l>
+							<l>Más útját választom gyötrelmes sorsomnak.</l>
+							<l>Be keserves, Király és Haza közt lenni?</l>
+							<l>Me’nyit nem lehet már itt el-veszve lelni!</l>
+							<l>Ha hibázom Uram, tsak kegyelmet kérek</l>
+							<l>Mostani sorsomba; töbre úgy sem érek.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Barátom meg-botsáss, hogy kételkedhettem</l>
+							<l>’S igazságot benned mindjárt nem vélhettem.</l>
+							<l>Tudod, hogy a’ Királyt sok gonoszok tsalják</l>
+							<l>Kik nála, hívségek’ színességből vallják</l>
+							<l>Jobbágyai között, egyedül el-marad;</l>
+							<l>A’ szíveket látni haszontalan fárad.</l>
+							<l>Minden-felől árad a’ tanáts, székéhez;</l>
+							<l>Hol, sok ravaszsággal férnek kegyelméhez:</l>
+							<l>Meg-sérti reményét sok esedezőknek,</l>
+							<l>Nem látván törvényét19 a’ titkos Lelkeknek.</l>
+							<l>E’ szerént ne tsudáld Vitéz, ha nem hiszünk,</l>
+							<l>’S igaz hívünkbe is, gyakran tsalást vélünk.</l>
+							<l>Isteni erő kell egy Király lelkének;</l>
+							<l>Hogy tudhassa titkát jobbágya szívének.</l>
+							<l>Látván kínos sorsom' botsáss-meg nagy Vitéz,</l>
+							<l>Kételkedésemért, r’ám sajnosan ne nézz.</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>Egy Királynak, igen könnyű szívet nyerni;</l>
+							<l>Kevés szóval tud ő vigasztalni, verni.</l>
+							<l>Hogy ha hívségemet, Vezérem meg-hitte,</l>
+							<l>Kegyelme, örömöm az Egekig vitte.</l>
+							<l>Szívemnek több ollyan titka soha nem lesz,</l>
+							<l>Mellyet, Leónidás bennem észre-nem vesz’</l>
+							<l>A’ki egyes lehet Kegyelmes Urával;</l>
+							<l>Keveset bajlódik jobbágyi sorsával.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>
+								<stage>örömmel</stage>
+							</l>
+							<l>Vitéz, a’ Királynak hív szíveket nyerni</l>
+							<l>Nagyobb öröm, mint egy fél Világot verni.</l>
+							<l>Akármiilyen nagyra nő egy hatalmasság;</l>
+							<l>Minden kor’ szülheti vesztét a’ tsalárdság.</l>
+							<l>A’ tnelly ellenséget előttünk nézhetünk,</l>
+							<l>Vigyázassál azok’ kezétől élhetünk.</l>
+							<l>De ha belső méreg futja-el szívünket;</l>
+							<l>Kevés remény tartja a’kor’ életünket.</l>
+							<l>A’ tanátsosokból gonosz veszély kél-fel;</l>
+							<l>Egy Király az ellen fegyvert nehezen lel.</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGIZÉLAUS</speaker>
+						<lg>
+							<l>Nagy Király, e’ szerént én félek Ágistúl,</l>
+							<l>Ez a’ Vitéz szeléd, de titkon igen dúl.</l>
+							<l>Ha tsendes lesz is most kéntelenségébűl,</l>
+							<l>Alkalmatossággal még új háborút szűl.</l>
+						</lg>
+						<stage>E’kor’Ágiaris, és Télónis, a’ Játék-piatz fenekébe tsendesen
+                                be-tsúsznak: kik Ágézilausnak Leónidással tett beszédjét
+                                ki-hallgatják.</stage>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Ágézilaus, itt rád bízom magamat,</l>
+							<l>Vezéreljed híven, többekkel dolgomat</l>
+							<l>Ágist ’s Kleombrotest szükség el-veszteni;</l>
+							<l>Ha hívségek’ fel-nem lehet éleszteni.</l>
+							<l>Mikor’ a’ nép köztünk le-tsillapíttatik,</l>
+							<l>Dolgunk a’kor’ jobban meg-visgáltathatik.</l>
+							<l>Kérni kell elő-ször a’ párt-ütötteket,</l>
+							<l>Hogy ismét én hozzám hajtsák bús szíveket.</l>
+							<l>Most töb Vitézeim után el-sijetek;</l>
+							<l>Míg hatalmam alszik, tsendesen legyetek.</l>
+							<l>
+								<stage>el-megyen</stage>
+							</l>
+						</lg>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Harmadik jelenés</head>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>
+								<stage>egyedül</stage>
+							</l>
+							<l>A Haza ’s Király közt e’ként hányattatva</l>
+							<l>Szenyvedek; szívemet kínokkal szaggatva.</l>
+							<l>Nem néztem hasznára sem egy sem más résznek,</l>
+							<l>Rút szövevénye van pénzért, sok nagy észnek.</l>
+							<l>Sokan gondolnak úgy; hogy a’ néphez hajlok;</l>
+							<l>Mások azt hitték-el, á’ Királlyal tartok.</l>
+							<l>Kénteleníttetem titkolni magamat,</l>
+							<l>Nehezen húzom már, terhesült jármomat.</l>
+							<l>A’ Világba, minden önnön javát nézi,</l>
+							<l>’S dolgát szüntelenül hasznára intézi.</l>
+							<l>Alatsonyságomat igazán sajnálom,</l>
+							<l>De Leónidásnál mentségem’ tanálom:</l>
+							<l>Meg-kell erősítni tántorgó trónusát;</l>
+							<l>Hadd verje hatalma mások nyakasságát.</l>
+							<l>Egy nagy Király, a’melly Vitézt egy-szer szeret,</l>
+							<l>Gonosz az, a’ vagy jó, tiszteletet lelhet.</l>
+							<l>Reszketnek körülte szabadon szólani,</l>
+							<l>Kéntelen is meg-kell előtte hajlani.</l>
+							<l>
+								<stage>Zördülést hall.</stage>
+							</l>
+							<l>Valaki érkezik, bánom hogy szólottám;</l>
+							<l>Ezek a’ Hertzegnék: hát őket hallotam.</l>
+						</lg>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Negyedik jelenés</head>
+					<stage>ÁGIARIS, TÉLÓNIS, ÁGÉZILAUS.</stage>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>Ágézilaushoz már régen készültünk,</l>
+							<l>Mivel benne hozzánk hívségét reméltük.</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>Ha ollyan erőbe volna tehetségem,</l>
+							<l>Mint (érzem) kívánja örökös hívségem:</l>
+							<l>Fejedelemné nem lehetne szenyvednünk,</l>
+							<l>Öröm, ’s gyönyörűség közt kellene élnünk.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TELÓNIS</speaker>
+						<lg>
+							<l>
+								<stage>Kettős értelmetjelentő tekintetekkel.</stage>
+							</l>
+							<l>Vitéz, sokat lehet vélni beszédedről.</l>
+							<l>Tudok is ítélni hidjed nagy szívedről.</l>
+							<l>De Kleombrot’ ’s Ágis mindenütt keresnek;</l>
+							<l>Úgy hiszem, tsak hamar velem majd itt lelnek.</l>
+							<l>Tisztelettel fogják-venni személyedet,</l>
+							<l>Betsülvén Hazádhoz-való hívségedet.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Ne tsináljunk manért egy alatsonyságnak;</l>
+							<l>A 'ki ellensége lett a 'barátságnak.</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>Mit magyaráznak e’ mérges tekintetek?</l>
+							<l>A’ beszédek, érzem kínos értelműek.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>A’ beszéd mi köztünk egyenes értelmű;</l>
+							<l>De Ágézilaus’ élete két-színü.</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>Életem’ illy roszra mi magyarázhatta?</l>
+							<l>Gonoszságom' 'e'dig kitsoda tudhatta?</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>Gyalázat Vitéznek vétni tsalárdsággal:</l>
+							<l>’S hibájit tagadni osztán hazugsággal.</l>
+							<l>Leónidással, ma mit beszélt a’ Vitéz?</l>
+							<l>Jól látjuk szándékát, ’s értjük hogy hová néz.</l>
+							<l>El-tévedt haza-fi; tolvaja szívednek.</l>
+							<l>Szégyeneid tettedet; ’s lásd kárát értednek.</l>
+							<l>A’ szent barátságnak színével takarod,</l>
+							<l>Tsekélységed’ ’s hazád-fijait úgy tsalod</l>
+							<l>Benned növekedik Kleombrot’nak vádja:</l>
+							<l>Te is vagy egy részről már haragom' tárgya.</l>
+							<l>De rettegd boszszúját a’ nagy Isteneknek,</l>
+							<l>Féljed égő tüzét zúgó menny-köveknek.</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGIZÉLAUS</speaker>
+						<lg>
+							<l>Ne engedd hertzegné, gyúlni dühösséged’:</l>
+							<l>Ok nélkül ne hevítsd illy méreggel véred’.</l>
+							<l>A’ hirtelenkedés hazug lármát teszen:</l>
+							<l>Haszontalan hírből, sok kínos hartz leszen</l>
+							<l>Meg-tanít az idő majd továb dolgomról;</l>
+							<l>Felejtkezz-el kérlek mostani sorsomról.</l>
+							<l>
+								<stage>el-megyen</stage>
+							</l>
+						</lg>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Ötödik jelenés</head>
+					<stage>TÉLÓNIS, ÁGIARIS.</stage>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Télónis, el-vagyunk (látod) árúitatva,</l>
+							<l>Nyög szívem mellyembe, már felére halva.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>De Leónidásról miként gondolkozzam?</l>
+							<l>Nálam, Atyaságát gyanúba hogy hozzam?</l>
+							<l>Kleombrot’ ’s Agisnak halálokról szóllott</l>
+							<l>Ha nem képzelődöm ’s fülem tisztán hallott.</l>
+							<l>El-kell-é miatta veszteni Férjemet!</l>
+							<l>Vagy szerentséltessem érette él’temet.</l>
+							<l>Átkozott történet! Haragos Istenek!</l>
+							<l>Honnan támad mérge búsúlt dörgésteknek!</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Télónis védelmezd életét férjednek,</l>
+							<l>’S ne rettegd menny-kövét rút történetednek.</l>
+							<l>Én nékem veszett-el minden segedelmem,</l>
+							<l>Ah fel-hatott-é már az Égig gyötrelmem!</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>Ne félj, pártot ütött nálam a’ természet,</l>
+							<l>Gyermeki hívségem bennem el-enyészett.</l>
+							<l>Egy gyilkos Atyának legyek kötelébe?</l>
+							<l>Ki férjemnek vesztét forralja vérébe.</l>
+							<l>El-búsúlt Istenek! ha van igazságtok</l>
+							<l>Él’temet, veszélyén múlni ne hagyjátok.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Fel-ne támadjál még a’ nagy Istenekre,</l>
+							<l>Tekintsreménységgel Kegyelmes Egekre.</l>
+							<l>Várjuk-el tsudáját történeteinknek,</l>
+							<l>Tanúlván titkait a’ végezéseknek.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>Ha tsak várakozunk itt eszközök nélkül,</l>
+							<l>Hidd-meg, hogy Lelkünk majd a’ Stiksz' partjára ül:</l>
+							<l>A’ komor Káronnal lesz veszekedése,</l>
+							<l>’S poklokra lármázni szalad rettegése.</l>
+							<l>De meg-mutatom ma az Istenek ellen,</l>
+							<l>Hogy Férjemnek élni még nem lehetetlen.</l>
+							<l>
+								<stage>E’kor’ kebeléből egy kést ki-húz dühösködve</stage>
+							</l>
+							<l>E’ kés’ hegyén függ majd Leónidás’ Lelke,</l>
+							<l>A’ porba fog-dülni el-mérgesült teste.</l>
+							<l>El-vesztem előre veszedelmes létét;</l>
+							<l>Vérével fújja-ki végső lehelletét.</l>
+							<l>
+								<stage>Iszonyú írtódzással reszket: szemei
+                                el-fordúlnak.</stage>
+							</l>
+							<l>Ah Istenek! mi ez! <stage>egy helybe néz,</stage>pokol gyúl</l>
+							<l>fel bennem</l>
+							<l>A’ kétségbe-esés rág! hová kell lennem!</l>
+							<l>Dühösségem’ heve égeti testemet;</l>
+							<l>Méreg űzi bennem el-tévedt Lelkemet,.</l>
+							<l>A’melly vérbe létem kezdett melegedni,</l>
+							<l>A’ba kelljen gyilkos kezemet keverni?</l>
+							<l>Jupiter hogy halgat most meg-búsúlt Éged!</l>
+							<l>M’ért nem dörögsz? tsattogj, hadd tsapjon meny-köved.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Ne gyújtsd-fel a’ poklot még dühösségével,</l>
+							<l>Ne kezdj Jupiternek hartzot menny-kövével.</l>
+							<l>Fújd-ki itt vérednek fel-gyúladott mérgét.</l>
+							<l>Ne átkozd hirtelen előttem azt a’ vért;</l>
+							<l>Mellybe szerentsétlen voltod kezdetre ért.</l>
+							<l>Lármázd-fel kéréssel, a’ siket Egeket:</l>
+							<l>Indítsd Kegyelemre néma seregeket.</l>
+							<l>Míg más módot találsz, ne légy soha gyilkos,</l>
+							<l>Tudod, az illyen bűn miilyen kárhozatos.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLONIS</speaker>
+						<lg>
+							<l>Ágiaris, veszett már érzékenységem;</l>
+							<l>Az Ég, és pokol közt szaggatatik Lelkem:</l>
+							<l>Felettem Jupiter' haragja tsatázik:</l>
+							<l>Alattam a’ mélység fel-nyílva szikrázik.</l>
+							<l>Érzem, Leónidás gyilkos akar lenni</l>
+							<l>Nem lehet-é néki e’be ellent tenni?</l>
+							<l>Engedelmességgel tsak a’dig tartozom;</l>
+							<l>Míg Atyám bűnétől nagyon nem irtódzom.</l>
+							<l>Egy gyilkos veszszen-el Isten, Világ előtt;</l>
+							<l>Ez a’ törvény, tudod a’ természetbűl kőlt.</l>
+							<l>Gyermeki hívségem, el-szúnnyadhat bennem,</l>
+							<l>Az Isten, s’ természet mellet kell ma lennem.</l>
+							<l>Mitsoda egy Atya, ha véribe veszett,</l>
+							<l>’S ártatlan gyermekin gyilkosságokat tett.</l>
+							<l>Tsak a’ természetnek maradok fajzása.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>De Leónidásnak lettél származása.</l>
+							<l>Ö benne kezdődött egyedül életed.</l>
+							<l>Néki köszönheted mások felett léted.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>Testi kívánság formált tsak vérébe:</l>
+							<l>A’ természet táplált Anyámnak méhébe</l>
+							<l>Egy gyermeknek tsak e’ marad’o-meg Nemzőül,</l>
+							<l>Ha hozzá kegyelme szüléjinek meg-hűl.</l>
+							<l>Ha az Atyám, Isten ’s Világ ellen kelhet,</l>
+							<l>Szívébe fegyverem véres halált vihet.</l>
+							<l>Mi-kor ő gyermekét mérgéből ölheti,</l>
+							<l>A’ gyermek is él'tét meg-védelmezheti.</l>
+							<l>Mindennek egyenlő Anyja a’ természet,</l>
+							<l>Azért a’tól, a’ki hív fajára veszett,</l>
+							<l>El-veszik Istenink Atya’ méltóságát:</l>
+							<l>Útálják az Egek úndok bolondságát.</l>
+							<l>Leónidás vére a’ poklokra termett;</l>
+							<l>Mert fija’ vesztére rendeléseket tett.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Engedd hát Atyádat tsak bús Isteninknek,</l>
+							<l>’S ne húzd r’á menny-kövét a’ dörgő Egeknek.</l>
+							<l>Egy gyermek, el-fajúlt Atyját nem ölheti:</l>
+							<l>Mert halálát nála futva kerülheti.</l>
+							<l>Tiszteljed Atyádat gonoszságába is,</l>
+							<l>Halgass; hadd szolljanak itt az Istenek is.</l>
+							<l>Fussad őt’ míg lehet ’s úgy őrizd él'tedet;</l>
+							<l>De ellene, fel-ne emeljed kezedet.</l>
+							<l>A’ természet, minden-felől kiált reád,</l>
+							<l>Ne öld-meg mint gyermek, ellened kőlt Atyád’.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>De ha Kleombrot’ ma a’ Királyért el-vesz,</l>
+							<l>Mi az az Ég alatt, mi örömömre lesz;</l>
+							<l>A’ poklokra szállók, ha férjemet vesztem,</l>
+							<l>Meg-ölöm a’ Királyt, ’s el-veszem életem’.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Ne szólj’ a poklokhoz, míg Egeink’ nézhed</l>
+							<l>’S a’ gondviselésbe, életed’ reméllhed.</l>
+							<l>Utolsó dühösség, magát valakinek</l>
+							<l>El-vesztvén, a’ poklot kérni-ki bérinek.</l>
+							<l>Ne húnyd-be szemedet világos napunknak,</l>
+							<l>Lehet még védelme köztünk az igaznak.</l>
+							<l>Az indúlat, tudod, nagy károkat okoz;</l>
+							<l>Tüzébe a’ Lélek, fúldoklással haboz.</l>
+							<l>Hozd-viszsza magadat Lelked’ Világára,</l>
+							<l>Ne nézz olly kínosan férjednek sorsára.</l>
+							<l>Egy érdemes fajzás Eget, földet, poklot,</l>
+							<l>Minden nagy változást, ditséretet, átkot,</l>
+							<l>Meg-veszés nélkül néz tsendes életébe;</l>
+							<l>Mert nints bolondíto méreg a’ vérébe.</l>
+							<l>Remélj hát Télónis: Kérd az Isteneket,</l>
+							<l>Legyél tsendességbe: várjad Kegyelmeket.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>Mit várhatunk továb már az Istenektől?</l>
+							<l>Kik, el-felejtkezni láttatnak ügyünkről.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>
+								<stage>menést sejt</stage>
+							</l>
+							<l>Vannak itt Télónis: férj-fijú érkezik;</l>
+							<l>Leónidás maga, ki köztünk jelenik.</l>
+						</lg>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Hatodik jelenés</head>
+					<stage>LEÓNIDÁS, ÁGIARIS, TÉLÓNIS.</stage>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Télónis, látod-é engedelmességem’</l>
+							<l>Mellyel, itt tsendesen viselem ínségem'</l>
+							<l>Hazánknak javáért kedvezek férjednek;</l>
+							<l>Hogy gyönyörűségét szülhessem szívednek.</l>
+							<l>Tudom, most magadba Atyádnak jóságát</l>
+							<l>Tisztelvén; vádolod férjed’ makatsságát.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>A’ Király’jósága igen meszsze terjed:</l>
+							<l>Benne, egész Spárta ma újonnan éled.</l>
+							<l>Érezzük Kegyelmét Atyai szívének.</l>
+							<l>Illendő sorsot is készítünk él’tének.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Egy igaz származás hív marad Atyjához,</l>
+							<l>Télónisjósága, mindent húz magához</l>
+							<l>
+								<stage>Ágiarishoz fordúl</stage>
+							</l>
+							<l>Hertzegné, nehezen felejtem sebemet;</l>
+							<l>Mélyen sértette-vólt Ágis a’ szívemet.</l>
+							<l>Nem tudom, mit tegyek belső fájdalmamma</l>
+							<l>Félem titkotokat még nehéz gondommal.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>Király, köztünk minden az Ég’ rendelése,</l>
+							<l>Sorsunk az Istenek’ örök végezése.</l>
+							<l>Egy halandó, eszköz Istene’ kezébe:</l>
+							<l>A’mint erőltetik, tsak úgy tesz’ mívébe.</l>
+							<l>Menny-kövét Jupiter hozzád ha le-küldi;</l>
+							<l>És Ágisnak Lelkét benned el-üldözi;</l>
+							<l>Üss ma, ne függeszd-fel mérges tsapásodat:</l>
+							<l>Mútasd Olimpusnak hatalmasságodat.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Büszkeség beszél-ki Hertzegné belőled,</l>
+							<l>Méreggel van tele engedetlen Lelked.</l>
+							<l>Érzéketlenséged, ne gondold hogy győzzön,</l>
+							<l>’S kevély szavaival, szívembe előzzön.</l>
+							<l>Jól látom magamba történeteteket:</l>
+							<l>Hidd-el, hogy ismérem a’ nagy Isteneket.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>El-ne felejtse hát a' Király jóságát:</l>
+							<l>Majd meg-lopja tüze, nagy ártatlanságát.</l>
+							<l>Tsak el-tökéllet szív szóll Ágiarisból;</l>
+							<l>Nem szükség szavára felelni haragból.</l>
+							<l>A’ nagy Kegyelmesség, minden-kor’ ékesít:</l>
+							<l>Ö az, mi egy Királyt leg-inkáb nemesít.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Tsak te vagy Télónis, a'ki szíved bírod,</l>
+							<l>’S érzékenységimet híven tanátsolod.</l>
+							<l>Ágiarisnak is meg-engedek érted;</l>
+							<l>Tsak legyen hív hozzám engedelmes szíved’.</l>
+							<l>
+								<stage>Ágiarishoz fordul.</stage>
+							</l>
+							<l>Hertzegné, vetkezd-le Vitézi tüzedet;</l>
+							<l>Lágyítsd Királyodhoz keményült' szívedet.</l>
+						</lg>
+						<stage>Télónis hátúl-felöl kést ránt: néz az Egekre: ’s Leónidást
+                                által-akarja ütni</stage>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>
+								<stage>kiáltással, ki Leónidást (látván Télónis’ tselekedetét,) a
+                                    döfés alól el-rántja.</stage>
+							</l>
+							<l>Istenek vegyétek-el haragotokat.</l>
+							<l>Szerentsétlen Király!</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>
+								<stage>rettegve kétfelé tekint.</stage>
+							</l>
+							<l>változásotokat</l>
+							<l>Illy hirtelenséggel érteni nem tudom;</l>
+							<l>Rettegek szívembe igazán meg-vallom.</l>
+							<l>Mitsoda haragot sejthetett Lelketek?</l>
+							<l>Mi az, mi illy lármát okozott bennetek?</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>
+								<stage>kétséges tekintettel.</stage>
+							</l>
+							<l>A’ pokol’ dühösség tsapott-el felettünk;</l>
+							<l>Mellytől én, ’s a’ Király tsak nem majd el-vesztünk.</l>
+							<l>Ágiaris, kárunk’ meg-látván szemével,</l>
+							<l>A’ Királyt hirtelen el-rántá kezével.</l>
+						</lg>
+						<stage>Leónidás hol Ágiarisra, hol Télónisrafordúl: rémülés, kétség,
+                                ábrázoltatik tekintetébe.</stage>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Mitsoda gyötrelem támadott szívembe!</l>
+							<l>Kétség és rettegés mardosnak Lelkembe.</l>
+							<l>Istenink küldik-é hozzánk óltalmokat?</l>
+							<l>Vagy tsak a pokloknak sejtjük árnyékokat?</l>
+							<l>Kínos halandóság! veszett történetek!</l>
+							<l>Me’nyi sok tsudákkal tsavarog rendetek!</l>
+							<l>
+								<stage>Kétfelé tekint, keservesen.</stage>
+							</l>
+							<l>Jere Ágiaris velem, Télónissal;</l>
+							<l>Hagyjuk-el ez helyet: és fohászkodással</l>
+							<l>Értekezzünk együtt történeteinkről;</l>
+							<l>Beszéljünk tanátssal, nagy Isteneinkről.</l>
+						</lg>
+						<stage>Vége az harmadik Játéknak.</stage>
+					</sp>
 				</div>
 			</div>
 			<div type="act">
@@ -3514,7 +3514,8 @@
 						</lg>
 						<stage>(Mindnyájan el-mennek sietséggel.)</stage>
 					</sp>
-					<div type="scene">
+					</div>
+				<div type="scene">
 						<head type="title">Hetedik jelenés</head>
 						<sp who="#leonidas">
 							<speaker>LEÓNIDÁS</speaker>
@@ -3547,695 +3548,694 @@
 						</sp>
 						<stage>Vége a’ negyedik Játéknak.</stage>
 					</div>
+			</div>
+			<div type="act">
+				<head type="title">ÖTÖDIK JÁTÉK</head>
+				<div type="scene">
+					<head type="title">ELSŐ jelenés</head>
+					<stage>LEÓNIDÁS, DEMÓKARES, ÁGÉZILAUS ÁMFARES, és
+                            PALOTÁS-VITÉZEK.</stage>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Ámfares, mint tetted parantsolatomat?</l>
+							<l>Végbe vittétek-é már akaratomat?</l>
+							<l>Hallik még közöttünk a’ népnek lármája?</l>
+							<l>Millyen habon járhat Spárta’ koronája?</l>
+						</lg>
+					</sp>
+					<sp who="#amfares">
+						<speaker>ÁMFARES</speaker>
+						<lg>
+							<l>Nagy Király Hazánkat tsendességre vitted,</l>
+							<l>Rabságának lántzát róla le-vetetted.</l>
+							<l>A’ kötés levelek meg-égettettek már,</l>
+							<l>Spártába a’ szegény közöttünk bátran jár.</l>
+							<l>Minden meg-hajol itt újra koronádnak,</l>
+							<l>Emelhed páltzáját felső hatalmadnak.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Ámfaresjutalmad’ várhad Kegyelmemtől</l>
+							<l>’S ne rettenj-meg soha búsúlt személyemtől.</l>
+							<l>Véget vetek már ma Spártába dolgomnak,</l>
+							<l>Állandó ereje leszen hatalmamnak.</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>Uram győzd-meg eléb a’ párt-ütötteket,</l>
+							<l>Kik még is tagadják hozzád hívségeket.</l>
+							<l>Ágis és Kleombrot’ zúgnak még ellened,</l>
+							<l>Ezekhez keménynek kell uram ma lenned.</l>
+							<l>Előtted, előttünk, ismérjék-meg vétkek’</l>
+							<l>Ítéltessen osztán Kegyelmedtől tettek.</l>
+							<l>Kövessék-meg eléb sérült méltóságod’,</l>
+							<l>Hadd legyen szabaddá úgy hatalmasságod.</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Ágézilaus itt törvényből beszéltet;</l>
+							<l>A’ sérült Felségnek e’nél, töb nem keltett.</l>
+							<l>Kleombrotest, Ágist, hozzánk kell hívatni,</l>
+							<l>Király előttünk jó ezeket vallatni.</l>
+							<l>Szükség el-távozni hamvazott tüzektől,</l>
+							<l>Mert tehet még félni a’ titkos méregtől.</l>
+							<l>Ha fel-nem kívánod osztani Hazádat,</l>
+							<l>Újra el-hozza még Ágis fájdalmadat.</l>
+							<l>Vagy szorítsuk őket; vagy adjuk mit kérnek:</l>
+							<l>Különben ezek még végre meg-verhetnek.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Értek kell küldeni.</l>
+						</lg>
+					</sp>
+					<sp who="#agezilaus">
+						<speaker>ÁGÉZILAUS</speaker>
+						<lg>
+							<l>Inhol jőnek ketten.</l>
+						</lg>
+					</sp>
 				</div>
-				<div type="act">
-					<head type="title">ÖTÖDIK JÁTÉK</head>
-					<div type="scene">
-						<head type="title">ELSŐ jelenés</head>
-						<stage>LEÓNIDÁS, DEMÓKARES, ÁGÉZILAUS ÁMFARES, és
-                                PALOTÁS-VITÉZEK.</stage>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Ámfares, mint tetted parantsolatomat?</l>
-								<l>Végbe vittétek-é már akaratomat?</l>
-								<l>Hallik még közöttünk a’ népnek lármája?</l>
-								<l>Millyen habon járhat Spárta’ koronája?</l>
-							</lg>
-						</sp>
-						<sp who="#amfares">
-							<speaker>ÁMFARES</speaker>
-							<lg>
-								<l>Nagy Király Hazánkat tsendességre vitted,</l>
-								<l>Rabságának lántzát róla le-vetetted.</l>
-								<l>A’ kötés levelek meg-égettettek már,</l>
-								<l>Spártába a’ szegény közöttünk bátran jár.</l>
-								<l>Minden meg-hajol itt újra koronádnak,</l>
-								<l>Emelhed páltzáját felső hatalmadnak.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Ámfaresjutalmad’ várhad Kegyelmemtől</l>
-								<l>’S ne rettenj-meg soha búsúlt személyemtől.</l>
-								<l>Véget vetek már ma Spártába dolgomnak,</l>
-								<l>Állandó ereje leszen hatalmamnak.</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>Uram győzd-meg eléb a’ párt-ütötteket,</l>
-								<l>Kik még is tagadják hozzád hívségeket.</l>
-								<l>Ágis és Kleombrot’ zúgnak még ellened,</l>
-								<l>Ezekhez keménynek kell uram ma lenned.</l>
-								<l>Előtted, előttünk, ismérjék-meg vétkek’</l>
-								<l>Ítéltessen osztán Kegyelmedtől tettek.</l>
-								<l>Kövessék-meg eléb sérült méltóságod’,</l>
-								<l>Hadd legyen szabaddá úgy hatalmasságod.</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Ágézilaus itt törvényből beszéltet;</l>
-								<l>A’ sérült Felségnek e’nél, töb nem keltett.</l>
-								<l>Kleombrotest, Ágist, hozzánk kell hívatni,</l>
-								<l>Király előttünk jó ezeket vallatni.</l>
-								<l>Szükség el-távozni hamvazott tüzektől,</l>
-								<l>Mert tehet még félni a’ titkos méregtől.</l>
-								<l>Ha fel-nem kívánod osztani Hazádat,</l>
-								<l>Újra el-hozza még Ágis fájdalmadat.</l>
-								<l>Vagy szorítsuk őket; vagy adjuk mit kérnek:</l>
-								<l>Különben ezek még végre meg-verhetnek.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Értek kell küldeni.</l>
-							</lg>
-						</sp>
-						<sp who="#agezilaus">
-							<speaker>ÁGÉZILAUS</speaker>
-							<lg>
-								<l>Inhol jőnek ketten.</l>
-							</lg>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Második jelenés</head>
-						<stage>LEÓNIDÁS, ÁMFARES, KLEOMBROTES, ÁGIS, ÁGÉZILAUS, DEMÓKARES, és
-                                PALOTÁS-VITÉZEK.</stage>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>
-									<stage>Ágishoz és Kleombroteshez</stage>
-								</l>
-								<l>Hozzátok akartam küldeni most éppen.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Uram hozzád jöttünk Kegyelmed' köszönni.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>De mikor tehet már hívségteknek hinni?</l>
-								<l>Reméljem-é továb engedelmességtek’</l>
-								<l>Hogy el-felejthessem ellenségességtek’?</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Egyebet törvénynél Uram nem kívántunk,</l>
-								<l>Mellyet Kegyelmedtől végre meg-is kaptunk.</l>
-								<l>Azért tisztelhetjük illy nagy jóságodat,</l>
-								<l>Erősíthed köztünk igaz hatalmadat.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>De sérült bennetek felső méltóságom,</l>
-								<l>Mert meg-tsúfoltátok nagyon Királyságom’.</l>
-								<l>Fegyvert is fogtatok titkosan ellenem,</l>
-								<l>Ezt büntetés nélkül nem lehet szenyvednem;</l>
-								<l>De mind-azon-által ha meg-isméritek,</l>
-								<l>Hogy koronám ellen önként vétkeztetek;</l>
-								<l>Ma méltóságomnak hív meg-követése</l>
-								<l>Lesz haragomnak itt el-enyészése.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>Király ne kénszeríts vétkünket vallani,</l>
-								<l>Nehéz az igaznak illy törvényt hallani.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Uram ne kívánja ezt tőlünk hatalmad.</l>
-								<l>Változtasd tzélodat, ’s nyugtasd másként magad’.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Gyalázat lesz néktek engem’ meg-követni?</l>
-								<l>Nem lehet-é az illy makatsoktól félni?</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Király! ha meg-valjuk, hogy nagyon sértettünk</l>
-								<l>A’ törvény éretted el-veszi életünk’.</l>
-								<l>Gonoszokká leszünk szájunk’ vallásával,</l>
-								<l>Hogy veszszen két férj-fi illy rút halálával.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Igérem Kegyelmem’, meg-maradtok; éltek</l>
-								<l>Soha haragomtól továb nem félhettek.</l>
-								<l>De követésieket hatalmam kívánja,</l>
-								<l>’S Kegyelmem hogy hibát nem ismértek, bánja.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>Uram lehetetlen eztet tselekednünk.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Inkáb haljunk, mint hogy gyalázattal éljünk.</l>
-								<l>A’ki ok nélkül is sértheti Királyát,</l>
-								<l>Nem érdemelheti az Spártából faját.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Mitsoda büszkén szóll egy nyakas Vitézség!</l>
-								<l>Me’nyire nem mehet benne a’ kevélység!</l>
-								<l>Kegyelmemért fedd már fel-gyúlladt haragom',</l>
-								<l>Bánom mérsékeltem e’dig indúlatom’:</l>
-								<l>Továbbá bús szívem tsak boszszú-állást szül,</l>
-								<l>Reszkessetek újra gerjedett tüzemtül.</l>
-								<l>Meg-büntetlek azért, hogy szerethettelek</l>
-								<l>Benneteket, mert már Kegyelmet nem lelek.</l>
-								<l>
-									<stage>A’ palotás-vitézekhez4</stage>
-								</l>
-								<l>Strá’za állja-körül két-szer palotámat,</l>
-								<l>Halgassa ma Spárta búsúlt hatalmamat.</l>
-							</lg>
-						</sp>
-						<sp who="#amfares">
-							<speaker>ÁMFARES</speaker>
-							<lg>
-								<l>Uram ha lehet még magad’ engesztelni;</l>
-								<l>Tzélom van előtted Kegyelmedet kérni.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Szólj</l>
-							</lg>
-						</sp>
-						<sp who="#amfares">
-							<speaker>ÁMFARES</speaker>
-							<lg>
-								<l>Talám jó vólna Kleombrot’ ’s Ágisnak,</l>
-								<l>Hogy egy kis ideig magok maradjanak.</l>
-								<l>Ha tanátskozhatnak bővebben szívekkel,</l>
-								<l>Tudom meg-egyeznek Vitézi tüzekkel.</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>Meg-engedem érted még ez örömöket;</l>
-								<l>Próbálják magokba el-fajúlt szíveket.</l>
-								<l>Hagyjuk-el itt őket; dolgozzanak ketten;</l>
-								<l>Sok beszédet lehet tenni az életen.</l>
-							</lg>
-							<stage>el-mennek</stage>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Harmadik jelenés</head>
-						<stage>ÁGIS, KLEOMBROTES.</stage>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Ágis! Jupiter most kezeit emeli,</l>
-								<l>’S emésztő nyilait ellenünk tegezi.</l>
-								<l>Haragra változott nagy hatalma benne,</l>
-								<l>Mi az, mi már továb segítségünk lenne?</l>
-								<l>Fáradok szívembe: vesztem reményemet:</l>
-								<l>Meg-gyaláztatásom rettenti Lelkemet.</l>
-								<l>Ki-fújta már magát az el-lankadott nép,</l>
-								<l>Ah Ágis be tsalárd és változó e’ kép.</l>
-								<l>Községünk a’kit ma Istennek imádott,</l>
-								<l>A’nak hív vérével, holnap meg-áldozott —</l>
-								<l>Ha kérések meg-van, továb nem gondolnak</l>
-								<l>Minden tsalárdságot igazságnak vallnak.</l>
-								<l>Az álhatatosság semmivé lesz bennek;</l>
-								<l>Határozott tzéllal lehetetlen lennek.</l>
-								<l>Mit tegyünk ma Ágis? bízzunk-é a’ néphez?</l>
-								<l>Lármázhatunk újra; futván védelmekhez?</l>
-								<l>Vagy tsak ismérjük-meg alatsony vétkünket?</l>
-								<l>Hogy gyalázatunkkal hódoljuk értünket.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>Kleombrot’ híjába: keserves az halál, ’</l>
-								<l>S Jupiter’ menny-köve haszontalan talál;</l>
-								<l>Mert sem Ég, sem pokol nem elég életem’</l>
-								<l>Úgy vérni, hogy rontsa vele Vitéz’ nevem’.</l>
-								<l>Engesztelhetetlen Istenink trutztzára,</l>
-								<l>El-tökélli magát Ágis, halálára.</l>
-								<l>A’ nagy végezések gyalázni akarnak,</l>
-								<l>’S hogy meg-verettessünk, Istenink vakítnak.</l>
-								<l>Kitsoda kívánja vétkemet ismémi,</l>
-								<l>’S érte Leónidást esedezve kérni.</l>
-								<l>Ha eléb Jupiter dolgunkba vezérlett,</l>
-								<l>’S ellenségink ellen a’nyit védelmezett;</l>
-								<l>Változtassa önként tselekedeteit.</l>
-								<l>Könnyen el-hagyhatom pestises Egeit.</l>
-								<l>Gyaláztatásomba nem élek Kleombrot’.</l>
-								<l>Inkáb választom ma a’ Setét koporsót.</l>
-								<l>Tüzére vetette haragom szívemet;</l>
-								<l>A’ Stiksz’ komor habja tsapkodja Telkemet.</l>
-								<l>Nem irtódzom továb Plútónak székitől,</l>
-								<l>Tsak hírem ne veszszen Vitézi nevemtől.</l>
-								<l>El-hagyom Jupiter' alatsony Világát,</l>
-								<l>Ereszszük kezére a’ meg-veszett Spártát.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Ágis, meg-egyezem Vitézi tzéloddal,</l>
-								<l>Barátságot tettem él’ted ’s haláloddal.</l>
-							</lg>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Negyedik jelenés</head>
-						<stage>TÉLÓNIS, ÁGIS, KLEOMBROTES.</stage>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>Hallod-é Kleombrot’ a’ poklokat bőgni?</l>
-								<l>Jupiter haragját lád-é rajtad égni?</l>
-								<l>A’dig védelmezte hazádat hívséged,</l>
-								<l>Hogy az Akheronra útat talált Lelked.</l>
-								<l>Szabadítsd életed’ Kleombrot’ ha lehet,</l>
-								<l>Talám még kérésed6 engedelmet nyerhet.</l>
-								<l>Szerentsétlen Vitéz, mint bánja szerelmem,</l>
-								<l>Hogy ellenségedet, nem ölte fegyverem.</l>
-								<l>Talám ezzel adtam-vólna szabadúlást,</l>
-								<l>Ah érzem már bennem az halál’ irtódzást.</l>
-								<l>Kleombrot’! hívségem bennem kárhozat lett;</l>
-								<l>Mert minden módokat éretted meg-nem tett.</l>
-								<l>Kérjed Leónidást ’s a’ bús Isteneket,</l>
-								<l>Engeszteld ha lehet értem az Egeket.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Télónis! ellenem beszéled tanátsod'</l>
-								<l>Töröld-el előlem károsjavallásod’</l>
-								<l>Nem szükség igaznak sírva esedezni,</l>
-								<l>Kéntelen Jupiter eztet védelmezni.</l>
-								<l>Nem könyöröghetek; magam’ sem alázom;</l>
-								<l>Inkáb a’ haragnak, véremmel áldozom.</l>
-								<l>Meg-ölhet Jupiter; de nem vesz’ kérésre,</l>
-								<l>Egy haldokló nem hajt a’ menny-kő verésre.</l>
-								<l>Tselekedetemért senkit nem követek;</l>
-								<l>Ha Spártának tetszik, érte el-veszhetek</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>Poklokba keresed hát ditsőségedet?</l>
-								<l>Nem tartóztathad-é már értem Lelkedet?</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Ha maradt Kegyelmek még bús Isteninknek:</l>
-								<l>Számodra, életbe meg-védelmezhetnek.</l>
-								<l>De gyalázatommal nem szabadúlhatok.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>Nintsen segedelem: ah hát én is halok.</l>
-							</lg>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Ötödik jelenés</head>
-						<stage>ÁMFARES, DEMÓKARES, KLEOMBROTES, ÁGIS, TÉLÓNIS, és TEST-ÖRZÖ
-                                VITÉZEK.</stage>
-						<sp who="#amfares">
-							<speaker>ÁMFARES</speaker>
-							<lg>
-								<l>Vitézek a’ felsőb tanátsból érkezem,</l>
-								<l>Hogy meg-határozott tzélotok’ kérdezzem.</l>
-								<l>A’miként tettétek akaratotokat,</l>
-								<l>A’ szerént veszitek tőlünk sorsotokat.</l>
-								<l>Úgy vagyunk el-küldve őrző Vitézinkkel,</l>
-								<l>Hogy készek lehessünk büntetéseinkkel.</l>
-								<l>Meg-ismérik-é már a’ férj-fijak vétkek’,</l>
-								<l>Vagy nem engedhet még tetszésünknek szívek.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrtoes">
-							<speaker>KLEOMBRTOES</speaker>
-							<lg>
-								<l>Tiszta életemmel nem kárhoztathatom,</l>
-								<l>Halálos vétkemet benne nem vallhatom.</l>
-								<l>Tsak az erő-szaknak voltam ellensége,</l>
-								<l>Nem bánom, öljön-meg Hazámnak hívsége.</l>
-								<l>Mond-meg a’ Királynak, hogy őt védelmeztem,</l>
-								<l>A’ midőn népének keservét éreztem.</l>
-							</lg>
-						</sp>
-						<sp who="#amfares">
-							<speaker>ÁMFARES</speaker>
-							<lg>
-								<l>Vitéz! beszédeddel rabbá lett életed,</l>
-								<l>Meg-botsáss el-fogják őrzőim személyed’.</l>
-								<l>
-									<stage>E’kor' Kleombrotes önnön fegyverét magáról levévén, azt
-                                        Ámfaresnek által-adja.</stage>
-								</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Nem szükség hogy továb valaki illessen,</l>
-								<l>Megyek hová vezetsz; strá’zád tsak kövessen.</l>
-							</lg>
-						</sp>
-						<sp who="#telonis">
-							<speaker>TÉLÓNIS</speaker>
-							<lg>
-								<l>Szenyvedj-el Kleombrot’ nemes rabságodba,</l>
-								<l>El-megyek, veled kell szállnom koporsómba.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>El-megyek, veled kell szállnom koporsómba.</l>
-								<l>Tsak ne képzeld nagyon mellettem ínséged’.</l>
-								<l>Hát Ágisról miként végeztek az Egek,</l>
-								<l>Me’re üldözik őt’ velem az Istenek?</l>
-							</lg>
-						</sp>
-						<sp who="#amfares">
-							<speaker>ÁMFARES</speaker>
-							<lg>
-								<l>Demókaresre van története bízva.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Demókaresre van története bízva.</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Hertzeg! tőlem fogja — Ágis nyerni sorsát,</l>
-								<l>Mikor’ meg-értettem utolsó szándékát.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Ágis, légy hív hozzám, sorsunk egyenlő lesz</l>
-								<l>El-maradsz most; de a’ történet mellém tesz’.</l>
-								<l>
-									<stage>Egy kis ideig egy-mást keservesen nézik.</stage>
-								</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>Kleombrot’, kínom közt tévelyeg már Lelkem,</l>
-								<l>Halálos keservem, jövendöli vesztem’.</l>
-								<l>
-									<stage>Kleombrotes e'kor' barátjának nyakába esik; kik egy-mást
-                                        meg-ölelvén, tsendesen vannak.</stage>
-								</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>
-									<stage>keservesen</stage>
-								</l>
-								<l>Emlékezz-meg Ágis, hív barátságomról,</l>
-								<l>Mikor’ vég órád közt hallasz halálomról.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>Mondhatatlan kínok! Kleombrot’ ne emész,</l>
-								<l>A’ természet bennem gyötrelmébe meg-vész.</l>
-								<l>Mi módon veszszek-el hív barátom mellől,</l>
-								<l>Ah menny-dörögj bús Ég! szaggass pokol belől.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Meg-győzte szívünket végre a’ fájdalom.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>Ugyan azért lett olly mérgessé halálom.</l>
-							</lg>
-						</sp>
-						<sp who="#amfares">
-							<speaker>ÁMFARES</speaker>
-							<lg>
-								<l>
-									<stage>Kleombroteshez</stage>
-								</l>
-								<l>Hertzeg! időnk múlik.</l>
-							</lg>
-						</sp>
-						<sp who="#kleombrotes">
-							<speaker>KLEOMBROTES</speaker>
-							<lg>
-								<l>Ágis el-hagylak-é?</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>Menj-el, a’ végezés örök Isteninkké.</l>
-								<l>
-									<stage>(El-megyen hirtelenséggel Télónissal, ki ötét keservébe
-                                        követi.')</stage>
-								</l>
-							</lg>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Hatodik jelenés</head>
-						<stage>DEMÓKARES, ÁGIS.</stage>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Ágis! mond-ki hamar végső akaratod’,</l>
-								<l>Hagyd, tudjam érteni örökös széndékod'.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>Nem ismérem magam’ Spártába bűnösnek;</l>
-								<l>Verjen bár menny-köve a' nagy Jupiternek.</l>
-								<l>Inkáb a’ poklokra szállok-le lelkemmel,</l>
-								<l>Mint magam’ gyalázzam vétkes életemmel.</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>Halálnak fija vagy; engedd a’ fegyvered’,</l>
-								<l>Ha nem hóldolsz, széllyel’-foly előttünk véred.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>
-									<stage>fegyvérét nyújtván.</stage>
-								</l>
-								<l>Vedd-el tehát; nesze utolsó védelmem,</l>
-								<l>’S bánj velem mint tetszik; kezedben életem,</l>
-								<l>Óltsa-el szívemen Leónidás mérgét,</l>
-								<l>Itassa-meg benne szomjú dühösségét,</l>
-								<l>Természet, és Isten ellen életemet</l>
-								<l>Veszítsd-el, verd-által késeddel szívemet.</l>
-								<l>Átkozott az, kire a’ természet kiált,</l>
-								<l>Hogy ok nélkül hozott valakire halált.</l>
-								<l>Veszett mérgetekbe nyalhatjátok vérem’.</l>
-								<l>De el-nem törlitek soha ditsőségem’.</l>
-							</lg>
-						</sp>
-						<sp who="#demokares">
-							<speaker>DEMÓKARES</speaker>
-							<lg>
-								<l>
-									<stage>dühösségétőlel-ragadtatván fegyvertránt, ’s Ágist
-                                        által-üti.</stage>
-								</l>
-								<l>Kínos vakmerőség! veszsz-el a’ Világról,</l>
-								<l>Irtódzva beszéljen Spárta, halálodról.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>
-									<stage>haldokló szavakkal</stage>
-								</l>
-								<l>A’ki tud Királya ellen rúgodózni,</l>
-								<l>E’képen szokott az, vérével áldozni.</l>
-								<l>Rettegi a’ trónust végre halálába;</l>
-								<l>Mellyet meg-vetett-vólt halandóságába.</l>
-							</lg>
-						</sp>
-					</div>
-					<div type="scene">
-						<head type="title">Hetedik jelenés</head>
-						<stage>ÁGISTRAT, ÁGIARIS, ÁMFARES. LEÓNIDÁS.</stage>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>
-									<stage>Keserves kiáltással.</stage>
-								</l>
-								<l>Jaj!- - - <stage>el-fogódik</stage>,- - -Istenek!</l>
-								<l>Ágis!<stage>az urára dül.</stage>
-								</l>
-							</lg>
-						</sp>
-						<sp who="#agistrat">
-							<speaker>ÁGISTRAT</speaker>
-							<lg>
-								<l>Örökös gyötrelem!</l>
-								<l>Me’nyire szaggathat ez a’ veszedelem!</l>
-								<l>
-									<stage>Ágistrat, Ágiaris, mind-ketten Ágisra borulnak, kinek
-                                        testétszó nélkül könyveikkel áztatják</stage>
-								</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>
-									<stage>utolsó lehellései közt haldokolva</stage>
-								</l>
-								<l>Ágistrat, — reátok — az örök — istenek,</l>
-								<l>Haraggal — mint reám — soha-ne nézzenek.</l>
-								<l>Véres áldozatját — bennem — ma Hazámnak,</l>
-								<l>Lássátok; — ez oka kínos halálomnak.</l>
-								<l>
-									<stage>Egyik karjátfel-emelvén, Ágiarisnak vállaira
-                                        teszi.</stage>
-								</l>
-								<l>Egyik karjátfel-emelvén, Ágiarisnak vállaira teszi.</l>
-								<l>’S engeszteld-meg hozzád a’ haragos Eget.</l>
-							</lg>
-						</sp>
-						<sp who="#agiaris">
-							<speaker>ÁGIARIS</speaker>
-							<lg>
-								<l>
-									<stage>zokogva utolsó keservébe.</stage>
-								</l>
-								<l>Ah ne kénszeríts így hívségem tagadni;</l>
-								<l>Nem lehet már nékem más tárgyért fáradni.</l>
-								<l>Mind Égtül, mind földtül, el-vontad szerelmem’,</l>
-								<l>Koporsódba húzol; szívembe úgy érzem.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>
-									<stage>Ágistrathoz</stage>
-								</l>
-								<l>[Ágistrat, — a’kinek — véredbe — éledtem,</l>
-								<l>Ha származásomért — meg-nem — fizethettem;</l>
-								<l>Jutalmazzanak jól — értem — az Istenek,</l>
-								<l>Kik, hozzám most úgy is — lásd — melly</l>
-								<l>kegyetlenek!</l>
-							</lg>
-						</sp>
-						<sp who="#agistrat">
-							<speaker>ÁGISTRAT</speaker>
-							<lg>
-								<l>
-									<stage>fúldokolva</stage>
-								</l>
-								<l>Az Egek’ kegyelmét továb nem kívánom,</l>
-								<l>Utolsó végemet koporsódon várom.</l>
-							</lg>
-						</sp>
-						<sp who="#agis">
-							<speaker>ÁGIS</speaker>
-							<lg>
-								<l>
-									<stage>nagyon akadozva.</stage>
-								</l>
-								<l>Hidegszik már vérem, — el-fogyott — életem,</l>
-								<l>Ah! — le-tapad nyelvem, — repül tőlem — Lelkem.</l>
-								<l>
-									<stage>E’kor’ egy halálos sóhajtást teszen; széllyel veti
-                                        tagjait, ’s meg-fosztatik érzékenységétől.</stage>
-								</l>
-							</lg>
-						</sp>
-						<sp who="#leonidas">
-							<speaker>LEÓNIDÁS</speaker>
-							<lg>
-								<l>
-									<stage>ki e’dig e’ keserves Trágédiát minddég törődéssel nézte,
-                                        kezeit öszve-kaptsolva fájdalmason szól.</stage>
-								</l>
-								<l>Véres áldozatját látom trónusomnak,</l>
-								<l>Melly kínos hatalma van Királyságomnak!</l>
-								<l>Ágist örökösen kesergem vesztével,</l>
-								<l>Mert noha el-pártolt; de nagy volt szívével —</l>
-								<l>
-									<stage>a’ sokaságra né</stage>
-								</l>
-								<l>Reszkessetek egy nagy főnek hatalmától!</l>
-								<l>Ójjátok magatok’ el-búsúlásától.</l>
-							</lg>
-						</sp>
-						<stage>Vége az ötödik ’s utolsó Játéknak</stage>
-					</div>
+				<div type="scene">
+					<head type="title">Második jelenés</head>
+					<stage>LEÓNIDÁS, ÁMFARES, KLEOMBROTES, ÁGIS, ÁGÉZILAUS, DEMÓKARES, és
+                            PALOTÁS-VITÉZEK.</stage>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>
+								<stage>Ágishoz és Kleombroteshez</stage>
+							</l>
+							<l>Hozzátok akartam küldeni most éppen.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Uram hozzád jöttünk Kegyelmed' köszönni.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>De mikor tehet már hívségteknek hinni?</l>
+							<l>Reméljem-é továb engedelmességtek’</l>
+							<l>Hogy el-felejthessem ellenségességtek’?</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Egyebet törvénynél Uram nem kívántunk,</l>
+							<l>Mellyet Kegyelmedtől végre meg-is kaptunk.</l>
+							<l>Azért tisztelhetjük illy nagy jóságodat,</l>
+							<l>Erősíthed köztünk igaz hatalmadat.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>De sérült bennetek felső méltóságom,</l>
+							<l>Mert meg-tsúfoltátok nagyon Királyságom’.</l>
+							<l>Fegyvert is fogtatok titkosan ellenem,</l>
+							<l>Ezt büntetés nélkül nem lehet szenyvednem;</l>
+							<l>De mind-azon-által ha meg-isméritek,</l>
+							<l>Hogy koronám ellen önként vétkeztetek;</l>
+							<l>Ma méltóságomnak hív meg-követése</l>
+							<l>Lesz haragomnak itt el-enyészése.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>Király ne kénszeríts vétkünket vallani,</l>
+							<l>Nehéz az igaznak illy törvényt hallani.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Uram ne kívánja ezt tőlünk hatalmad.</l>
+							<l>Változtasd tzélodat, ’s nyugtasd másként magad’.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Gyalázat lesz néktek engem’ meg-követni?</l>
+							<l>Nem lehet-é az illy makatsoktól félni?</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Király! ha meg-valjuk, hogy nagyon sértettünk</l>
+							<l>A’ törvény éretted el-veszi életünk’.</l>
+							<l>Gonoszokká leszünk szájunk’ vallásával,</l>
+							<l>Hogy veszszen két férj-fi illy rút halálával.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Igérem Kegyelmem’, meg-maradtok; éltek</l>
+							<l>Soha haragomtól továb nem félhettek.</l>
+							<l>De követésieket hatalmam kívánja,</l>
+							<l>’S Kegyelmem hogy hibát nem ismértek, bánja.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>Uram lehetetlen eztet tselekednünk.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Inkáb haljunk, mint hogy gyalázattal éljünk.</l>
+							<l>A’ki ok nélkül is sértheti Királyát,</l>
+							<l>Nem érdemelheti az Spártából faját.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Mitsoda büszkén szóll egy nyakas Vitézség!</l>
+							<l>Me’nyire nem mehet benne a’ kevélység!</l>
+							<l>Kegyelmemért fedd már fel-gyúlladt haragom',</l>
+							<l>Bánom mérsékeltem e’dig indúlatom’:</l>
+							<l>Továbbá bús szívem tsak boszszú-állást szül,</l>
+							<l>Reszkessetek újra gerjedett tüzemtül.</l>
+							<l>Meg-büntetlek azért, hogy szerethettelek</l>
+							<l>Benneteket, mert már Kegyelmet nem lelek.</l>
+							<l>
+								<stage>A’ palotás-vitézekhez4</stage>
+							</l>
+							<l>Strá’za állja-körül két-szer palotámat,</l>
+							<l>Halgassa ma Spárta búsúlt hatalmamat.</l>
+						</lg>
+					</sp>
+					<sp who="#amfares">
+						<speaker>ÁMFARES</speaker>
+						<lg>
+							<l>Uram ha lehet még magad’ engesztelni;</l>
+							<l>Tzélom van előtted Kegyelmedet kérni.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Szólj</l>
+						</lg>
+					</sp>
+					<sp who="#amfares">
+						<speaker>ÁMFARES</speaker>
+						<lg>
+							<l>Talám jó vólna Kleombrot’ ’s Ágisnak,</l>
+							<l>Hogy egy kis ideig magok maradjanak.</l>
+							<l>Ha tanátskozhatnak bővebben szívekkel,</l>
+							<l>Tudom meg-egyeznek Vitézi tüzekkel.</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>Meg-engedem érted még ez örömöket;</l>
+							<l>Próbálják magokba el-fajúlt szíveket.</l>
+							<l>Hagyjuk-el itt őket; dolgozzanak ketten;</l>
+							<l>Sok beszédet lehet tenni az életen.</l>
+						</lg>
+						<stage>el-mennek</stage>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Harmadik jelenés</head>
+					<stage>ÁGIS, KLEOMBROTES.</stage>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Ágis! Jupiter most kezeit emeli,</l>
+							<l>’S emésztő nyilait ellenünk tegezi.</l>
+							<l>Haragra változott nagy hatalma benne,</l>
+							<l>Mi az, mi már továb segítségünk lenne?</l>
+							<l>Fáradok szívembe: vesztem reményemet:</l>
+							<l>Meg-gyaláztatásom rettenti Lelkemet.</l>
+							<l>Ki-fújta már magát az el-lankadott nép,</l>
+							<l>Ah Ágis be tsalárd és változó e’ kép.</l>
+							<l>Községünk a’kit ma Istennek imádott,</l>
+							<l>A’nak hív vérével, holnap meg-áldozott —</l>
+							<l>Ha kérések meg-van, továb nem gondolnak</l>
+							<l>Minden tsalárdságot igazságnak vallnak.</l>
+							<l>Az álhatatosság semmivé lesz bennek;</l>
+							<l>Határozott tzéllal lehetetlen lennek.</l>
+							<l>Mit tegyünk ma Ágis? bízzunk-é a’ néphez?</l>
+							<l>Lármázhatunk újra; futván védelmekhez?</l>
+							<l>Vagy tsak ismérjük-meg alatsony vétkünket?</l>
+							<l>Hogy gyalázatunkkal hódoljuk értünket.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>Kleombrot’ híjába: keserves az halál, ’</l>
+							<l>S Jupiter’ menny-köve haszontalan talál;</l>
+							<l>Mert sem Ég, sem pokol nem elég életem’</l>
+							<l>Úgy vérni, hogy rontsa vele Vitéz’ nevem’.</l>
+							<l>Engesztelhetetlen Istenink trutztzára,</l>
+							<l>El-tökélli magát Ágis, halálára.</l>
+							<l>A’ nagy végezések gyalázni akarnak,</l>
+							<l>’S hogy meg-verettessünk, Istenink vakítnak.</l>
+							<l>Kitsoda kívánja vétkemet ismémi,</l>
+							<l>’S érte Leónidást esedezve kérni.</l>
+							<l>Ha eléb Jupiter dolgunkba vezérlett,</l>
+							<l>’S ellenségink ellen a’nyit védelmezett;</l>
+							<l>Változtassa önként tselekedeteit.</l>
+							<l>Könnyen el-hagyhatom pestises Egeit.</l>
+							<l>Gyaláztatásomba nem élek Kleombrot’.</l>
+							<l>Inkáb választom ma a’ Setét koporsót.</l>
+							<l>Tüzére vetette haragom szívemet;</l>
+							<l>A’ Stiksz’ komor habja tsapkodja Telkemet.</l>
+							<l>Nem irtódzom továb Plútónak székitől,</l>
+							<l>Tsak hírem ne veszszen Vitézi nevemtől.</l>
+							<l>El-hagyom Jupiter' alatsony Világát,</l>
+							<l>Ereszszük kezére a’ meg-veszett Spártát.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Ágis, meg-egyezem Vitézi tzéloddal,</l>
+							<l>Barátságot tettem él’ted ’s haláloddal.</l>
+						</lg>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Negyedik jelenés</head>
+					<stage>TÉLÓNIS, ÁGIS, KLEOMBROTES.</stage>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>Hallod-é Kleombrot’ a’ poklokat bőgni?</l>
+							<l>Jupiter haragját lád-é rajtad égni?</l>
+							<l>A’dig védelmezte hazádat hívséged,</l>
+							<l>Hogy az Akheronra útat talált Lelked.</l>
+							<l>Szabadítsd életed’ Kleombrot’ ha lehet,</l>
+							<l>Talám még kérésed6 engedelmet nyerhet.</l>
+							<l>Szerentsétlen Vitéz, mint bánja szerelmem,</l>
+							<l>Hogy ellenségedet, nem ölte fegyverem.</l>
+							<l>Talám ezzel adtam-vólna szabadúlást,</l>
+							<l>Ah érzem már bennem az halál’ irtódzást.</l>
+							<l>Kleombrot’! hívségem bennem kárhozat lett;</l>
+							<l>Mert minden módokat éretted meg-nem tett.</l>
+							<l>Kérjed Leónidást ’s a’ bús Isteneket,</l>
+							<l>Engeszteld ha lehet értem az Egeket.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Télónis! ellenem beszéled tanátsod'</l>
+							<l>Töröld-el előlem károsjavallásod’</l>
+							<l>Nem szükség igaznak sírva esedezni,</l>
+							<l>Kéntelen Jupiter eztet védelmezni.</l>
+							<l>Nem könyöröghetek; magam’ sem alázom;</l>
+							<l>Inkáb a’ haragnak, véremmel áldozom.</l>
+							<l>Meg-ölhet Jupiter; de nem vesz’ kérésre,</l>
+							<l>Egy haldokló nem hajt a’ menny-kő verésre.</l>
+							<l>Tselekedetemért senkit nem követek;</l>
+							<l>Ha Spártának tetszik, érte el-veszhetek</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>Poklokba keresed hát ditsőségedet?</l>
+							<l>Nem tartóztathad-é már értem Lelkedet?</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Ha maradt Kegyelmek még bús Isteninknek:</l>
+							<l>Számodra, életbe meg-védelmezhetnek.</l>
+							<l>De gyalázatommal nem szabadúlhatok.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>Nintsen segedelem: ah hát én is halok.</l>
+						</lg>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Ötödik jelenés</head>
+					<stage>ÁMFARES, DEMÓKARES, KLEOMBROTES, ÁGIS, TÉLÓNIS, és TEST-ÖRZÖ
+                            VITÉZEK.</stage>
+					<sp who="#amfares">
+						<speaker>ÁMFARES</speaker>
+						<lg>
+							<l>Vitézek a’ felsőb tanátsból érkezem,</l>
+							<l>Hogy meg-határozott tzélotok’ kérdezzem.</l>
+							<l>A’miként tettétek akaratotokat,</l>
+							<l>A’ szerént veszitek tőlünk sorsotokat.</l>
+							<l>Úgy vagyunk el-küldve őrző Vitézinkkel,</l>
+							<l>Hogy készek lehessünk büntetéseinkkel.</l>
+							<l>Meg-ismérik-é már a’ férj-fijak vétkek’,</l>
+							<l>Vagy nem engedhet még tetszésünknek szívek.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrtoes">
+						<speaker>KLEOMBRTOES</speaker>
+						<lg>
+							<l>Tiszta életemmel nem kárhoztathatom,</l>
+							<l>Halálos vétkemet benne nem vallhatom.</l>
+							<l>Tsak az erő-szaknak voltam ellensége,</l>
+							<l>Nem bánom, öljön-meg Hazámnak hívsége.</l>
+							<l>Mond-meg a’ Királynak, hogy őt védelmeztem,</l>
+							<l>A’ midőn népének keservét éreztem.</l>
+						</lg>
+					</sp>
+					<sp who="#amfares">
+						<speaker>ÁMFARES</speaker>
+						<lg>
+							<l>Vitéz! beszédeddel rabbá lett életed,</l>
+							<l>Meg-botsáss el-fogják őrzőim személyed’.</l>
+							<l>
+								<stage>E’kor' Kleombrotes önnön fegyverét magáról levévén, azt
+                                    Ámfaresnek által-adja.</stage>
+							</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Nem szükség hogy továb valaki illessen,</l>
+							<l>Megyek hová vezetsz; strá’zád tsak kövessen.</l>
+						</lg>
+					</sp>
+					<sp who="#telonis">
+						<speaker>TÉLÓNIS</speaker>
+						<lg>
+							<l>Szenyvedj-el Kleombrot’ nemes rabságodba,</l>
+							<l>El-megyek, veled kell szállnom koporsómba.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>El-megyek, veled kell szállnom koporsómba.</l>
+							<l>Tsak ne képzeld nagyon mellettem ínséged’.</l>
+							<l>Hát Ágisról miként végeztek az Egek,</l>
+							<l>Me’re üldözik őt’ velem az Istenek?</l>
+						</lg>
+					</sp>
+					<sp who="#amfares">
+						<speaker>ÁMFARES</speaker>
+						<lg>
+							<l>Demókaresre van története bízva.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Demókaresre van története bízva.</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Hertzeg! tőlem fogja — Ágis nyerni sorsát,</l>
+							<l>Mikor’ meg-értettem utolsó szándékát.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Ágis, légy hív hozzám, sorsunk egyenlő lesz</l>
+							<l>El-maradsz most; de a’ történet mellém tesz’.</l>
+							<l>
+								<stage>Egy kis ideig egy-mást keservesen nézik.</stage>
+							</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>Kleombrot’, kínom közt tévelyeg már Lelkem,</l>
+							<l>Halálos keservem, jövendöli vesztem’.</l>
+							<l>
+								<stage>Kleombrotes e'kor' barátjának nyakába esik; kik egy-mást
+                                    meg-ölelvén, tsendesen vannak.</stage>
+							</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>
+								<stage>keservesen</stage>
+							</l>
+							<l>Emlékezz-meg Ágis, hív barátságomról,</l>
+							<l>Mikor’ vég órád közt hallasz halálomról.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>Mondhatatlan kínok! Kleombrot’ ne emész,</l>
+							<l>A’ természet bennem gyötrelmébe meg-vész.</l>
+							<l>Mi módon veszszek-el hív barátom mellől,</l>
+							<l>Ah menny-dörögj bús Ég! szaggass pokol belől.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Meg-győzte szívünket végre a’ fájdalom.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>Ugyan azért lett olly mérgessé halálom.</l>
+						</lg>
+					</sp>
+					<sp who="#amfares">
+						<speaker>ÁMFARES</speaker>
+						<lg>
+							<l>
+								<stage>Kleombroteshez</stage>
+							</l>
+							<l>Hertzeg! időnk múlik.</l>
+						</lg>
+					</sp>
+					<sp who="#kleombrotes">
+						<speaker>KLEOMBROTES</speaker>
+						<lg>
+							<l>Ágis el-hagylak-é?</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>Menj-el, a’ végezés örök Isteninkké.</l>
+							<l>
+								<stage>(El-megyen hirtelenséggel Télónissal, ki ötét keservébe
+                                    követi.')</stage>
+							</l>
+						</lg>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Hatodik jelenés</head>
+					<stage>DEMÓKARES, ÁGIS.</stage>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Ágis! mond-ki hamar végső akaratod’,</l>
+							<l>Hagyd, tudjam érteni örökös széndékod'.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>Nem ismérem magam’ Spártába bűnösnek;</l>
+							<l>Verjen bár menny-köve a' nagy Jupiternek.</l>
+							<l>Inkáb a’ poklokra szállok-le lelkemmel,</l>
+							<l>Mint magam’ gyalázzam vétkes életemmel.</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>Halálnak fija vagy; engedd a’ fegyvered’,</l>
+							<l>Ha nem hóldolsz, széllyel’-foly előttünk véred.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>
+								<stage>fegyvérét nyújtván.</stage>
+							</l>
+							<l>Vedd-el tehát; nesze utolsó védelmem,</l>
+							<l>’S bánj velem mint tetszik; kezedben életem,</l>
+							<l>Óltsa-el szívemen Leónidás mérgét,</l>
+							<l>Itassa-meg benne szomjú dühösségét,</l>
+							<l>Természet, és Isten ellen életemet</l>
+							<l>Veszítsd-el, verd-által késeddel szívemet.</l>
+							<l>Átkozott az, kire a’ természet kiált,</l>
+							<l>Hogy ok nélkül hozott valakire halált.</l>
+							<l>Veszett mérgetekbe nyalhatjátok vérem’.</l>
+							<l>De el-nem törlitek soha ditsőségem’.</l>
+						</lg>
+					</sp>
+					<sp who="#demokares">
+						<speaker>DEMÓKARES</speaker>
+						<lg>
+							<l>
+								<stage>dühösségétőlel-ragadtatván fegyvertránt, ’s Ágist
+                                    által-üti.</stage>
+							</l>
+							<l>Kínos vakmerőség! veszsz-el a’ Világról,</l>
+							<l>Irtódzva beszéljen Spárta, halálodról.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>
+								<stage>haldokló szavakkal</stage>
+							</l>
+							<l>A’ki tud Királya ellen rúgodózni,</l>
+							<l>E’képen szokott az, vérével áldozni.</l>
+							<l>Rettegi a’ trónust végre halálába;</l>
+							<l>Mellyet meg-vetett-vólt halandóságába.</l>
+						</lg>
+					</sp>
+				</div>
+				<div type="scene">
+					<head type="title">Hetedik jelenés</head>
+					<stage>ÁGISTRAT, ÁGIARIS, ÁMFARES. LEÓNIDÁS.</stage>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>
+								<stage>Keserves kiáltással.</stage>
+							</l>
+							<l>Jaj!- - - <stage>el-fogódik</stage>,- - -Istenek!</l>
+							<l>Ágis!<stage>az urára dül.</stage>
+							</l>
+						</lg>
+					</sp>
+					<sp who="#agistrat">
+						<speaker>ÁGISTRAT</speaker>
+						<lg>
+							<l>Örökös gyötrelem!</l>
+							<l>Me’nyire szaggathat ez a’ veszedelem!</l>
+							<l>
+								<stage>Ágistrat, Ágiaris, mind-ketten Ágisra borulnak, kinek
+                                    testétszó nélkül könyveikkel áztatják</stage>
+							</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>
+								<stage>utolsó lehellései közt haldokolva</stage>
+							</l>
+							<l>Ágistrat, — reátok — az örök — istenek,</l>
+							<l>Haraggal — mint reám — soha-ne nézzenek.</l>
+							<l>Véres áldozatját — bennem — ma Hazámnak,</l>
+							<l>Lássátok; — ez oka kínos halálomnak.</l>
+							<l>
+								<stage>Egyik karjátfel-emelvén, Ágiarisnak vállaira
+                                    teszi.</stage>
+							</l>
+							<l>Egyik karjátfel-emelvén, Ágiarisnak vállaira teszi.</l>
+							<l>’S engeszteld-meg hozzád a’ haragos Eget.</l>
+						</lg>
+					</sp>
+					<sp who="#agiaris">
+						<speaker>ÁGIARIS</speaker>
+						<lg>
+							<l>
+								<stage>zokogva utolsó keservébe.</stage>
+							</l>
+							<l>Ah ne kénszeríts így hívségem tagadni;</l>
+							<l>Nem lehet már nékem más tárgyért fáradni.</l>
+							<l>Mind Égtül, mind földtül, el-vontad szerelmem’,</l>
+							<l>Koporsódba húzol; szívembe úgy érzem.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>
+								<stage>Ágistrathoz</stage>
+							</l>
+							<l>[Ágistrat, — a’kinek — véredbe — éledtem,</l>
+							<l>Ha származásomért — meg-nem — fizethettem;</l>
+							<l>Jutalmazzanak jól — értem — az Istenek,</l>
+							<l>Kik, hozzám most úgy is — lásd — melly</l>
+							<l>kegyetlenek!</l>
+						</lg>
+					</sp>
+					<sp who="#agistrat">
+						<speaker>ÁGISTRAT</speaker>
+						<lg>
+							<l>
+								<stage>fúldokolva</stage>
+							</l>
+							<l>Az Egek’ kegyelmét továb nem kívánom,</l>
+							<l>Utolsó végemet koporsódon várom.</l>
+						</lg>
+					</sp>
+					<sp who="#agis">
+						<speaker>ÁGIS</speaker>
+						<lg>
+							<l>
+								<stage>nagyon akadozva.</stage>
+							</l>
+							<l>Hidegszik már vérem, — el-fogyott — életem,</l>
+							<l>Ah! — le-tapad nyelvem, — repül tőlem — Lelkem.</l>
+							<l>
+								<stage>E’kor’ egy halálos sóhajtást teszen; széllyel veti
+                                    tagjait, ’s meg-fosztatik érzékenységétől.</stage>
+							</l>
+						</lg>
+					</sp>
+					<sp who="#leonidas">
+						<speaker>LEÓNIDÁS</speaker>
+						<lg>
+							<l>
+								<stage>ki e’dig e’ keserves Trágédiát minddég törődéssel nézte,
+                                    kezeit öszve-kaptsolva fájdalmason szól.</stage>
+							</l>
+							<l>Véres áldozatját látom trónusomnak,</l>
+							<l>Melly kínos hatalma van Királyságomnak!</l>
+							<l>Ágist örökösen kesergem vesztével,</l>
+							<l>Mert noha el-pártolt; de nagy volt szívével —</l>
+							<l>
+								<stage>a’ sokaságra né</stage>
+							</l>
+							<l>Reszkessetek egy nagy főnek hatalmától!</l>
+							<l>Ójjátok magatok’ el-búsúlásától.</l>
+						</lg>
+					</sp>
+					<stage>Vége az ötödik ’s utolsó Játéknak</stage>
 				</div>
 			</div>
 		</body>

@@ -1210,10 +1210,12 @@
 						<l>Tevegeti áldozatját</l>
 						<l>’S gyönyörködve szolgálja.</l>
 					</lg>
-					<l>Szent érzéketlenség! milly árulás!</l>
-					<l>Vagy melly varázs váltotta könyvemet?</l>
-					<l>Visszásak minden oktatásai</l>
-					<l>’S nem várt tanácsa kétkedésbe ejt.</l>
+					<lg>
+						<l>Szent érzéketlenség! milly árulás!</l>
+						<l>Vagy melly varázs váltotta könyvemet?</l>
+						<l>Visszásak minden oktatásai</l>
+						<l>’S nem várt tanácsa kétkedésbe ejt.</l>
+					</lg>
 					<stage>(Össze vissza forgatja a’ könyvet ’s ismét olvas)</stage>
 					<lg>
 						<l>Megláttam őt ’s kebelemben</l>
@@ -8006,36 +8008,35 @@
 				<sp who="#katicza">
 					<speaker>KATICZA</speaker>
 					<stage>(csendesen kémlelődve jő)</stage>
-					<l>Bucsúzni jöttem; búcsuzatlanúl</l>
-					<l>El nem mehetnék. ’S még is menni kell,</l>
-					<l>Mert ah! alusznak, a’ kik olly szelíden</l>
-					<l>Fogadtak el hű szornszédnéjokat.</l>
-					<l>Alusznak? ah ébren csak az lehet,</l>
-					<l>Kit messze űút vár, mint most engemet.</l>
-					<stage>(Egyik oldalajtó felé fordúlva)</stage>
-					<l>Jó Vilma, éljen boldogúl, barátném,</l>
-					<l>Ki mindlig olly békével hallgatott!</l>
-					<l>Kinél a’ város’ minden titkait</l>
-					<l>És minden hírt olly biztosan leraktam.</l>
-					<l>’S hamis komorna, a’ ki annyiszor</l>
-					<l>Tréfáival megcsalt, ’s te kis madár,</l>
-					<l>Te kis boszontó, a’ ki énekeddel</l>
-					<l>Beszédimet gyakorta megszegéd;</l>
-					<stage>(A’ másik oldalajtókoz fordúlva)</stage>
-					<l>És nyájas szomszéd, a’ ki érdekes</l>
-					<l>Közléseimnél olly jól szundikált,</l>
-					<l>Mindnyájan, ah mindnyájan éljenek</l>
-					<l>’S megemlegessék a’ hű Katiczát!</l>
-					<l>De ah mi vég vár engem? rnelly világ’</l>
-					<l>Részébe hí el sorsa kedvesemnek?</l>
-					<l>’S kit én, bár tudtomon kivűl,</l>
-					<l>Olly lázadásig hő érzésre bírtam?</l>
-					<l>Ifjú-e? szép-e? jó-e? ’s olly-e, hogy</l>
-					<l>Ártatlanságom benne bízhatik?</l>
-					<stage>(Óraütés hallik, mellyre megrezzen)</stage>
 					<lg>
-						<l>Az óra üt, hah! menni kell. <stage>(Elsiet)</stage>
-						</l>
+						<l>Bucsúzni jöttem; búcsuzatlanúl</l>
+						<l>El nem mehetnék. ’S még is menni kell,</l>
+						<l>Mert ah! alusznak, a’ kik olly szelíden</l>
+						<l>Fogadtak el hű szornszédnéjokat.</l>
+						<l>Alusznak? ah ébren csak az lehet,</l>
+						<l>Kit messze űút vár, mint most engemet.</l>
+						<stage>(Egyik oldalajtó felé fordúlva)</stage>
+						<l>Jó Vilma, éljen boldogúl, barátném,</l>
+						<l>Ki mindlig olly békével hallgatott!</l>
+						<l>Kinél a’ város’ minden titkait</l>
+						<l>És minden hírt olly biztosan leraktam.</l>
+						<l>’S hamis komorna, a’ ki annyiszor</l>
+						<l>Tréfáival megcsalt, ’s te kis madár,</l>
+						<l>Te kis boszontó, a’ ki énekeddel</l>
+						<l>Beszédimet gyakorta megszegéd;</l>
+						<stage>(A’ másik oldalajtókoz fordúlva)</stage>
+						<l>És nyájas szomszéd, a’ ki érdekes</l>
+						<l>Közléseimnél olly jól szundikált,</l>
+						<l>Mindnyájan, ah mindnyájan éljenek</l>
+						<l>’S megemlegessék a’ hű Katiczát!</l>
+						<l>De ah mi vég vár engem? rnelly világ’</l>
+						<l>Részébe hí el sorsa kedvesemnek?</l>
+						<l>’S kit én, bár tudtomon kivűl,</l>
+						<l>Olly lázadásig hő érzésre bírtam?</l>
+						<l>Ifjú-e? szép-e? jó-e? ’s olly-e, hogy</l>
+						<l>Ártatlanságom benne bízhatik?</l>
+						<stage>(Óraütés hallik, mellyre megrezzen)</stage>
+						<l>Az óra üt, hah! menni kell. <stage>(Elsiet)</stage></l>
 					</lg>
 				</sp>
 				<sp who="#vilma">

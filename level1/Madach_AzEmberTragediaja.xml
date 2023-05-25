@@ -454,7 +454,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<head type="title">Madách Imre: Az ember tragédiája</head>
+			<head type="title">Az ember tragédiája</head>
 			<div type="act">
 				<head type="title">ELSŐ SZÍN.</head>
 				<stage>(A mennyekben. Az ÚR dicstől környezetten trónján. ANGYALOK SEREGE térden. A
@@ -7471,11 +7471,11 @@
 					<lg>
 						<l>Igaz koldús sem vagy hát e szerint,</l>
 						<l>Kontár sehonnai, rendőrt hivok. -</l>
+						<stage>(A második koldús elsompolyog. Az első helyet foglal.)</stage>
+						<l>Krisztusnak öt sebére, alamízsnát</l>
+						<l>A szenvedőnek, édes uraim! -</l>
 					</lg>
 				</sp>
-				<stage>(A második koldús elsompolyog. Az első helyet foglal.)</stage>
-				<l>Krisztusnak öt sebére, alamízsnát</l>
-				<l>A szenvedőnek, édes uraim! -</l>
 				<stage>(Egy KATONA egy MESTERLEGÉNY kezéből elveszi tánczosnéját.)</stage>
 				<sp who="#katona">
 					<speaker>KATONA.</speaker>
@@ -7996,15 +7996,15 @@
 						<l>Nyerd el tehát. - Csak korlátozni bírd</l>
 						<l>Érzésidet, hazugságtól ne félj,</l>
 						<l>Felelj, mint kérdlek, s karjaidba dűl. -</l>
+						<stage>(Hangosan, hogy a mögöttük hallgatózó czigányasszony meghallja.)</stage>
+						<l>Most látja már, mylord, mi kellemetlen,</l>
+						<l>Álarcz alatt a nép közé vegyűlni,</l>
+						<l>Mindúntalan új bántalomra botlunk.</l>
+						<l>Ha sejtené e nép, hogy négy hajónk</l>
+						<l>Még már ma révbe szálland Indiából,</l>
+						<l>Máskép fogadna.</l>
 					</lg>
 				</sp>
-				<stage>(Hangosan, hogy a mögöttük hallgatózó czigányasszony meghallja.)</stage>
-				<l>Most látja már, mylord, mi kellemetlen,</l>
-				<l>Álarcz alatt a nép közé vegyűlni,</l>
-				<l>Mindúntalan új bántalomra botlunk.</l>
-				<l>Ha sejtené e nép, hogy négy hajónk</l>
-				<l>Még már ma révbe szálland Indiából,</l>
-				<l>Máskép fogadna.</l>
 				<sp who="#adam">
 					<speaker>ÁDÁM.</speaker>
 					<lg>

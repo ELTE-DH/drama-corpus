@@ -430,8 +430,8 @@
 			</div>
 			<div type="act">
 				<head type="title">ELSŐ FELVONÁS</head>
+				<head type="title">ELSŐ KÉP</head>
 				<div type="scene">
-					<head type="title">ELSŐ KÉP</head>
 					<head type="title">ELSŐ JELENET</head>
 					<stage>Szín: Hálószoba egy úri falusi házban. Nyári éjszaka. A háttér két
                         nyitott ablakán keresztül látszik a csillagos ég. Jobboldalt a dupla ágyban
@@ -2309,7 +2309,7 @@
 			</div>
 			<div type="act">
 				<head type="title">MÁSODIK FELVONÁS</head>
-				<div type="scene">
+				<div type="act">
 					<head type="title">ELSŐ KÉP</head>
 					<stage>Szín: A járási főszolgabírói hivatal belső szobája. A háttérben távol
                         egymástól két kis ablak. Falusi házban van ez a szoba is. A két ablak
@@ -3965,7 +3965,7 @@
                         át</stage>
 					</div>
 				</div>
-				<div type="scene">
+				<div type="act">
 					<head type="title">MÁSODIK KÉP</head>
 					<stage>A sötét szín felől zűrzavaros hangok szűrődnek. Lárma, nevetés, szerb
                         szavak. Zeneszó. Ének. Danica hangja, aki valami szláv románcot énekel

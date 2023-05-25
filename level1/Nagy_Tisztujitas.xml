@@ -3573,24 +3573,26 @@
 							előtt megverték. Amott a mellékutcában biztatja őket Heves úr meg a
 							jurátusa.</p>
 					</sp>
-					<stage>Kívülről lárma, majd éneklés.</stage>
-					<lg>
-						<l>Kisütött a nap sugára</l>
-						<l>Heves úrnak ablakára.</l>
-						<l>Inkább legyen Angyal Bandi</l>
-						<l>Alispán, mint Farkasfalvy.</l>
-					</lg>
+					<stage>Kívülről lárma, majd éneklés.
+						<lg>
+							<l>Kisütött a nap sugára</l>
+							<l>Heves úrnak ablakára.</l>
+							<l>Inkább legyen Angyal Bandi</l>
+							<l>Alispán, mint Farkasfalvy.</l>
+						</lg>
+					</stage>
 					<sp who="#farkasfalvy">
 						<speaker>FARKASFALVY.</speaker>
-						<p>Az ördögbe is!<stage>Ének kívülről.</stage>
-						</p>
+						<p>Az ördögbe is!</p>
 					</sp>
-					<lg>
-						<l>Egy istenünk, egy királyunk,</l>
-						<l>Heves úr az alispánunk.</l>
-						<l>A farkas oly ravasz állat,</l>
-						<l>Hogy a neve is utálat.</l>
-					</lg>
+					<stage>Ének kívülről.
+						<lg>
+							<l>Egy istenünk, egy királyunk,</l>
+							<l>Heves úr az alispánunk.</l>
+							<l>A farkas oly ravasz állat,</l>
+							<l>Hogy a neve is utálat.</l>
+						</lg>
+					</stage>
 					<sp who="#farkasfalvy">
 						<speaker>FARKASFALVY.</speaker>
 						<p>Goromba csorda!... Ostoba népség! Nem érdemlik meg az ember
@@ -4920,14 +4922,14 @@
 						<p>Mindent láttam és hallottam... Holnap reggel kilenc órakor meg fog nálam
 							jelenni, különben nyilvános botrányba keverem.</p>
 					</sp>
-					<stage>Ismét kortesek vonulnak el az utcán. Ének.</stage>
+					<stage>Ismét kortesek vonulnak el az utcán. Ének.
 					<lg>
 						<l>Inkább legyen Angyal Bandi</l>
 						<l>Alispán, mint Farkasfalvy,</l>
 						<l>Utána kidobjuk Hevest,</l>
 						<l>Mert elsózza még a levest.</l>
 					</lg>
-					<stage>Elvonulnak, de az ének halkulva még tovább hangzik.</stage>
+					Elvonulnak, de az ének halkulva még tovább hangzik.</stage>
 					<stage>Egy gally a gesztenyefáról Langyos nyakába esik.</stage>
 					<sp who="#dr_langyos">
 						<speaker>LANGYOS.</speaker>

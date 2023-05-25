@@ -240,9 +240,9 @@
 			</p>
 		</front>
 		<body>
-			<div type="scene">
+			<div type="act">
 				<head type="title">ELSŐ FELVONÁS</head>
-				<div type="act">
+				<div type="scene">
 					<head type="title">ELSŐ KÉP</head>
 					<stage>Szín: Az „Aesculap” orvosi műszer-nagykereskedő cég irodája. Balra hátul
                         tejüveg betétes ajtó, amely a főnők szobájába vezet. Jobbra középen másik
@@ -1588,7 +1588,7 @@
 					</sp>
 					<stage>FÜGGÖNY</stage>
 				</div>
-				<div type="act">
+				<div type="scene">
 					<head type="title">MÁSODIK KÉP</head>
 					<stage>Pesti polgári lakás ebédlője, amely egyúttal nappali is. Középen terített
                         asztal. Oldalt balra rádióapparátus, amely éppen népszerű tánczenét

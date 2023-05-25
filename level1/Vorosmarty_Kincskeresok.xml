@@ -1071,9 +1071,9 @@
 					<lg>
 						<stage>(eszmélve, magában)</stage>
 						<l>Úgy tetszik, megkinált. — Ah, engedelmet!</l>
+						<stage>(Leül a’ terített asztalhoz)</stage>
+						<l>Vadászgyomor nem vár kinálgatást.</l>
 					</lg>
-					<stage>(Leül a’ terített asztalhoz)</stage>
-					<l>Vadászgyomor nem vár kinálgatást.</l>
 				</sp>
 				<sp who="#zagony">
 					<speaker>ZÁGONY</speaker>

@@ -484,15 +484,18 @@
 							Rózsi!... gondolhattam volna, csakhogy persze, a fejem sincs helyén...
 							Tyűh? forgós adta! most jutott valami eszembe!... Ez lesz a legjobb
 							posta!</p>
+					</sp>
+					<sp who="#finum_rozsi">
+						<speaker>RÓZSI</speaker>
 						<stage>Rózsi énekelve a kerítésen kívül megjelenik, vállán gereblye, karján
 							kosár.</stage>
+						<lg>
+							<l>Kakukkmadár azt tanítja fiának;</l>
+							<l>Nézzen fészket ott, ahol tud - magának!</l>
+							<l>Te is keress szebbet, jobbat nálamnál;</l>
+							<l>Akkor tudd meg, mi volt, akit elhagytál!</l>
+						</lg>
 					</sp>
-					<lg>
-						<l>Kakukkmadár azt tanítja fiának;</l>
-						<l>Nézzen fészket ott, ahol tud - magának!</l>
-						<l>Te is keress szebbet, jobbat nálamnál;</l>
-						<l>Akkor tudd meg, mi volt, akit elhagytál!</l>
-					</lg>
 				</div>
 				<div type="scene">
 					<head type="title">HARMADIK JELENET</head>
