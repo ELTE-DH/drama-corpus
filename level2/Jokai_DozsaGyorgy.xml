@@ -260,7 +260,7 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-27">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -8917,7 +8917,7 @@
 						<speaker>BARNABÁS</speaker>
 						<lg xml:id="lg204">
 							<l xml:id="l833">
-								<w lemma="hány" msd="Case=Nom|Number=Sing|NumType=Frac" pos="NUM" xml:id="w4458">Hanyad</w>
+								<w lemma="ahány" msd="Case=Nom|Number=Sing|NumType=Frac" pos="NUM" xml:id="w4458">Hanyad</w>
 								<w lemma="maga" msd="Case=Ins|Number=Sing|Person=2|Reflex=Yes" pos="PRON" xml:id="w4459">magaddal</w>
 								<w lemma="készül" msd="Definite=Ind|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act" pos="VERB" xml:id="w4460">készülsz</w>
 								<w lemma="ellik" msd="Number=Sing|Person=1|Tense=Pres|VerbForm=Inf|Voice=Act" pos="VERB" xml:id="w4461">ellenem</w>

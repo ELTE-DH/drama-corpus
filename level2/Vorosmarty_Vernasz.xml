@@ -186,7 +186,7 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-28">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -22522,7 +22522,7 @@
 							<pc pos="PUNCT" xml:id="pc4301">'</pc>
 							<w lemma="s" msd="_" pos="CONJ" xml:id="w11744">S</w>
 							<w lemma="én" msd="Case=Nom|Number=Sing|Person=1|PronType=Prs" pos="PRON" xml:id="w11745">én</w>
-							<w lemma="erdei" msd="Case=Ill|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=1" pos="ADJ" xml:id="w11746">erdeimbe</w>
+							<w lemma="erdő" msd="Case=Ill|Number=Plur|Number[psor]=Sing|Person[psor]=1" pos="NOUN" xml:id="w11746">erdeimbe</w>
 							<w lemma="mély" msd="Case=Ess|Degree=Cmp|Number=Sing" pos="ADJ" xml:id="w11747">mélyebben</w>
 							<w lemma="vonul" msd="Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act" pos="VERB" xml:id="w11748">vonultam</w>
 							<pc join="left" pos="PUNCT" xml:id="pc4302">,</pc>

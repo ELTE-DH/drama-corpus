@@ -200,7 +200,7 @@
 			</textClass>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-28">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -3306,10 +3306,7 @@
 						</p>
 					</sp>
 					<sp who="#kamilla_kisasszony" xml:id="sp117">
-						<speaker>
-							MARISKA
-							<note type="editorial">KAMILLAsh.</note>
-						</speaker>
+						<speaker>MARISKA</speaker>
 						<p xml:id="p112">
 							<s xml:id="s216">
 								<w lemma="tehát" msd="_" pos="CONJ" xml:id="w1378">Tehát</w>

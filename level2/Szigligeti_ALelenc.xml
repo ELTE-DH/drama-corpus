@@ -222,7 +222,7 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-27">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -16559,7 +16559,7 @@
 								<w lemma="mármost" msd="_" pos="ADV" xml:id="w7754">mármost</w>
 								<w lemma="tehát" msd="_" pos="CONJ" xml:id="w7755">tehát</w>
 								<w lemma="folyvást" msd="_" pos="ADV" xml:id="w7756">folyvást</w>
-								<w lemma="ki" msd="Case=Nom|Number=Sing" pos="NOUN" xml:id="w7757">ki-</w>
+								<w lemma="aki" msd="Case=Nom|Number=Sing|Person=3|PronType=Rel" pos="PRON" xml:id="w7757">ki-</w>
 								<w lemma="és" msd="_" pos="CONJ" xml:id="w7758">és</w>
 								<w lemma="begombol" msd="Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act" pos="VERB" xml:id="w7759">begombolja</w>
 								<pc join="left" pos="PUNCT" xml:id="pc2643">,</pc>

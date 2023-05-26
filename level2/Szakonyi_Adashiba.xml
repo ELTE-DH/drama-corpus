@@ -179,7 +179,7 @@
 			</textClass>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-27">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -29679,7 +29679,7 @@
 						<stage>(Imrushoz, zavartan.)</stage>
 						<s xml:id="s2613">
 							<w lemma="bizonyára" msd="_" pos="ADV" xml:id="w12837">Bizonyára</w>
-							<w lemma="félreért" msd="Definite=Ind|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Cau" pos="VERB" xml:id="w12838">félreértettél.</w>
+							<w lemma="félreért" msd="Definite=Ind|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act" pos="VERB" xml:id="w12838">félreértettél.</w>
 							<pc pos="PUNCT" xml:id="pc4467">..</pc>
 							<w lemma="én" msd="Case=Nom|Number=Sing|Person=1|PronType=Prs" pos="PRON" xml:id="w12839">én</w>
 							<pc join="left" pos="PUNCT" xml:id="pc4468">...</pc>

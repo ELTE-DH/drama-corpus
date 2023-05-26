@@ -293,7 +293,7 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-26">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>

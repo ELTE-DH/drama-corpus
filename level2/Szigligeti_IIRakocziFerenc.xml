@@ -264,7 +264,7 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-27">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -16620,7 +16620,7 @@
 								<w lemma="igen" msd="_" pos="INTJ" xml:id="w8188">igen</w>
 								<pc join="left" pos="PUNCT" xml:id="pc2614">,</pc>
 								<w lemma="de" msd="_" pos="CONJ" xml:id="w8189">de</w>
-								<w lemma="fél" msd="Case=Nom|Number=Plur|NumType=Frac" pos="NUM" xml:id="w8190">feledék</w>
+								<w lemma="fél" msd="Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=2" pos="NOUN" xml:id="w8190">feledék</w>
 								<w lemma="a" msd="Definite=Def|PronType=Art" pos="DET" xml:id="w8191">a</w>
 								<w lemma="koporsó" msd="Case=Acc|Number=Sing" pos="NOUN" xml:id="w8192">koporsót</w>
 								<w lemma="én" msd="Case=Sub|Number=Sing|Person=1|PronType=Prs" pos="PRON" xml:id="w8193">rám</w>

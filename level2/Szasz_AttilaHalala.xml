@@ -224,7 +224,7 @@
 			</textClass>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-27">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -4332,7 +4332,7 @@
 						</l>
 						<l xml:id="l428">
 							<w lemma="jobban" msd="_" pos="ADV" xml:id="w2047">Jobban</w>
-							<w lemma="megérte" msd="Case=Sup|Degree=Pos|Number=Plur|Number[psor]=Sing|Person[psor]=3" pos="ADJ" xml:id="w2048">megértéin</w>
+							<w lemma="megért" msd="Case=Sup|Degree=Pos|Number=Sing|Number[psed]=Plur" pos="ADJ" xml:id="w2048">megértéin</w>
 							<pc join="left" pos="PUNCT" xml:id="pc605">,</pc>
 							<w lemma="mint" msd="_" pos="SCONJ" xml:id="w2049">mint</w>
 							<w lemma="beszéd" msd="Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=2" pos="NOUN" xml:id="w2050">beszédetek</w>

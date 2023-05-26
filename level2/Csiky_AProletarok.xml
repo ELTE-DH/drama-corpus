@@ -206,7 +206,7 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-26">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -2244,7 +2244,6 @@
 								<w lemma="Herkules" msd="Case=Nom|Number=Sing" pos="PROPN" xml:id="w810">Herkules.</w>
 								<pc join="left" pos="PUNCT" xml:id="pc284">*</pc>
 							</s>
-							<note>* célzás Herkules (Héraklész) tizenkét legendás tettére, különösen Augiász istállójának kitisztítására.</note>
 						</p>
 					</sp>
 					<sp who="#kamilla" xml:id="sp102">
@@ -6817,10 +6816,7 @@
 						</p>
 					</sp>
 					<sp who="#bence" xml:id="sp264">
-						<speaker>
-							HENCE.
-							<note type="editorial">BENCE.</note>
-						</speaker>
+						<speaker>HENCE.</speaker>
 						<p xml:id="p264">
 							<s xml:id="s469">
 								<w lemma="ne" msd="PronType=Neg" pos="ADV" xml:id="w3035">Ne</w>
@@ -7115,10 +7111,7 @@
 						</p>
 					</sp>
 					<sp who="#bence" xml:id="sp280">
-						<speaker>
-							HENCE.
-							<note type="editorial">BENCE.</note>
-						</speaker>
+						<speaker>HENCE.</speaker>
 						<p xml:id="p280">
 							<s xml:id="s492">
 								<w lemma="a" msd="Definite=Def|PronType=Art" pos="DET" xml:id="w3162">A</w>
@@ -19886,10 +19879,7 @@
 						</p>
 					</sp>
 					<sp who="#bence" xml:id="sp774">
-						<speaker>
-							HENCE.
-							<note type="editorial">BENCE.</note>
-						</speaker>
+						<speaker>HENCE.</speaker>
 						<p xml:id="p774">
 							<s xml:id="s1339">
 								<w lemma="Timót" msd="Case=Nom|Number=Sing" pos="PROPN" xml:id="w9471">Timót</w>
@@ -31978,10 +31968,7 @@
 						</p>
 					</sp>
 					<sp who="#makonyne" xml:id="sp1240">
-						<speaker>
-							MÁKONYÉ.
-							<note type="editorial">MÁKONYNÉ.</note>
-						</speaker>
+						<speaker>MÁKONYÉ.</speaker>
 						<p xml:id="p1237">
 							<s xml:id="s2169">
 								<w lemma="az" msd="Case=Acc|Number=Sing|Person=3|PronType=Dem" pos="PRON" xml:id="w15379">Azt</w>

@@ -267,7 +267,7 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-28">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -13251,7 +13251,7 @@
 						<p xml:id="p430">
 							<s xml:id="s897">
 								<w lemma="ügy" msd="Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=2" pos="NOUN" xml:id="w6728">Ügyedet</w>
-								<w lemma="maga" msd="Case=Tra|Number=Plur|Number[psed]=Sing|Person=1|Reflex=Yes" pos="PRON" xml:id="w6729">magunkévá</w>
+								<w lemma="mag" msd="Case=Tra|Number=Sing|Number[psed]=Sing|Number[psor]=Plur|Person[psor]=1" pos="NOUN" xml:id="w6729">magunkévá</w>
 								<w lemma="tesz" msd="Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act" pos="VERB" xml:id="w6730">tesszük</w>
 								<pc join="left" pos="PUNCT" xml:id="pc2149">,</pc>
 								<w lemma="s" msd="_" pos="CONJ" xml:id="w6731">s</w>
@@ -23206,7 +23206,7 @@
 								<w lemma="tud" msd="Definite=Def|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act" pos="VERB" xml:id="w11696">tudod</w>
 								<w lemma="már" msd="_" pos="ADV" xml:id="w11697">már</w>
 								<pc join="left" pos="PUNCT" xml:id="pc3743">,</pc>
-								<w lemma="mi" msd="Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Prs" pos="PRON" xml:id="w11698">mim</w>
+								<w lemma="ami" msd="Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Rel" pos="PRON" xml:id="w11698">mim</w>
 								<w lemma="van" msd="Definite=Ind|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act" pos="VERB" xml:id="w11699">voltál</w>
 								<pc join="left" pos="PUNCT" xml:id="pc3744">,</pc>
 								<w lemma="s" msd="_" pos="CONJ" xml:id="w11700">s</w>
@@ -33552,7 +33552,7 @@
 								<w lemma="mielőtt" msd="Case=Nom|Number=Sing|Person=3|PronType=Rel" pos="PRON" xml:id="w16956">mielőtt</w>
 								<w lemma="én" msd="Case=Nom|Number=Sing|Person=1|PronType=Prs" pos="PRON" xml:id="w16957">én</w>
 								<w lemma="lesz" msd="Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act" pos="VERB" xml:id="w16958">lettem</w>
-								<w lemma="kedvenc" msd="Case=Tra|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=2" pos="ADJ" xml:id="w16959">kedvenceddé</w>
+								<w lemma="kedvenc" msd="Case=Tra|Number=Sing|Number[psor]=Sing|Person[psor]=2" pos="NOUN" xml:id="w16959">kedvenceddé</w>
 								<pc join="left" pos="PUNCT" xml:id="pc5372">!</pc>
 							</s>
 							<s xml:id="s2505">

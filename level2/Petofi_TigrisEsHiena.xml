@@ -231,7 +231,7 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-27">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -21157,10 +21157,7 @@
 						</p>
 					</sp>
 					<sp who="#bajat" xml:id="sp844">
-						<speaker>
-							Bajád.
-							<note type="editorial">sh.</note>
-						</speaker>
+						<speaker>Bajád.</speaker>
 						<p xml:id="p829">
 							<s xml:id="s1582">
 								<w lemma="az" msd="Case=Sub|Number=Sing|Person=3|PronType=Dem" pos="PRON" xml:id="w9797">Arra</w>
@@ -21615,7 +21612,7 @@
 								<pc join="left" pos="PUNCT" xml:id="pc3400">,</pc>
 								<w lemma="s" msd="_" pos="CONJ" xml:id="w10065">s</w>
 								<w lemma="a" msd="Definite=Def|PronType=Art" pos="DET" xml:id="w10066">a</w>
-								<w lemma="kegyelme" msd="Case=Ins|Number=Sing|Number[psed]=Sing|Number[psor]=Sing|Person[psor]=2" pos="NOUN" xml:id="w10067">kegyelmedével</w>
+								<w lemma="kegyelem" msd="Case=Ins|Number=Sing|Number[psed]=Sing|Number[psor]=Sing|Person[psor]=2" pos="NOUN" xml:id="w10067">kegyelmedével</w>
 								<w lemma="hasonló" msd="Case=Nom|Degree=Pos|Number=Plur" pos="ADJ" xml:id="w10068">hasonlók</w>
 								<w lemma="nézet" msd="Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1" pos="NOUN" xml:id="w10069">nézeteink</w>
 								<w lemma="Borics" msd="Case=Del|Number=Sing" pos="PROPN" xml:id="w10070">Boricsról</w>
@@ -23180,7 +23177,7 @@
 								<w lemma="igazság" msd="Case=Nom|Number=Sing" pos="NOUN" xml:id="w10934">igazság</w>
 								<w lemma="a" msd="Definite=Def|PronType=Art" pos="DET" xml:id="w10935">a</w>
 								<w lemma="börtön" msd="Case=Nom|Number=Plur" pos="NOUN" xml:id="w10936">börtönök</w>
-								<w lemma="mély" msd="Case=Ill|Degree=Sup|Number=Sing|Number[psed]=Sing" pos="ADJ" xml:id="w10937">legmélyebbikébe</w>
+								<w lemma="mély" msd="Case=Ill|Degree=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3" pos="ADJ" xml:id="w10937">legmélyebbikébe</w>
 								<w lemma="kárhoztat" msd="Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act" pos="VERB" xml:id="w10938">kárhoztat</w>
 								<pc join="left" pos="PUNCT" xml:id="pc3617">,</pc>
 								<w lemma="meglátogat" msd="Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act" pos="VERB" xml:id="w10939">meglátogatja</w>

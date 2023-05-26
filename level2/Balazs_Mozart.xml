@@ -255,7 +255,7 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-26">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -939,10 +939,7 @@
 					</p>
 				</sp>
 				<sp who="#nannerl" xml:id="sp22">
-					<speaker>
-						NENNERL:
-						<note type="editorial">NANNERL</note>
-					</speaker>
+					<speaker>NENNERL:</speaker>
 					<p xml:id="p22">
 						<s xml:id="s38">
 							<w lemma="mért" msd="Case=Nom|Number=Sing|Person=3|PronType=Int" pos="PRON" xml:id="w220">Mért</w>

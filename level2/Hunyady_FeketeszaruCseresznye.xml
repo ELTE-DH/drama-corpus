@@ -222,7 +222,7 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-27">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -1662,8 +1662,8 @@
 			</div>
 			<div type="act" xml:id="div2">
 				<head type="title">ELSŐ FELVONÁS</head>
+				<head type="title">ELSŐ KÉP</head>
 				<div type="scene" xml:id="div3">
-					<head type="title">ELSŐ KÉP</head>
 					<head type="title">ELSŐ JELENET</head>
 					<stage>Szín: Hálószoba egy úri falusi házban. Nyári éjszaka. A háttér két nyitott ablakán keresztül látszik a csillagos ég. Jobboldalt a dupla ágyban a fehér pikétakaró alatt békésen szunnyad egymás mellett a házaspár. Dusán és Irina. Azúrkék homályban úszik a színpad. Csak a két ablak között világít, mintha őrködne az alvók fölött egy kis kerek fényudvar. Ez a fényudvar az éjjeli mécs sugárköre, amelyben Szent Szávának vagy Szent Györgynek bizánci stílusú, arany alapra festett színes figurája látható. Ez a kép és ez a mécs olyan házi ikonosztázionféle, amilyen majd mindenik jobbfajta házban látható a Bácskában és a Bánátban. A mécs mögé néhány szál virág van tűzve. Az egész látványnak szláv jellege van, ahogy a sugárzó kis fényfolt szimbólumszerűen uralkodik a képen. Viszont ezzel szemben a nyitott ablakokon át magyar hangok áradnak be a színpadra. Lavotta szerenádjának hangjai. A szituáció az, hogy éjjeli zenét adnak a ház előtt a faluban tanyázó huszársvadron tisztjei. A muzsika eleinte nagyon halk. A pikétakaró alatt egymás felé hajolva, nyugalmasan alszik a házaspár. Hirtelen egy kedves, spicces férfihang szólal meg kint az ablak alatt, ahogy mámoros ember dirigálja a cigányt. Csaholyi hangja: ,,Vigyázz, te bivaly, ne taposd le azt a virágágyat. Gyere lejjebb a bőgővel. No elég abból a nyálasból. Most azt: »Feketeszárú cseresznye...« A cigány átvált az új nótára, amelyet a férfihang édes hajlékonysággal végigénekel. Ez már egy kicsit hangosabb zene. A pikétakaró megmozdul. Az asszony felül az ágyban. Figyel... Az alvó urára néz. Könnyű kézérintéssel, halk súgással fölébreszti</stage>
 					<sp who="#irina" xml:id="sp1">
@@ -10333,7 +10333,7 @@
 			</div>
 			<div type="act" xml:id="div22">
 				<head type="title">MÁSODIK FELVONÁS</head>
-				<div type="scene" xml:id="div23">
+				<div type="act" xml:id="div23">
 					<head type="title">ELSŐ KÉP</head>
 					<stage>Szín: A járási főszolgabírói hivatal belső szobája. A háttérben távol egymástól két kis ablak. Falusi házban van ez a szoba is. A két ablak közötti falrészen egymás mellett két nagy térkép. Az egyik Bács-Bodrog megye közigazgatási beosztását mutatja, a másikon Magyarország hal alakja látható. Az egyik sarokban koszos kis ósdi wertheimszekrény, a másik sarokban többpolcos állvány a hivatalos iratok számára. Fekete viaszosvászon huzatú dívány, ugyanolyan fotelek. Íróasztal, sivár hivatali székek. Valahol a falon régimódi telefon. Jobboldalt tejüveg ajtó, amely a szentélyből a hivatal külső részébe vezet. A sarokban izzóra fütött, nagy, úgynevezett titán típusú Meidinger kályha. Homályos, esős őszi délelőtt. Az első felvonás óta körülbelül két év múlt el</stage>
 					<div type="scene" xml:id="div24">
@@ -17641,7 +17641,7 @@
 						<stage>A képnek vége. A színpad sötétbe borul. Először csönd van, aztán a sötétből — mintegy jelezve, hogy az idő elmúlik - az alkonyodó falu hangjai (harangzúgás, kolompszó) hallatszanak. Most az első kép színpada már elforgott. De még mindig tart a sötétség. A kolompszó másféle zajba megy át</stage>
 					</div>
 				</div>
-				<div type="scene" xml:id="div36">
+				<div type="act" xml:id="div36">
 					<head type="title">MÁSODIK KÉP</head>
 					<stage>A sötét szín felől zűrzavaros hangok szűrődnek. Lárma, nevetés, szerb szavak. Zeneszó. Ének. Danica hangja, aki valami szláv románcot énekel furcsa, húros hangszerek kíséretével. Most lassan kivilágosodikAz első felvonás második képének díszlete látható. Patakzó fény. A szoba még külön ki is van világítva, föl van díszítve. A falakról szerb zászlócskák, virággirlandok. A nyitott bal ajtón át látszik a hall. Az is csupa fény, virág, kék-fehér zászlócska. A hall falánál vederbe tett babérfák sora. A földön ünnepi, piros futószőnyeg. Danica hangja most teljes erővel cseng, pedig nincs a színen. A szomszéd szobában énekel. Egyáltalán éreztetni kell, hogy a ház teli van vendéggel. Az élet és a vidámság dús zaja árad jobb felől. Az a muri folyik, amelyről az első képben volt szó. A színen tulajdonképpen csak egy kártyázó társaság van. A nagyfejűek. Nekik van fönntartva ez a terület. Az előtérbe tolt borosüvegekkel és kávésfindzsákkal teli asztalnál ramslit játszik a Püspök, az Ezredes és a Kormánybiztos. Körülöttük a gibicek. Dusán. (Az Ezredes mögött.) Ezeknek az embereknek a nem karikirozott külseje nagyon fontos a kép tónusa miatt, amelynek fűszeresen szerb zamatúnak kell lenni. (A szöveg közé óvatosan, hogy az érthetőséget ne zavarja, el lehet helyezni néha egy-egy szerb szót.) Tehát: I. A Püspök élénk szemű, vidám aggastyán. Okos. Még a kenetes szavaiban is megcsillan egy kis humor. A haja még egészen szürke. Mellig érő szakálla meg éppen sötét. Csak a két hegye fehér ennek a szakállnak, mint egy megfordított hermelin. II. Az Esperes, nagy testű, hízásnak induló, javakorabeli férfi. A haja egészen kurtára van nyírva, mint a középkori kalugyereké.*</stage>
 					<div type="scene" xml:id="div37">

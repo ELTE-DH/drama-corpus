@@ -189,7 +189,7 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-27">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -16069,7 +16069,7 @@
 								<w lemma="s" msd="_" pos="CONJ" xml:id="w8909">s</w>
 								<w lemma="én" msd="Case=Nom|Number=Sing|Person=1|PronType=Prs" pos="PRON" xml:id="w8910">én</w>
 								<w lemma="a" msd="Definite=Def|PronType=Art" pos="DET" xml:id="w8911">a</w>
-								<w lemma="kegyed" msd="Case=Acc|Number=Plur|Number[psed]=Sing" pos="NOUN" xml:id="w8912">kegyedékét</w>
+								<w lemma="kegy" msd="Case=Acc|Number=Plur|Number[psed]=Sing|Number[psor]=Sing|Person[psor]=2" pos="NOUN" xml:id="w8912">kegyedékét</w>
 								<pc join="left" pos="PUNCT" xml:id="pc2611">.</pc>
 							</s>
 							<s xml:id="s1124">

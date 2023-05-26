@@ -183,7 +183,7 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-27">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -256,9 +256,9 @@
 			</p>
 		</front>
 		<body>
-			<div type="scene" xml:id="div1">
+			<div type="act" xml:id="div1">
 				<head type="title">ELSŐ FELVONÁS</head>
-				<div type="act" xml:id="div2">
+				<div type="scene" xml:id="div2">
 					<head type="title">ELSŐ KÉP</head>
 					<stage>Szín: Az „Aesculap” orvosi műszer-nagykereskedő cég irodája. Balra hátul tejüveg betétes ajtó, amely a főnők szobájába vezet. Jobbra középen másik ajtó, ez egy kis csigalépcsőre nyílik. A lépcsőn le lehet menni a boltba, amely összeköttetésben van az irodával. A rendes pesti irodaberendezés. Nem fényűző és nem snassz. Az „Aesculap” tisztességes, régi cég. Nem lehet vele vagyonokat keresni, de ahhoz elég normálisan nagy, hogy tulajdonosát és a munkásait emberi módon eltartsa. A falon néhány külföldi műszerész cég reklámja. A hátsó jobb sarokban egymás mellett egy teljes kvarclámpa és lámpafelszerelés. Polcok, kartotékok. Hátul, balközépen fogas a tisztviselők ruháinak. Középen két íróasztal, szemben egymással, egészen összetolva. Az íróasztalok mellett — párhuzamosan az egyikkel — a gépírókisaszszony ül a gépe mellett. Nyár. Déli fél egy. A szorgalma végére ért két férfi a melegtől lankadtan piszmog az asztalánál. Viszont a kisasszony még elég friss. Amikor a függöny szétnyílik, néhány pillanatig csak a vidám, gyors írógépkopogás hallatszik</stage>
 					<sp who="#gizike" xml:id="sp1">
@@ -5903,7 +5903,7 @@
 					</sp>
 					<stage>FÜGGÖNY</stage>
 				</div>
-				<div type="act" xml:id="div3">
+				<div type="scene" xml:id="div3">
 					<head type="title">MÁSODIK KÉP</head>
 					<stage>Pesti polgári lakás ebédlője, amely egyúttal nappali is. Középen terített asztal. Oldalt balra rádióapparátus, amely éppen népszerű tánczenét közvetít. Jobbra a sarokban cserépkályha. Rossz, rózsaszín virágos tapéta. Hátul középen ajtó, ez az előszobába, jobbra a másik ajtó, ez a lakás többi részébe vezet. Fél órával az első kép után. Baba tizennyolc-húsz éves, csinos, ügyes, tiszta kislány. Nincs benne semmi macskaszerű. Sportos, házias, munkás. Valami olcsó, fehér ruhácskában van. A lábszára csupasz. A harisnyája nyáriasan le van csavarva a bokájára. Éppen terített. Nézi az asztalt. Körültáncolja. A fiatal vér féktelenkedik benne. Együtt énekli a rádióval a sanzont: „Tenyeremen hordom! Lehozom a csillagot én!...” Nagyon élénk mozdulatokkal és arcjátékkal kíséri a dalt. A rádió recseg, fütyül. Az egész produkció egyszerre vidám, hangos és fülsértően hamis</stage>
 					<sp who="#viragne" xml:id="sp202">

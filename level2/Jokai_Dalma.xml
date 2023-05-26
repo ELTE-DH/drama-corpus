@@ -278,7 +278,7 @@
 			</particDesc>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-04-27">lemma, pos and msd annotation</change>
+			<change when="2023-05-25">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -10810,7 +10810,7 @@
 							</s>
 							<s xml:id="s643">
 								<pc pos="PUNCT" xml:id="pc1629">—</pc>
-								<w lemma="mi" msd="Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Prs" pos="PRON" xml:id="w5878">Mimet</w>
+								<w lemma="ami" msd="Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Rel" pos="PRON" xml:id="w5878">Mimet</w>
 								<w lemma="ad" msd="Definite=Def|Mood=Imp|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act" pos="VERB" xml:id="w5879">adjam</w>
 								<w lemma="oda" msd="_" pos="ADV" xml:id="w5880">oda</w>
 								<pc join="left" pos="PUNCT" xml:id="pc1630">?</pc>
@@ -17551,7 +17551,7 @@
 								<w lemma="ismerős" msd="Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=2" pos="NOUN" xml:id="w9485">Ismerőseid</w>
 								<w lemma="közül" msd="_" pos="ADP" xml:id="w9486">közül</w>
 								<w lemma="tán" msd="_" pos="ADV" xml:id="w9487">tán</w>
-								<w lemma="sok" msd="Case=All|Number=Plur|NumType=Card" pos="NUM" xml:id="w9488">többekhez</w>
+								<w lemma="sok" msd="Case=All|Number=Plur" pos="NOUN" xml:id="w9488">többekhez</w>
 								<w lemma="hasonli" msd="Case=Acc|Number=Sing" pos="NOUN" xml:id="w9489">hasonlit</w>
 								<pc join="left" pos="PUNCT" xml:id="pc2673">?</pc>
 							</s>
