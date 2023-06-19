@@ -192,7 +192,7 @@
 			</textClass>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2023-05-25">lemma, pos and msd annotation</change>
+			<change when="2023-06-19">lemma, pos and msd annotation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -9653,7 +9653,7 @@
 			</div>
 			<div type="act" xml:id="div16">
 				<head type="title">HARMADIK JÁTÉK</head>
-				<div type="act" xml:id="div17">
+				<div type="scene" xml:id="div17">
 					<head type="title">ELSŐ jelenés</head>
 					<stage>
 						LEÓNIDÁS, ÁMFARES, ÁGIS, DEMÓKARES, KLEOMBROTES, ÁGÉZILAUS, TEST-ÖRZÖK.
