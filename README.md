@@ -15,8 +15,8 @@ For more information on the metadata of the dramas, see the file metadata.tsv
 
 The source of the corpus was the collection of the [_Hungarian Electronic Library_](http://mek.oszk.hu) and the collection of the [_Research Centre for the Humanities, Institute for Literary Studies_](https://szovegtar.iti.mta.hu).
 
-1. The texts were converted into TEI XML format based on the [Text Encoding Initiative](https://tei-c.org/). The TEI XML files contain the annotation of structural units and the metadata of the dramas. The conversion was done manually (level1).
-2. Then, we tokenized the dramas and annotated the grammatical features of words by using [e-magyar](https://github.com/nytud/emtsv), an NLP tool chain for Hungarian texts. The level2 folder contains the TEI XML files in which the morphosyntactic features (values of the msd attributes) are annotated in the format of universal dependencies, while the level2_emMorph folder contains the same files in which the morphosyntactic features are annotated in the own format of e-magyar.
+1. The texts were converted into TEI XML format based on the [_Text Encoding Initiative_](https://tei-c.org/). The TEI XML files contain the annotation of structural units and the metadata of the dramas. The conversion was done manually (level1).
+2. Then, we tokenized the poems and annotated the grammatical features of words by using [_e-magyar_](https://github.com/nytud/emtsv), an NLP tool chain for Hungarian texts. The level2 folder contains the TEI XML files in which the morphosyntactic features (values of the msd attributes) are annotated in the format of universal dependencies, while the level2\_emMorph folder contains the same files in which the morphosyntactic features are annotated in its own, [_emMorph_](https://e-magyar.hu/en/textmodules/emmorph_codelist) format of e-magyar.
 
 # Elements and attributes
 
