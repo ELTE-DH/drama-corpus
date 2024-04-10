@@ -1813,7 +1813,7 @@
 				</div>
 				<div type="scene">
 					<head type="title">NYOLCADIK JELENET</head>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(sietve jön).</stage>
 						<lg>
@@ -1829,7 +1829,7 @@
 							<l>Éltetni.</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Mit? - Leselkedő! ezért</l>
@@ -1843,7 +1843,7 @@
 							<l>Én nem vagyok - ha mást szeret.</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Való</l>
@@ -1856,7 +1856,7 @@
 							<l>És te is tudod?</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Ha mások észre vehetik, én legyek csak</l>
@@ -1870,7 +1870,7 @@
 							<l>Talán. Hisz' asszony.</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(dölyfösen).</stage>
 						<lg>
@@ -1886,7 +1886,7 @@
 							<l>Elmém ezernyi baklövésivel.</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Melinda e szerént -?</l>
@@ -1898,7 +1898,7 @@
 							<l>Asszony.</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(méreggel).</stage>
 						<lg>
@@ -1917,7 +1917,7 @@
 							</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(szemeit tenyerével elfedi).</stage>
 						<lg>
@@ -1944,7 +1944,7 @@
 							<l>Szeretnek.</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(megsértetve).</stage>
 						<lg>
@@ -4385,7 +4385,7 @@
 				</div>
 				<div type="scene">
 					<head type="title">MÁSODIK JELENET</head>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(felszakaszt egy oldalajtót, dölyfösen
                                                   kilép).</stage>
@@ -4409,7 +4409,7 @@
 							<l>Szolgálatodra tán lehetne hangom -</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Nagyúr! <hi rend="italic">királynénak
@@ -4424,7 +4424,7 @@
 							<l>Az a királyné - oh hazug! csak árnyék.</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Bán, bán, mi lelt téged? - Nagyúr, mi lelt?</l>
@@ -4437,7 +4437,7 @@
 							<l>Ki innen!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Megengedek, mert meg vagy háborodva.</l>
@@ -4454,7 +4454,7 @@
 							<l>Után soká beszéle a királyné -?</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>És a kegyelméből csaknem kijött:</l>
@@ -5589,7 +5589,7 @@
 				</div>
 				<div type="scene">
 					<head type="title">MÁSODIK JELENET</head>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(jövén, távul meghajtja magát).</stage>
 						<lg>
@@ -5607,7 +5607,7 @@
 							</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(megcsókolja azt).</stage>
 						<lg>
@@ -5623,7 +5623,7 @@
 							<l>Szólj.</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Bocsáss hazámba.</l>
@@ -5635,7 +5635,7 @@
 							<l>Izidóra!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Én ez országodba úgy</l>
@@ -5652,7 +5652,7 @@
 							<l>Ha hazudsz, leány -</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(letérdepel).</stage>
 						<lg>
@@ -5666,7 +5666,7 @@
 							<l>Szólj!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Szerettem Ottót -</l>
@@ -5679,7 +5679,7 @@
 							<l>A herceget?</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Nem. Ottót a vitézt; de a</l>
@@ -5694,7 +5694,7 @@
 							<l>Leány, az én öcsémet?</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Azt.</l>
@@ -5706,7 +5706,7 @@
 							<l>Állj fel!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(megteszi).</stage>
 						<lg>
@@ -5721,7 +5721,7 @@
 							<l>Az én öcsém félénk gyilkos leve?!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Szemérmemet meggyőzve, mindenütt</l>
@@ -5740,7 +5740,7 @@
 							<l>Hah!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Én futottam; nem hozzád, mivel</l>
@@ -5758,7 +5758,7 @@
 							<l>No -</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Vállamat ragadta egy erős</l>
@@ -5774,7 +5774,7 @@
 							<l>A nagyúr?!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Melinda felsikoltva elhanyatlott -</l>
@@ -5797,7 +5797,7 @@
 							<l>Bánk itthon -</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Oh királyné! ez gyalázat!</l>
@@ -5810,7 +5810,7 @@
 							<l>Ottó! -</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Kevés időre alattomosan</l>
@@ -5824,7 +5824,7 @@
 							<l>Ottó!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Szerencsétlenségembe kezdem</l>
@@ -5838,7 +5838,7 @@
 							<l>Ottó! Meránia!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Midőn elvivé</l>
@@ -5852,7 +5852,7 @@
 							<l>Berchtold nemzete!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Jó Bertha, légy leányom anyja, mint</l>
@@ -5871,7 +5871,7 @@
 							<l>Dicső kinézésim!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Nagyasszony!</l>
@@ -5886,7 +5886,7 @@
 							<l>Izidóra!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>A magányosságnak édes</l>
@@ -5901,7 +5901,7 @@
 							<l>Közé keverted a hazádat!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Ott</l>
@@ -5916,7 +5916,7 @@
 							<l>Jöjj máskor el. -</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Reménylhetek?</l>
@@ -5927,7 +5927,7 @@
 						<stage>(kezét nyújtja, anélkül, hogy elfordítaná
                                                   egy helyről szemeit).</stage>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Királyné!</l>
@@ -5941,7 +5941,7 @@
 							<l>Az egy halál -</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(mohón megcsókolja a kezét).</stage>
 						<lg>
@@ -8104,7 +8104,7 @@
                                                   midőn gyermekeit utána indulni észreveszi.
                                                   Szívrehatóan öleli egybe mind a
                                                   hármat..)</stage>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Csak azt</l>
@@ -8214,7 +8214,7 @@
 							<l>Ifjú vitéz!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(égre vetett szemekkel).</stage>
 						<lg>
@@ -8670,7 +8670,7 @@
 							</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(bosszut szomjúhozásának elaludt reményével
                                                   a testre hanyatlik).</stage>
@@ -8895,7 +8895,7 @@
 							<l>Nem undorodna hagyni?... senki sincs?</l>
 						</lg>
 					</sp>
-					<sp who="#mikhal_ban #simon_ban #solom_mester #bendeleiben_izidora #bank_ban">
+					<sp who="#mikhal_ban #simon_ban #solom_mester #bendeleiben_iziodora #bank_ban">
 						<speaker>MIND</speaker>
 						<stage>(gondolkodva szegzik le szemeiket).</stage>
 					</sp>
@@ -8925,7 +8925,7 @@
 							</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(sírva fakad s kitakarja
                                                   Gertrudist).</stage>
@@ -8986,7 +8986,7 @@
 							<l>Fiam!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Segítsd vitézedet,</l>
@@ -9315,7 +9315,7 @@
 						<stage>(visszarezzen s a parasztokat mint
                                                   esmereteseket merően nézi).</stage>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(nagy várakozással egy lépcsővel lejjebb
                                                   jön az emeletről).</stage>
@@ -9330,7 +9330,7 @@
                                                   nem hisz a szemeinek és elcsukló inain erősen akar
                                                   megállani).</stage>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(öröm s fájdalom közt Gertrúdisra borulni
                                                   visszasiet).</stage>
@@ -9496,7 +9496,7 @@
 							<l>Most ő -?</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<lg>
 							<l>Igazságot, az árván hagyott</l>
@@ -9591,7 +9591,7 @@
 							<l>Előbb esett el méltán a királyné!</l>
 						</lg>
 					</sp>
-					<sp who="#bendeleiben_izidora">
+					<sp who="#bendeleiben_iziodora">
 						<speaker>IZIDÓRA</speaker>
 						<stage>(a lépcsőn hagyja a királyfiakat s
                                                   Gertrúdisra borul).</stage>

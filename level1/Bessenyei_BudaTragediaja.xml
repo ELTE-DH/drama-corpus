@@ -619,7 +619,7 @@
 				<div type="scene">
 					<head type="title">Harmadik jelenés.</head>
 					<stage>ATILLA, TSABA.</stage>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<stage>A’palotás-Vitézek vezérjeikkelelőre érkeznek, egy kettős részű-ajtón
                             tolódnak-bésorba, melly, a játék-piatznakfenekén nyílt: Ezek a két
@@ -702,7 +702,7 @@
 							<l>’S Budát, nagy gonosznak egybe nem vélhetem.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>gyúladással.</stage>
 						<lg>
@@ -717,7 +717,7 @@
 							<l>Kár addig romolni józan erköltsének.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Néki jó fajzása, <hi rend="italic">Bendegúz’</hi> vérében</l>
@@ -739,7 +739,7 @@
 							<l>A’ természet e’ként kárát hogy valhatja?</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Egy aszszony’ szeret? Nem, tsak rabja kedvünknek,</l>
@@ -761,7 +761,7 @@
 							<l>Átkozom, az illyen kínos nyereséget.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Szereted-é ötét?</l>
@@ -782,7 +782,7 @@
 							<l>Budától jegyesét, nem veszem tolvajúl.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Noha, te fijam vagy; de erköltsös Lelked,</l>
@@ -824,7 +824,7 @@
 							<l>Atilla készteti reszkető kezemet.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Mikor’ egy Atya szól, enged a’ fijúság.</l>
@@ -837,7 +837,7 @@
 							<l>Gyötrelmes származás, kínos ifijúság!</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Tsaba! nagy szívedre bízom akaratom’,</l>
@@ -855,7 +855,7 @@
 							<l>Kínos kötelesség!</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Ne hánykódj; törvényed az engedelmesség.</l>
@@ -864,7 +864,7 @@
 						</lg>
 					</sp>
 					<stage>TSABA, el-megyen</stage>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA</speaker>
 						<stage>magában.</stage>
 						<lg>
@@ -880,7 +880,7 @@
 				<div type="scene">
 					<head type="title">Negyedik jelenés.</head>
 					<stage>MIKOLD, KADIKA, ATILLA.</stage>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>mosolyogva.</stage>
 						<lg>
@@ -896,7 +896,7 @@
 							<l>Könnyen tellyesíthedd nagy esedezésem’.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>szorgalmatos tekintettel.</stage>
 						<lg>
@@ -909,7 +909,7 @@
 							<l>Titok, ’s Atillánál nyilatkozni nem mér.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Ah ne légyen bennem, Mikold, illy kétséged!</l>
@@ -926,7 +926,7 @@
 							<l>Nem tudod kérésem’, ’s titkom’, úgy kívánod.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Mikold! Angyali kép, ne kételkedj bennem</l>
@@ -948,7 +948,7 @@
 							<l>Király halgassál-meg.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>fel-gerjedett tüzében habozva.</stage>
 						<lg>
@@ -970,7 +970,7 @@
 							<l>Leg-kisebb károdat, könyveivel bánja.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>szokott dühösségének komor ábrázatjára ülepedett tüzes
                             ro’zdáját szívének szerelmes érzékenysége el-futja, s édesen
@@ -1020,7 +1020,7 @@
 							<l>Ah tsak ma kegyelmezz!</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>Fájdalmas örömmel.</stage>
 						<lg>
@@ -1048,7 +1048,7 @@
 							<l>Mellyet tsak értetek táplál természetünk?</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>Szívének ki-ontásával, mosolyogva.</stage>
 						<lg>
@@ -1067,7 +1067,7 @@
 							<l>Tsak benned szemlélem elsö nyereségem'.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>magát felejtve.</stage>
 						<lg>
@@ -1081,7 +1081,7 @@
 							<l>Tudod, nálad nélkül lehetetlen élnem.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>minddég érzékenyen.</stage>
 						<lg>
@@ -1097,7 +1097,7 @@
 							<l>Édes, ’s veszélyes férj!</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>Mikoldra vetette hízelkedő tekintetét, de hamar
                             Kadikára fórdúl.</stage>
@@ -1126,7 +1126,7 @@
 							<l>Meg-tett hibájának, én vagyok tsak oka.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>meg-gyözettetett mosolyódással.</stage>
 						<lg>
@@ -1141,7 +1141,7 @@
 							<l>Mit velem tselekszel, nem érdemiek ennyit.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>Kadikához.</stage>
 						<lg>
@@ -1155,7 +1155,7 @@
 							<l>Ne felejtsd-el menni Eméziájához.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>minddég szerelmesen.</stage>
 						<lg>
@@ -1346,7 +1346,7 @@
 							<l>Emézia, Tsaba, Mikold-is hánykódik.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>keservesen.</stage>
 						<lg>
@@ -1360,7 +1360,7 @@
 							<l>Király! bizonyítja ezt egy igaz <hi rend="italic">Stzitha</hi>.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>sóhajtva.</stage>
 						<lg>
@@ -1982,7 +1982,7 @@
 				<div type="scene">
 					<head type="title">Hatodik jelenés.</head>
 					<stage>ATILLA, TSABA, KADIKA, ALUS.</stage>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA</speaker>
 						<stage>A ’ dühösség szikrázik szemein, ’s egyszer’smind büszke méltósága
                             kevélykedik tekintetében.</stage>
@@ -2024,7 +2024,7 @@
 							<l>E’képen kerültük nagy Király ! halálunk',</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>kevély tekintettel, ’s finnyás haraggal.</stage>
 						<lg>
@@ -2091,7 +2091,7 @@
 							<l>Ha lehet, tartsa-meg tovább életemet.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Tsaba! te magadba nem gondolsz hibáson,</l>
@@ -2117,7 +2117,7 @@
 							<l>Mit tesz’, mint özvegye, el-veszett Budának?</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Tsabának kell mellé férjül rendeltetni,</l>
@@ -2631,7 +2631,7 @@
 				<div type="scene">
 					<head type="title">Második jelenés.</head>
 					<stage>ATILLA, ALUS.</stage>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>vidám ortzával.</stage>
 						<lg>
@@ -2662,7 +2662,7 @@
 							<l>Kínjait közlötte Atyai szívemmel.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Nagy érdemű Vitéz! mint jutalmazzalak,</l>
@@ -2686,7 +2686,7 @@
 							<l>Meg nyughatom, tudom, holtig hívségemben.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Egy érdemes Vitéz nem szóllhat másképen,</l>
@@ -3070,7 +3070,7 @@
 				<div type="scene">
 					<head type="title">Hatodik jelenés.</head>
 					<stage>ATILLA, KADIKA.</stage>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>kezét fogja Kadikának, ’s kevés ideig, szemébe néz.</stage>
 						<lg>
@@ -3089,7 +3089,7 @@
 							<l>Nem féltem melletted még soha halálom.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Budának tudod már titkos párt ütését,</l>
@@ -3116,7 +3116,7 @@
 							<l>Kínos képzelődés kevereg fejemben.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Látom, hogy nem tetszik néked akaratom,</l>
@@ -3132,7 +3132,7 @@
 							<l>Mellyek nem sérelmi a’ nagy Isteneknek.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Mit tészesz Kadika? Vádolod tzélomat?</l>
@@ -3155,7 +3155,7 @@
 							<l>Mint gonoszszá legyek.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Mit akarsz most ezzel?</l>
@@ -3174,7 +3174,7 @@
 							<l>Egy rab el-vesztheti?</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Tudván gonoszságát</l>
@@ -3190,7 +3190,7 @@
 							<l>Tartson meg e’ bűntől.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Bűnnek találod-é</l>
@@ -3214,7 +3214,7 @@
 							<l>Ki veled egy vérrel mozog életében.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Kadika! beszéded’ gondolkozva hallom,</l>
@@ -3239,7 +3239,7 @@
 					<stage>ATILLA, ALUS.</stage>
 					<stage>Alus a’ Játék-piatznak fenekében meg-áll tsendesen, ’s hallgatja Atillának
                         beszédét, ki ötét észre nem vehette.</stage>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>magában.</stage>
 						<lg>
@@ -3266,7 +3266,7 @@
 							<l>Kész mindent követni parantsolatodra.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Te vagy tsak igaz hív, néked hallom szavad,</l>
@@ -3288,7 +3288,7 @@
 							<l>Vele együtt, Király, lehetetlen élnem.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Ah! gyere hát mennjünk, veszessük-el éltét,</l>
@@ -3489,7 +3489,7 @@
 				<div type="scene">
 					<head type="title">Második jelenés.</head>
 					<stage>ATILLA, ALUS.</stage>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Alus! minden felöl árúltatik éltem,</l>
@@ -3543,7 +3543,7 @@
 							<l>Kit illyen vétkéért minden törvény vádol.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Alus! a’ hol erőt vett már a’ gonoszság,</l>
@@ -3580,7 +3580,7 @@
 							<l>Tsendes békességet, ott senki nem vélhet.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Egyenesen beszélsz, nem kételkedhetem</l>
@@ -4811,7 +4811,7 @@
 				<div type="scene">
 					<head type="title">Harmadik jelenés.</head>
 					<stage>ATILLA, ALUS</stage>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>Komor tekintetin tsendesen morognak veszedelmes indúlati, ’s
                             tsilapodott dühösséggel szoll.</stage>
@@ -4851,7 +4851,7 @@
 							<l>Azért most részemről ez nem hízelkedés.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>hízelkedéssel.</stage>
 						<lg>
@@ -4872,7 +4872,7 @@
 							<l>Ez hely itt Atilla! hol minden változik.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>Dörögni kezd, villámlik az Ég, Atilla el-rémül, reszketve
                             száll.</stage>
@@ -4890,7 +4890,7 @@
 							<l>A’ felleg tüzesül; villámlásival ég.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>a’ Játék-piatznak másszegeletibül.</stage>
 						<lg>
@@ -4908,7 +4908,7 @@
 							<l>Szikrás mennyköviddel kínos Lelkem’ verd-le!</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Az haragos Egek üldöznek bennünket,</l>
@@ -4926,7 +4926,7 @@
 							<l>Oh rettenetes nap, melly kínos halálunk!</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>a’ mennykövek ellen morgó dühösséggel.</stage>
 						<lg>
@@ -4945,7 +4945,7 @@
                                     gyötrettetnék, idétlen rémítő kiáltást teszen.</stage>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>hirtelen rémülésében el-bödül.</stage>
 						<lg>
@@ -4966,7 +4966,7 @@
 							<l>Ah gyötrelmes Lélek! ez a pokolbúi jön.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<lg>
 							<l>Mitsoda rettegés van, Alus, Lelkűnkön!</l>
@@ -4980,7 +4980,7 @@
 							<l>Hogy értette Király! félelmed az hallást?</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Alus iszonyúan, oh nap.</l>
@@ -4992,7 +4992,7 @@
 							<l>Boszszú-állást!</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Hallod a’ kiáltást Alus, melly irtóztat?</l>
@@ -5006,7 +5006,7 @@
 							<l>Néked elég tételt.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>a’ Lélekre kiált hasonlóúl, melly a’ setétszegeletben
                             láttzik.</stage>
@@ -5028,7 +5028,7 @@
 							<stage>Az ítélet múlik, minden világosodik.</stage>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Múlik az ítélet, dörgés nem hallatik,</l>
@@ -5045,7 +5045,7 @@
 							<l>Tűnik a’ setétség tsendesen előttünk.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Meg-kell magyarázni Alus! ez esetet,</l>
@@ -5069,7 +5069,7 @@
 				<div type="scene">
 					<head type="title">Negyedik jelenés.</head>
 					<stage>ATILLA, ALUS, ORES FÖ-PAP seregeivel.</stage>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>méltóságos tekintettel, ’s kemény szavakkal.</stage>
 						<lg>
@@ -5099,7 +5099,7 @@
 							<l>Ne lehettek volna illy isméretesek!</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>mindég keményen.</stage>
 						<lg>
@@ -5123,7 +5123,7 @@
 							<l>Kik itt a’ gyilkosok, kik öltek ártatlant?</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>küszködéssel.</stage>
 						<lg>
@@ -5167,7 +5167,7 @@
 							<l>Mitsoda halálom? miként jövendölsz így?</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>hasonló indulattal.</stage>
 						<lg>
@@ -5196,7 +5196,7 @@
 							<l>Melly ellen rúgdosni, semmi Isten nem mer.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA,</speaker>
 						<stage>reszket, Alusra néz; de ismét erőszakot teszen magán, ’s dühösködni
                             kezd kevélyen.</stage>
@@ -5212,7 +5212,7 @@
 							<l>A’ nagy <hi rend="italic">Jupiternek</hi>!</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>De ne higyük szavát.</l>
@@ -5237,7 +5237,7 @@
 							<l>Hamis Papjainkban.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>Mert magunk szóllhatunk</l>
@@ -5269,7 +5269,7 @@
 							<l>Jövendöl mindenkor.</l>
 						</lg>
 					</sp>
-					<sp who="#atilla">
+					<sp who="#attila">
 						<speaker>ATILLA.</speaker>
 						<lg>
 							<l>De szavát nem hiszem.</l>

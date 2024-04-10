@@ -136,43 +136,43 @@
       <particDesc>
         <listPerson>
           <person sex="MALE" xml:id="achilles">
-            <persName>Barlangi Achilles, Duna-gőzhajózási kapitány</persName>
+            <persName>Barlangi Achilles</persName>
           </person>
           <person sex="FEMALE" xml:id="brigitta">
-            <persName>BRIGITTA</persName>
+            <persName>Brigitta</persName>
           </person>
           <person sex="FEMALE" xml:id="martha">
-            <persName>MÁRTHA</persName>
+            <persName>Mártha</persName>
           </person>
           <person sex="FEMALE" xml:id="miranda">
-            <persName>MIRANDA</persName>
+            <persName>Miranda</persName>
           </person>
           <person sex="MALE" xml:id="mariska">
-            <persName>Mariska, ezeknek unokahuga </persName>
+            <persName>Mariska</persName>
           </person>
           <person sex="MALE" xml:id="tivadar">
-            <persName>Poroszkay Tivadar, gyógyszerész</persName>
+            <persName>Poroszkay Tivadar</persName>
           </person>
           <person sex="FEMALE" xml:id="czili">
-            <persName>Czili, neje </persName>
+            <persName>Czili</persName>
           </person>
           <person sex="MALE" xml:id="oszkar">
             <persName>Beregi Oszkár </persName>
           </person>
           <person sex="FEMALE" xml:id="lilly">
-            <persName>Lilly, volt léghajósnő</persName>
+            <persName>Lilly</persName>
           </person>
           <person sex="MALE" xml:id="maszlaghy">
-            <persName>Maszlaghy, gyógyszerész-segéd</persName>
+            <persName>Maszlaghy</persName>
           </person>
           <person sex="MALE" xml:id="petyko">
-            <persName>Petykó, főszakács</persName>
+            <persName>Petykó</persName>
           </person>
           <person sex="MALE" xml:id="omor">
-            <persName>Omor, alorvos</persName>
+            <persName>Omor</persName>
           </person>
           <person sex="MALE" xml:id="zughy">
-            <persName>Zúghy, ügyvéd </persName>
+            <persName>Zúghy</persName>
           </person>
           <person sex="MALE" xml:id="eduard">
             <persName>Eduárd </persName>
@@ -181,10 +181,10 @@
             <persName>Péter</persName>
           </person>
           <person sex="MALE" xml:id="pisztrang">
-            <persName>Pisztráng, matróz-gyerek </persName>
+            <persName>Pisztráng</persName>
           </person>
           <person sex="FEMALE" xml:id="roza">
-            <persName>Róza, szobaleány </persName>
+            <persName>Róza</persName>
           </person>
           <person sex="MALE" xml:id="vendeglos">
             <persName>Vendéglős</persName>
@@ -357,7 +357,7 @@
             <speaker>VENDÉGLŐS</speaker>
             <p>Micsoda? Semmit? És még a hivatalos titkokat is kilesi? </p>
           </sp>
-          <sp who="#szakcsne">
+          <sp who="#szakacsne">
             <speaker>SZAKÁCSNÉ</speaker>
             <p>Hát avval a borjúmájjal mit csináljak, a ki a nyakunkon maradt? </p>
           </sp>
@@ -508,7 +508,7 @@
             <p>Mintha az olyan könnyen menne. <stage>(Oszkár segitségével fölkel, térdét
                 tapogatja.)</stage> Jaj!</p>
           </sp>
-          <sp who="#oszikar">
+          <sp who="#oszkar">
             <speaker>OSZKÁR</speaker>
             <p>Megharapta az oroszlán? Láttam, épen most ment ki innen. Csinos kis vadállat.</p>
           </sp>
@@ -1333,13 +1333,13 @@
         <div type="scene">
           <head type="title">ÖTÖDIK JELENET</head>
           <stage>ELŐBBIEK. MIRANDA, MÁRTHA, BRIGITTA. </stage>
-          <sp who="#achilles #edurad">
+          <sp who="#achilles #eduard">
             <speaker>ACHILLES. EDUÁRD</speaker>
 
             <p>Eduárd. Hurrah!</p>
           </sp>
-          <sp who="#birigitta">
-            <speaker>BIRIGITTA</speaker>
+          <sp who="#brigitta">
+            <speaker>BRIGITTA</speaker>
             <stage>(sikolt)</stage>
 
             <p>Ah!</p>
@@ -1542,7 +1542,7 @@
 
             <p>Mit vihognak ezek a czápák? </p>
           </sp>
-          <sp who="#miradna">
+          <sp who="#miranda">
             <speaker>MIRANDA</speaker>
             <stage> (félrevonja Achillest, sugva.)</stage>
 
@@ -1634,7 +1634,7 @@
               őt. Megosztottuk egymás közt a nehéz munkát; mindegyikünk más-más oldalát művelte ki.
               Én a gyakorlatit.</p>
           </sp>
-          <sp who="#miradna">
+          <sp who="#miranda">
             <speaker>MIRANDA</speaker>
 
             <p>Én az eszményit. </p>
@@ -2687,7 +2687,7 @@
 
             <p>Marie! </p>
           </sp>
-          <sp who="#marsika">
+          <sp who="#mariska">
             <speaker>MARISKA</speaker>
             <stage>(mély bókkal.)</stage>
 
@@ -3669,7 +3669,7 @@
             <speaker>ACHILLES</speaker>
             <p>A patikárius! Hiszen ez patikárius! </p>
           </sp>
-          <sp who="#lillly">
+          <sp who="#lilly">
             <speaker>LILLY</speaker>
             <p>Baj is az! Csak jó szive legyen! Adjon ehhez - vagy ha nem tetszik - vegyen el maga -
               tertium non datur.</p>
@@ -3768,7 +3768,7 @@
 
             <p> Jól van. </p>
           </sp>
-          <sp who="#tvadar">
+          <sp who="#tivadar">
             <speaker>TIVADAR</speaker>
 
             <p>Ah! jól van? jaj! mindjárt elszédülök a boldogságtól. </p>
@@ -3954,7 +3954,7 @@
 
             <p>Ilyenek ezek a hires fővárosi hölgyek? Milyen izlés! milyen modor!</p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Milyen toilette! </p>
@@ -3965,7 +3965,7 @@
 
             <p>Maszlagi! nézzen be a vendéglőbe, nincs-e ott férjem? </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
             <stage>(átadja a napernyőt.)</stage>
 
@@ -3980,7 +3980,7 @@
               hol rejtőzhetik...? Nagyon biztatott, hogy otthon maradjak - természetesen azért is
               föl kellett jönnöm... Nos, Maszlagi, itt van? </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
             <stage>(átveszi a napernyőt s ujra Czili fölé tartja.) </stage>
 
@@ -3991,7 +3991,7 @@
 
             <p>Ez már a hetedik kocsma, a hol hiába keressük. Kezdek már fáradt lenni... </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Méltóztassék e kerti székek valamelyikét boldogitani pehelykönnyü terhével.</p>
@@ -4007,7 +4007,7 @@
             <p>Nem kellett volna egyedül elbocsátnom őt. Szegény jó öregem; olyan élhetetlen...
               háromig sem tud olvasni nélkülem.</p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
             <stage>(az égre néz.)</stage>
 
@@ -4022,7 +4022,7 @@
             <p>Milyen válogatott szavakkal beszél ön, Maszlagi. Hugom valóban boldog lesz. Nincs
               udvariasabb nép a gyógyszerész-segédeknél.</p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Nagysád bájsugáraitól önkénytelenül kifakadnak az udvariasság rózsái. </p>
@@ -4039,7 +4039,7 @@
 
             <p>Mi volt ez?</p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
             <stage>(körülnéz.)</stage>
 
@@ -4053,7 +4053,7 @@
               kergeti férjemet.</p>
             <stage>(Fölkel.) </stage>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Valóban érdekes volna, ha nagysád valami kalandban lepné meg tisztelt főnökömet.</p>
@@ -7368,7 +7368,7 @@
         <div type="scene">
           <head type="title">TIZENNYOLCZADIK JELENET. </head>
           <stage>TIVADAR (egyedül, az ajtón hallgatózik. Alkonyodik, félhomály.) </stage>
-          <sp who="tivadar">
+          <sp who="#tivadar">
             <speaker/>
 
             <p>Ugy! Csak aludjál, derék Eduárd! Jót fog tenni neked is, nekem is... Hála istennek!
@@ -8128,7 +8128,7 @@
               kisasszonynyal megismerkedni.</p>
             <stage>(Ujra bókol.)</stage>
           </sp>
-          <sp who="#mariksa">
+          <sp who="#mariska">
             <speaker>MARISKA</speaker>
             <stage>(bókol, zavartan.)</stage>
 
@@ -8310,7 +8310,7 @@
             <stage>(félre.)</stage>
             <p>Milyent csattant! Ez nekem volt szánva. </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Ki fogad engem e meglepő üdvözlettel? </p>
@@ -8320,7 +8320,7 @@
 
             <p>Mit hallok! Ez Maszlagi hangja! Maszlagi, önt vágtam pofon? </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Nekem volt szerencsém! És nagysád miért hozta érintkezésbe gyöngéd tenyerét arczbőröm
@@ -8331,7 +8331,7 @@
 
             <p>Nem önnek volt szánva. </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Ez már más. </p>
@@ -8341,7 +8341,7 @@
 
             <p>Mit keres itt? </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Zajt hallottam e szobában s azt hittem, hogy tisztelt főnököm, Poroszkay ur érkezett
@@ -8356,7 +8356,7 @@
 
             <p>Jaj!</p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Ki nyujtózik itt a földön? </p>
@@ -8366,7 +8366,7 @@
 
             <p>Ne törődjék vele! Csak a matróz. </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Bocsánat, tisztelt matróz ur!</p>
@@ -8377,7 +8377,7 @@
 
             <p>Oh csak itt volna az a szörnyeteg! </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Nincs itt? Pedig óhajtom látását. De ime egy hölgy</p>
@@ -8387,7 +8387,7 @@
 
             <p>Ne törődjék vele. Ez a kedves Poroszkay ur másodika... </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
             <stage>(bókol Mariska előtt.)</stage>
 
@@ -8401,7 +8401,7 @@
               küldte el ruháiért... Matróz, itt ne feledjen valamit...</p>
             <stage>(A szekrényből ruhákat dob Tivadarra.) </stage>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Megyek hát s tüstént fölkeresem a hajón. </p>
@@ -8411,7 +8411,7 @@
 
             <p>Mit akar vele? </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Megölni óhajtom. </p>
@@ -8423,7 +8423,7 @@
             <p>Mit hallok! ez a mulya is megbőszült?</p>
             <stage>(A ruhák közé dugja fejét.)</stage>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Megölöm vagy meghalok. Az élet elvesztette rám nézve minden becsét. Ilka kisasszony,
@@ -8441,7 +8441,7 @@
               még hozzá Maszlagival! Mintha nem tudtam volna jobbat találni, ha épen akartam volna!
             </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Nagysád bizonyságot tehet mellettem, hogy soha sem emeltem szememet főnököm nejére...
@@ -8602,7 +8602,7 @@
             <p>Itt van - üss pofon - tépd meg a hajamat - kapard ki a szememet - megérdemlem - jól
               fog esni - </p>
           </sp>
-          <sp who="#cziil">
+          <sp who="#czili">
             <speaker>CZILI</speaker>
 
             <p>Jól fog esni?</p>
@@ -9076,7 +9076,7 @@
             <p>Most már megint rajtam a sor</p>
             <stage> (fölkel.) </stage>
           </sp>
-          <sp who="#marthha">
+          <sp who="#martha">
             <speaker>MÁRTHA</speaker>
 
             <p>De fogadom, hogy helyre fogja állitni e szegény leány jó hirét. </p>
@@ -9440,7 +9440,7 @@
         <div type="scene">
           <head type="title">KILENCZEDIK JELENET</head>
           <stage>ELŐBBIEK. MASZLAGI. </stage>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
             <stage>(komor ünnepélyességgel Tivadar elé lép.)</stage>
 
@@ -9461,7 +9461,7 @@
 
             <p>Hagyjon békét! Ezt csak nem csábitottam el?</p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Azt kérdik, ki vagyok? Szerencsétlen gyógyszerész-segéd vagyok, ki nőm hozományából
@@ -9477,7 +9477,7 @@
 
             <p>Maszlagi, ne bolondozzék, mert elcsapom. </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p>Én már előbb elcsaptam önt magamtól, tisztelt főnököm! Vegye fel kesztyűmet - várom
@@ -9517,7 +9517,7 @@
 
             <p>Eredj a pokolba!</p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
 
             <p> Öt perczig vártam - nem vette fel kesztyűmet. Uraim, önök tanui lovagias
@@ -9992,7 +9992,7 @@
         <div type="scene">
           <head type="title">TIZENHARMADIK JELENET. </head>
           <stage>BRIGITTA, MIRANDA, MÁRTHA, OSZKÁR. </stage>
-          <sp who="#oszlar">
+          <sp who="#oszkar">
             <speaker>OSZKÁR</speaker>
 
             <p>Ah! mily csapás! Mint vérzik a szivem! </p>
@@ -10549,7 +10549,7 @@
         <div type="scene">
           <head type="title">TIZENÖTÖDIK JELENET</head>
           <stage>ELŐBBIEK. MASZLAGI. </stage>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
             <stage>(kezében tálczát tart, melyen két mázos csupor van. Ünnepélyesen Tivadarhoz
                 lép.)</stage>
@@ -10565,7 +10565,7 @@
             <stage>(Kiüti Maszlagi kezéből a tálczát, a bögrék leesnek. A nők sikoltva ugrálnak
                 félre.) </stage>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
             <p>Ön lovagiatlan férfiu. Tudja meg, hogy menyasszonyom még mindig szörnyetegnek nevez s
               nem akar engedni. Kijelenté, hogy csak ugy hisz ártatlanságomban, ha ön visszavonja
@@ -10581,7 +10581,7 @@
             <p>Legyen! - hugom boldogságáért - de csakis azért... Maszlagi, mondja meg Ilkának, hogy
               férjem visszavonta vádját s kibékült velem... </p>
           </sp>
-          <sp who="#maszlagi">
+          <sp who="#maszlaghy">
             <speaker>MASZLAGI</speaker>
             <p>Tisztelt főnököm, megbocsátok önnek. </p>
           </sp>

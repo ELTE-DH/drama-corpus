@@ -235,7 +235,7 @@
 				<div type="scene">
 					<head type="title">ELSŐ jelenés</head>
 					<stage>ERSÉBET, és fija, HUNYADI LÁSZLÓ</stage>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<stage>fijának kezétfogván, véle a’ Játék-piatz-nak elejére jő, kit ott
                             vállain keresztül meg-ölel.</stage>
@@ -262,7 +262,7 @@
 							<l>’S ha a’ Király kérdez, előtte hogy szólaszsz?</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L.</speaker>
 						<lg>
 							<l>Rettegéseim közt kétségem kínra vét:</l>
@@ -284,7 +284,7 @@
 						</lg>
 						<stage>E’-kor Hunyadi Anyjának egy levelet nyújt. *</stage>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<stage>Olvassa.</stage>
 						<lg>
@@ -296,14 +296,14 @@
 							<l>Fájdalmaim között hová kell ma lennem!</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L.</speaker>
 						<lg>
 							<l>Hidjed igaz okát tselekedetemnek,</l>
 							<l>Lássad titkon készült sírját életemnek.</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<l>Hunyadi! nem vesztek még-el ellenségid,</l>
@@ -330,14 +330,14 @@
 							<l>Merről szökjünk Szembe rút veszedelmed-el</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L.</speaker>
 						<lg>
 							<l>Tartozik a’ Király nékem kegyelmezni,</l>
 							<l>’S gyilkosaim ellen él'tem’ védelmezni.</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<l>Mit mondaszsz? a’ Király tartozik éretted</l>
@@ -362,7 +362,7 @@
 							<stage>Kesereg</stage>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L.</speaker>
 						<lg>
 							<l>Leg-szerentsétleneb, ’s leg-kegyesebb Anya</l>
@@ -377,7 +377,7 @@
 							<l>Ne kínozd hívségét; ne epeszd szívedet.</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<l>Hunyadi! híjába beszélsz, mert féltelek,</l>
@@ -386,7 +386,7 @@
 							<l>Ne terjeszd nagyobra tüzét gyötrelmemnek.</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Hát tsak némán nézzem nyögését Anyámnak?</l>
@@ -401,7 +401,7 @@
 							<l>Nem sérthetem Anyám. Ah lásd gyermekedet!</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<stage>Kesereg.</stage>
@@ -409,7 +409,7 @@
 							<l>Ha beszélsz gyötrelmem el-viselhetetlen.</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L.</speaker>
 						<lg>
 							<stage>félre sóhajt.</stage>
@@ -430,14 +430,14 @@
                                 előre meg-illétődik, ’s a’ Vitézi rendeknek egy intésé-vel,
                                 el-meneteltparantsol. Mikor’ egyedül marad, Hunyadi, ’s Ersébet,
                                 lábai-hoz esnek.</stage>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<l>Ah kegyelmes Király! lábaid-hoz hozom</l>
 							<l>Köny-húllatásim-al keserves panaszom’</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Ah király! tekintsed Hunyadi' árvájit,</l>
@@ -447,7 +447,7 @@
 					<stage>A’ Királynak tekintetét hirtelen meg-illetődése, ’sfájdalma
                                 változtatja; szemei nedvesűlni kezdenek, hol Ersébet-hez, hol
                                 Hunyadi-hoz kap; kik lábait könyvek-el áztatják.</stage>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<stage>hamar meg-illetődés-el</stage>
@@ -463,19 +463,19 @@
 							<l>Közöljétek velem fájdalmaitokat.</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<l>Reszketek szólani; félek veszélyemtől,</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Nagy Király! rettegek tselekedetemtől.</l>
 						</lg>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>Miért akarjátok magatok titkolni,</l>
@@ -502,7 +502,7 @@
 							<l>Kegyelmességemtől mindent remény’ljetek</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<stage>Kétségesen.</stage>
@@ -510,21 +510,21 @@
 							<stage>el-fordúl, nem szólhat, retteg.</stage>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<stage>maga el-tökéllés-e</stage>
 							<l>Király! — Ulrik bennem veszette életét.</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<stage>a' Királyra reszketve néz.</stage>
 							<l>Ah szerentsétlen hír!</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Ez a’ büszke gyilkos,</l>
@@ -539,7 +539,7 @@
 							<l>’S a’ mellyet Hunyadi’ özvegye sírva bán.</l>
 						</lg>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<stage>egy kevésséfel-függeszti indulatait, hol Ersébetre, hol
@@ -551,7 +551,7 @@
                                         meg-ölel</stage>
 						</lg>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<stage>fel-tekint meg-illetödés-el.</stage>
@@ -563,7 +563,7 @@
                                         kiken esdekni láttatik</stage>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<stage>fel néz</stage>
@@ -571,14 +571,14 @@
 							<l>Híved-hez mutatván nagy Kegyelmességed’</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Örökös Szerentsém’ karjaira estem;</l>
 							<l>Mellyet királyom-nál igazán kerestem</l>
 						</lg>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>Emelkedjetek-fel, előttem a’ porból</l>
@@ -587,7 +587,7 @@
 							<l>Tiszteljük, rettegjük e’-nek igazságát.</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<stage>keserves öröm-el, ’s enyelgő esdekés-el</stage>
@@ -596,7 +596,7 @@
 						<stage>E’-kor hálá’datosságától el-ragadtatván, ismét a ’ Király
                                     lábai-hoz esik.</stage>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<stage>illetődés-el</stage>
@@ -604,7 +604,7 @@
 						</lg>
 						<stage>Ersébet a' Királynak térdeit ölelve tartja.</stage>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<stage>mindég illetődés-el</stage>
@@ -614,26 +614,26 @@
 							<l>Ne öregbítsd bennem illetődésemet.</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<stage>fel-néz</stage>
 							<l>Uram! de örökre meg-kegyelmezel-é?</l>
 						</lg>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>Mit tegyek mond-még ígéretem mellé?</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<l>Tsak kegyelmet Király, ez-el bánj híved-el</l>
 						</lg>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>Hiszem kegyelmezek, kegyelmezek, hidd-el,</l>
@@ -642,7 +642,7 @@
 						</lg>
 						<stage>Fel-áll Ersébet, zörgést hallanak.</stage>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>Halgassunk! mert ezek talám tanátsosok;</l>
@@ -658,7 +658,7 @@
 				<div type="scene">
 					<head type="title">Harmadik jelenés.</head>
 					<stage>A KIRÁLY, és ROZGONYI SEBESTYÉN érkeznek</stage>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<stage>méltóság-al.</stage>
 						<lg>
@@ -666,7 +666,7 @@
 							<l>Az Haza sorsáról mitsoda jót tudhatsz?</l>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<l>Jó is, szomorú is, Király! a’ mit-tudok.</l>
@@ -674,7 +674,7 @@
 							<l>Ha előtted mondom-----------</l>
 						</lg>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<stage>hirtelen</stage>
@@ -682,7 +682,7 @@
 							<l>Tudom; de gyilkosa kinek neveztetett?</l>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<stage>alázatosfélelem-el.</stage>
@@ -690,7 +690,7 @@
 							<l>Magát meg-tartotta; ellenségét vesztvén.</l>
 						</lg>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<stage>kemény Szavak-al.</stage>
@@ -700,7 +700,7 @@
 							<l>’S tsak mint Gyilkos, vér-el mérgének áldozott.</l>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<l>Uram! vigyázzon itt leg-felsőb Kegyelmed</l>
@@ -715,7 +715,7 @@
 							<l>Azt mondom nyelvem-el, mit szívemen tudok.</l>
 						</lg>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<stage>kemény szavak-al.</stage>
@@ -725,7 +725,7 @@
 							<l>Jobbágy vád illy helyen, könnyen lehet hamis.</l>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<stage>bátran</stage>
@@ -743,7 +743,7 @@
 							<l>Úgy tégy a’-mint tetszik; kezedbe van szolgád.</l>
 						</lg>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<stage>egész bátorság-al, félre megyen, fel-néz</stage>
@@ -763,14 +763,14 @@
 							<l>Nem vezérli harag ellene a’ szíved’?</l>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<l>Király! nintsen bennem illy nagy alatsonyság,</l>
 							<l>Nem szólott belőlem egyéb: tsak igazság.</l>
 						</lg>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>E’-ként hát ma boldog napomra viradtam;</l>
@@ -783,7 +783,7 @@
 							<l>Fel-tett szándékunkba állandók, hogy legyünk.</l>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<l>Ha érzi felséged, hogy igaz tettébe;</l>
@@ -798,7 +798,7 @@
 							<l>’S soha büszkeségből büntetést ne tegyen.</l>
 						</lg>
 					</sp>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>Rozgonyi! te veled még tanátskoznom kell,</l>
@@ -809,7 +809,7 @@
 				<div type="scene">
 					<head type="title">NEGYEDIK JELENÉS</head>
 					<stage>GARA, ’s leánya ANNA.</stage>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Lyányom igen szükség ma szólanom veled</l>
@@ -818,14 +818,14 @@
 							<l>Gyaláztatásomat mi módon szenyvedjem?</l>
 						</lg>
 					</sp>
-					<sp who="anna">
+					<sp who="#gara_anna">
 						<speaker>ANNA</speaker>
 						<lg>
 							<l>Atyám tetszésétől függ tsak akaratom</l>
 							<l>Engedek; ha tzélját javamra halhatom.</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Hunyadi Lászlónak jegybe engedtelek;</l>
@@ -848,14 +848,14 @@
 							<l>Melly nagy hívségedbe még engedelmet vél.</l>
 						</lg>
 					</sp>
-					<sp who="anna">
+					<sp who="#gara_anna">
 						<speaker>ANNA</speaker>
 						<lg>
 							<l>Ha meg-hal Hunyadi, úgy magam maradok;</l>
 							<l>De ha él, mellőle soha el-nem állok</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<stage>hirtelen gyúladás-al</stage>
@@ -865,7 +865,7 @@
 							<l>El-vesz meg-mutatom mostani vétkébe.</l>
 						</lg>
 					</sp>
-					<sp who="anna">
+					<sp who="#gara_anna">
 						<speaker>ANNA</speaker>
 						<lg>
 							<l>Atyám nem találom szívem szerelmesnek;</l>
@@ -878,7 +878,7 @@
 							<l>Könnyen tévedhetek illy nagy ínségembe.</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<stage>búsúlt harag-al</stage>
@@ -891,7 +891,7 @@
 				<div type="scene">
 					<head type="title">Ötödik jelenés</head>
 					<stage>GARA egyedűl.</stage>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<stage>egyedűl</stage>
@@ -948,7 +948,7 @@
 				<div type="scene">
 					<head type="title">Hatodik jelenés</head>
 					<stage>GARA, ROZGONYI.</stage>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<stage>A büszke méltóság-alszól; kiált Rozgonyira, mintha ötét a’
@@ -956,7 +956,7 @@
 							<l>Ki jő itt egyedül?</l>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<stage>ki a’ Játék-piatz’ egyik óldalából Garának minden
@@ -964,21 +964,21 @@
 							<l>Hazafi — ’s Keresztyén.</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>A’ te vagy Sebestyén, hallál-é újságot?</l>
 							<l>Tudod az hirtelen történt gyilkosságot?</l>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<l>Gyilkost nem ismérek; de halált hallottam,</l>
 							<l>’S hogy Ulrik el-veszet, azt hamar meg-tudtam.</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<stage>A tartózkodva.</stage>
@@ -986,21 +986,21 @@
 							<l>Ulrik’ halálá-val te senkit nem vádolsz?</l>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<l>Kétség kívül nem; mert hogy veszszen akartam.</l>
 							<l>’S halálát minden-hogy szükségnek találtam.</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Így szólasz Királyod’ kedves barátjáról?</l>
 							<l>Nem ítélsz-é jobban hív atyja-fijáról?</l>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<l>Mint tudod titkolni tanátsos Lelkedet!</l>
@@ -1042,7 +1042,7 @@
 				</div>
 				<div type="scene">
 					<head type="title">Hetedik jelenés</head>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<stage>egyedűl</stage>
 						<lg>
@@ -1065,7 +1065,7 @@
 				<div type="scene">
 					<head type="title">Első jelenés</head>
 					<stage>ERSÉBET, HUNYADI LÁSZLÓ, és MÁTYÁS.</stage>
-					<sp who="#ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<l>
@@ -1087,7 +1087,7 @@
 							<l>Hozá jutásunkat talán már is várja.</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<l>Fijaim értetek szüntelen rettegek,</l>
@@ -1127,7 +1127,7 @@
 							<l>Melly sok méreg futott-öszve a’ szívemen!</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_matyas">
+					<sp who="#hunyadi_matyas">
 						<speaker>MÁTYÁS</speaker>
 						<lg>
 							<l>
@@ -1137,13 +1137,13 @@
 							<l>Meg-őrzi — védelme — ártatlan — fijaid’.</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<l>Anyai hivatal! Anyai hivatal!</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>LÁSZLÓ</speaker>
 						<lg>
 							<l>Édes — Anya — ne verd — magad — fájdalmid-aL</l>
@@ -1151,7 +1151,7 @@
 							<l>E’-nek — kegyelmébe — nem — kételkedhetünk.</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<l>Á’lljatok-fel, nehéz itt térdepelnetek,</l>
@@ -1171,7 +1171,7 @@
 							</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>LÁSZLÓ</speaker>
 						<lg>
 							<l>
@@ -1181,14 +1181,14 @@
 							<l>Anyám! méreggé leszsz szavadra a’ vérem</l>
 						</lg>
 					</sp>
-					<sp who="matyas">
+					<sp who="#hunyadi_matyas">
 						<speaker>MÁTYÁS</speaker>
 						<lg>
 							<l>Istenem! Istenem! miért igazságod</l>
 							<l>Nem tsattog felettünk; mutatván Jóságod’.</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<stage>ki-terjeszti kezeit fijaira néz.</stage>
 						<lg>
@@ -1208,7 +1208,7 @@
 				<div type="scene">
 					<head type="title">MÁSODIK JELENÉS</head>
 					<stage>GARA, A’ KIRÁLY, BÁN-FI, és PALOTÁS VITÉZEK.</stage>
-					<sp who="iv_laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>Mitsoda módok-al folytatjuk a’ törvényt</l>
@@ -1216,7 +1216,7 @@
 							<l>Bóldogabb idők-höz, mint mellyeket élünk?</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Uram! törvényinkbe még e’-dig jót vélünk.</l>
@@ -1224,7 +1224,7 @@
 							<l>’S verjük hatalmad-al erkőltsteleninket.</l>
 						</lg>
 					</sp>
-					<sp who="iv_laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>Tudod mindég törvény alá esik a‘ bűn,</l>
@@ -1233,21 +1233,21 @@
 							<l>Gonosz eszközeit meg-ostorozhatjuk.</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Igen is; De szükség serényen vígyázni,</l>
 							<l>A’ törvénybe sok-szor lehetett hibázni.</l>
 						</lg>
 					</sp>
-					<sp who="iv_laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>Kezetekbe vagyon önnön törvényetek</l>
 							<l>Ne tsalatkozzatok, vigyázok legyetek</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Uram! illy vígyázás hoz elődbe épen,</l>
@@ -1266,7 +1266,7 @@
 				<div type="scene">
 					<head type="title">HARMADIK JELENÉS</head>
 					<stage>GARA, A’ KIRÁLY, BÁN-FI.</stage>
-					<sp who="iv_laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>
@@ -1280,7 +1280,7 @@
 							</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Felséged tudhatja Ulrik’ történetét,</l>
@@ -1322,14 +1322,14 @@
 							<l>’S Hunyadi Lászlónak életét el-vette.</l>
 						</lg>
 					</sp>
-					<sp who="iv_laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>Nem lehetne lenni még több vígyázás-al,</l>
 							<l>’S vigyázva végezni a’ várakozás-al</l>
 						</lg>
 					</sp>
-					<sp who="banfi_pal">
+					<sp who="#banfi_pal">
 						<speaker>BÁN-FI</speaker>
 						<lg>
 							<l>Nehéz már itt Uram tovább várakozni,</l>
@@ -1338,14 +1338,14 @@
 							<l>El-vesztén Felséged, Soha ne hánykódjon.</l>
 						</lg>
 					</sp>
-					<sp who="iv_laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>De életének már egy-szer kegyelmeztem</l>
 							<l>’S hogy ne bántattasson, a’ képen végeztem.</l>
 						</lg>
 					</sp>
-					<sp who="banfi_pal">
+					<sp who="#banfi_pal">
 						<speaker>BÁN-FI</speaker>
 						<lg>
 							<l>A’-kor tsak kegyelem, ’s szánakozás beszélt,</l>
@@ -1360,7 +1360,7 @@
 							<l>Hatalmunk egyedűl ő benne ítélhet.</l>
 						</lg>
 					</sp>
-					<sp who="iv_laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>De még is a’ törvényt alám eresztitek,</l>
@@ -1387,7 +1387,7 @@
 							<l>Meg-nem nyugtathatom halálán szívemet.</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Felséges Király! mi gyilkost nem szenyvedünk.</l>
@@ -1396,14 +1396,14 @@
 							<l>De az halálos bűnt, itt ne védelmezze.</l>
 						</lg>
 					</sp>
-					<sp who="banfi_pal">
+					<sp who="#banfi_pal">
 						<speaker>BÁN-FI</speaker>
 						<lg>
 							<l>Ha Felséged ki-kel tanátsosi ellen.</l>
 							<l>Az Haza nem leszen osztán engedetlen —</l>
 						</lg>
 					</sp>
-					<sp who="iv_laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>
@@ -1476,7 +1476,7 @@
 				<div type="scene">
 					<head type="title">Ötodik jelenés</head>
 					<stage>GARA, A’ KIRÁLY.</stage>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>
@@ -1499,14 +1499,14 @@
 							</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Felséged elibe jött ez az ítélet,</l>
 							<l>Mellyet változtatni már többé nem lehet.</l>
 						</lg>
 					</sp>
-					<sp who="iv_laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>
@@ -1521,14 +1521,14 @@
 							</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Felséges Uram! már minden készen vagyon,</l>
 							<l>A’ végső akarat-----------</l>
 						</lg>
 					</sp>
-					<sp who="iv_laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>
@@ -1552,7 +1552,7 @@
 							</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Uram! fél Ország zúg, a’ tanáts reánk vár,</l>
@@ -1561,7 +1561,7 @@
 						<stage>A’ Király sebesseben kezd sétálni, mindenfelé tekint,
                                     sóhajt, ’s Garának semmit nem felel.</stage>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>
@@ -1571,7 +1571,7 @@
 							<l>Szóllj Uram! mond okát illy tsendességednek.</l>
 						</lg>
 					</sp>
-					<sp who="iv_laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>Ah Gara! ha te is illy tsendes lehetnél</l>
@@ -1582,7 +1582,7 @@
 				<div type="scene">
 					<head type="title">Hatodik jelenés</head>
 					<stage>GARA, A’ KIRÁLY, BÁN-FI.</stage>
-					<sp who="banfi_pal">
+					<sp who="#banfi_pal">
 						<speaker>BÁN-FI</speaker>
 						<lg>
 							<l>
@@ -1599,7 +1599,7 @@
 							<l>Igazságot akar a’ veszélytűl félvén</l>
 						</lg>
 					</sp>
-					<sp who="iv_laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>
@@ -1614,19 +1614,19 @@
 							</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Miért hánykolódik annyira Felséged?</l>
 						</lg>
 					</sp>
-					<sp who="banfi_pal">
+					<sp who="#banfi_pal">
 						<speaker>BÁN-FI</speaker>
 						<lg>
 							<l>Uram! hiszem reánk esik ítéleted.</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Álljon-meg Felséged a’ mi törvényünkön,</l>
@@ -1637,21 +1637,21 @@
 							<l>Miért legyen tehát szívednek keserve?</l>
 						</lg>
 					</sp>
-					<sp who="banfi_pal">
+					<sp who="#banfi_pal">
 						<speaker>BÁN-FI</speaker>
 						<lg>
 							<l>A' Király részirűl nints itt veszedelem,</l>
 							<l>Leg jobb leszen benne most az engedelem.</l>
 						</lg>
 					</sp>
-					<sp who="iv_laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<l>Törvény, s’ igazság hát a’ ti Lelketekbe,</l>
 							<l>Hogy be-írjam nevem ítéletetekbe?</l>
 						</lg>
 					</sp>
-					<sp who="gara_laszlo">
+					<sp who="#gara_laszlo">
 						<speaker>GARA</speaker>
 						<lg>
 							<l>Igen is úgy vagyon, mi állunk mindenért</l>
@@ -1666,19 +1666,19 @@
 				<div type="scene">
 						<head type="title">Hetedik jelenés</head>
 						<stage>GARA BÁN-FI.</stage>
-						<sp who="gara_laszlo">
+						<sp who="#gara_laszlo">
 							<speaker>GARA</speaker>
 							<lg>
 								<l>Ládd-é Bán-fi, millyen szoros győzedelmünk?</l>
 							</lg>
 						</sp>
-						<sp who="banfi_pal">
+						<sp who="#banfi_pal">
 							<speaker>BÁN-FI</speaker>
 							<lg>
 								<l>Semmi; Mert nyert azért a’ mi engedelmünk</l>
 							</lg>
 						</sp>
-						<sp who="gara_laszlo">
+						<sp who="#gara_laszlo">
 							<speaker>GARA</speaker>
 							<lg>
 								<l>Ha egy Király végre tanátsátúl el-áll,</l>
@@ -1689,7 +1689,7 @@
 								<l>Ki tanátsosinak nem nyújt engedelmet.</l>
 							</lg>
 						</sp>
-						<sp who="banfi_pal">
+						<sp who="#banfi_pal">
 							<speaker>BÁN-FI</speaker>
 							<lg>
 								<l>Tudna-é a’ Király nékünk nem engedni</l>
@@ -1721,7 +1721,7 @@
 								</l>
 							</lg>
 						</sp>
-						<sp who="banfi_pal">
+						<sp who="#banfi_pal">
 							<speaker>BÁN-FI</speaker>
 							<lg>
 								<l>
@@ -1738,7 +1738,7 @@
                                         veszi; Gara utoljára kezével mellyére üt, ’s
                                         fel-tekínt.</stage>
 						</sp>
-						<sp who="gara_laszlo">
+						<sp who="#gara_laszlo">
 							<speaker>GARA</speaker>
 							<lg>
 								<l>
@@ -1753,7 +1753,7 @@
 							<stage>E’-kor Gara kezével artzúlatját el-fedezvén tántorogni
                                         kezd, kit Bán-fi hozzá szaladván által ölel.</stage>
 						</sp>
-						<sp who="banfi_pal">
+						<sp who="#banfi_pal">
 							<speaker>BÁN-FI</speaker>
 							<lg>
 								<l>
@@ -1766,7 +1766,7 @@
 							<stage>A ’ kiáltásra sok szolgáló férjfijak rohannak elő, kik
                                         Garát el-alélásába fel-vévén, ki-viszik</stage>
 						</sp>
-						<sp who="banfi_pal">
+						<sp who="#banfi_pal">
 							<speaker>BÁN-FI</speaker>
 							<lg>
 								<l>
@@ -1784,7 +1784,7 @@
 				<div type="scene">
 					<head type="title">Első jelenés</head>
 					<stage>HUNYADI LÁSZLÓ, és Jegyese ANNA.</stage>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI LÁSZLÓ</speaker>
 						<lg>
 							<stage>Jegyesének kezét fogván a’ Játék-piatznakfenekébűl előre jő,
@@ -1795,7 +1795,7 @@
 							<l>Nem adhatok kín-nál egyebet szívedbe.</l>
 						</lg>
 					</sp>
-					<sp who="anna">
+					<sp who="#gara_anna">
 						<speaker>ANNA</speaker>
 						<lg>
 							<stage>keservesen</stage>
@@ -1803,14 +1803,14 @@
 							<l>Nem lehet-é már mód, hogy bírjon szerelmem?</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Anna! nem változik a’ felsőb végezés,</l>
 							<l>Tsalhatatlan köztünk egy Király, rendelés.</l>
 						</lg>
 					</sp>
-					<sp who="anna">
+					<sp who="#gara_anna">
 						<speaker>ANNA</speaker>
 						<lg>
 							<stage>az Egekre tekint</stage>
@@ -1818,28 +1818,28 @@
 							<l>Mért büntetsz; hova futsz, mért mégy-el előlünk</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Ne terheld valahogy Anna az Egeket,</l>
 							<l>Tiszteljed, szeressed nagy rendeléseket.</l>
 						</lg>
 					</sp>
-					<sp who="anna">
+					<sp who="#gara_anna">
 						<speaker>ANNA</speaker>
 						<lg>
 							<l>Ah halgass! engedjed inkáb halálomat</l>
 							<l>Mint el-tiltsad tőlem kínos panaszomat.</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Siralmad nem adja viszsza életemet</l>
 							<l>Kéméld hát magadat, ’s fogyaszd gyötrelmemet</l>
 						</lg>
 					</sp>
-					<sp who="anna">
+					<sp who="#gara_anna">
 						<speaker>ANNA</speaker>
 						<lg>
 							<l>Hogy kéméljem magam’ ha az Egek vernek?</l>
@@ -1863,7 +1863,7 @@
                                 gyötrelmeí-vel szó nélkül küszködik.</stage>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<stage>küszködések között.</stage>
@@ -1873,7 +1873,7 @@
 							<l>Miként gyötörhettek olly mértékletlenűl!</l>
 						</lg>
 					</sp>
-					<sp who="anna">
+					<sp who="#gara_anna">
 						<speaker>ANNA</speaker>
 						<lg>
 							<stage>fel-tekint Hunyadira.</stage>
@@ -1881,14 +1881,14 @@
 						</lg>
 						<stage>Egy kevés kor-ig keservesen néznek egymásra.</stage>
 					</sp>
-					<sp who="anna">
+					<sp who="#gara_anna">
 						<speaker>ANNA</speaker>
 						<lg>
 							<stage>hirtelen.</stage>
 							<l>Meg öl a’ rettegés!<stage>ismét karjairaesik Hunyadinak</stage></l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Eltévedt a’ Lelkem,</l>
@@ -1901,7 +1901,7 @@
                             indúlnak; Anna artzúlatját elfedezi ’szokogni láttatik, Hunyadi magába
                             küszködéseket teszen.</stage>
 					</sp>
-					<sp who="anna">
+					<sp who="#gara_anna">
 						<speaker>ANNA</speaker>
 						<lg>
 							<stage>magába tsendesen</stage>
@@ -1911,7 +1911,7 @@
 							<l>Bennem haragjának tüzé-vel áldozott.</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<stage>hasonlóúl magába.</stage>
@@ -1920,7 +1920,7 @@
 							<l>De nem, hadd érezzem.</l>
 						</lg>
 					</sp>
-					<sp who="anna">
+					<sp who="#gara_anna">
 						<speaker>ANNA</speaker>
 						<lg>
 							<stage>ki e’sóhajtást meg-hallotta, fel-kiált, ’s Hunyadihoz
@@ -1934,14 +1934,14 @@
 							<l>Talám Hunyadinak éltét még halhatom.</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Ah édes reménység! Isteni adomány!</l>
 							<l>Tsak te maradsz velünk, ha a’ gyötrelem hány.</l>
 						</lg>
 					</sp>
-					<sp who="anna">
+					<sp who="#gara_anna">
 						<speaker>ANNA</speaker>
 						<lg>
 							<l>Ah kedves származás, miért lettél köztünk.</l>
@@ -1952,7 +1952,7 @@
 				<div type="scene">
 					<head type="title">Második jelenés</head>
 					<stage>ROZGONYI, HUNYADI MÁTYÁS, HUNYADI LÁSZLÓ, ANNA.</stage>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<stage>Hunyadi Lászlóhoz</stage>
@@ -1961,14 +1961,14 @@
 						</lg>
 						<stage>Hunyadi L. hozzá szalad, ’s meg-öleli keservesen</stage>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Ne tsüggedj el László veszedelmed között</l>
 							<l>A' gonosz többnyire ártatlant üldözött.</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Sebestyén meg állok már én az halálnak,</l>
@@ -1977,7 +1977,7 @@
 						<stage>Mindnyájan keseregnek,Hunyadi László fájdalmai között ötsére Mátyásra
                             akad, ki magátfélre húzván, keservesen sír</stage>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<stage>zokogva könyvező Szemekkel.</stage>
@@ -1988,7 +1988,7 @@
 						</lg>
 						<stage>Meg-öleli az öttsét, mind ketten együtt keseregnek.</stage>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<stage>reájok néz keservesen</stage>
@@ -1996,14 +1996,14 @@
 							<l>Ki az, a’ ki illyen ügyet nem védelmez?</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_matyas">
+					<sp who="#hunyadi_matyas">
 						<speaker>H MÁTYÁS</speaker>
 						<lg>
 							<l>László! László! miért rohantál Ulrikra?</l>
 							<l>Miért vitted magad vesztébe halálra?</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Édes őtsém hadd-el már tselekedetem’,</l>
@@ -2012,7 +2012,7 @@
 							<l>Nyerje-meg te benned el-vesztett gyermekét.</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_matyas">
+					<sp who="#hunyadi_matyas">
 						<speaker>H MÁTYÁS</speaker>
 						<lg>
 							<l>Soha több örömöt már mi nem érhetünk,</l>
@@ -2020,19 +2020,19 @@
 						</lg>
 						<stage>Ekkor nagy lármát hallanak.</stage>
 					</sp>
-					<sp who="anna">
+					<sp who="#gara_anna">
 						<speaker>ANNA</speaker>
 						<lg>
 							<l>Jaj! ezek gyilkosok</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_matyas">
+					<sp who="#hunyadi_matyas">
 						<speaker>H MÁTYÁS</speaker>
 						<lg>
 							<l>László jere fussunk.</l>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<l>Barátim sijessünk. Itt most ne mulassunk.</l>
@@ -2043,7 +2043,7 @@
 				<div type="scene">
 					<head type="title">Harmadik jelenés</head>
 					<stage>A’ KIRÁLY, GARA, BÁN-FI, TEST-ÖRZÖ seregek és HADI VEZÉREK.</stage>
-					<sp who="iv laszlo">
+					<sp who="#iv_laszlo">
 						<speaker>A KIRÁLY</speaker>
 						<lg>
 							<stage>népe közt méltóság-al</stage>
@@ -2069,7 +2069,7 @@
                         Játék-piatznak egyik óldalábúl érkezik, H. László más részrűl véletlen anyja
                         — eleibe vetődik ki aztat reménytelen meg látván, viszsza akarszaladni,
                         tétováz reszket, ’s kétfelé tekintget</stage>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<stage>keservesen</stage>
@@ -2077,20 +2077,20 @@
 							<l>Tekintsed lég alább velem testvéredet.</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<stage>Anyjához szalad sebessen, ’s lábaihoz esik.</stage>
 							<l>Ah keserves Anya, mért szülted gyermeked!</l>
 						</lg>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<l>Szerentsétlen ifjú! ne sértegesd Lelked.</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_matyas">
+					<sp who="#hunyadi_matyas">
 						<speaker>H MÁTYÁS</speaker>
 						<lg>
 							<stage>Bátyjára borúilva</stage>
@@ -2099,7 +2099,7 @@
 							<l>Engemet egyedűl!</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Híjába sóhajtasz,</l>
@@ -2112,7 +2112,7 @@
                             özvegy meg öleli árvájit kétfelől, ’s velek a’ Játék-piatzrúl ki
                             indul-tsendesen.</stage>
 					</sp>
-					<sp who="ersebet">
+					<sp who="#gereb_ersebet">
 						<speaker>ERSÉBET</speaker>
 						<lg>
 							<stage>mentébe</stage>
@@ -2123,7 +2123,7 @@
 				</div>
 				<div type="scene">
 					<head type="title">Ötödik jelenés</head>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<stage>egyedűl, kétfelé tekint.</stage>
@@ -2163,14 +2163,14 @@
 				<div type="scene">
 					<head type="title">Hatodik jelenés</head>
 					<stage>ROZGONYI, HUNYADI LÁSZLÓ, és MÁTYÁS.</stage>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<l>Tévelyeghettek még veszedelmetekbe?</l>
 							<l>László!Mátyás! miként vagytok ügyetekbe?</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Az ítélet tétel el-változhatatlan,</l>
@@ -2208,14 +2208,14 @@
 							<l>Ne tekintsél kín-al viszsza testvéredre.</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_matyas">
+					<sp who="#hunyadi_matyas">
 						<speaker>H MÁTYÁS</speaker>
 						<lg>
 							<l>Örökre szívembe veszem intésedet,</l>
 							<l>Ah miért vesztjük-el hív vezérlésedet!</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>Az Egek vezérlik Ötsém dolgotokat</l>
@@ -2225,14 +2225,14 @@
 							<stage>hirtelen lármát hallanak.</stage>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<l>Ah kegyelmes Isten! László jönnek érted</l>
 							<l>Úgy érzem, hogy élted végét már el érted</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<l>El kell tökéllenem barátom magamat</l>
@@ -2245,7 +2245,7 @@
 					<head type="title">Hetedik jelenés</head>
 					<stage>ROZGONYI, HUNYADI LÁSZLÓ, H. MÁTYÁS, és egy VEZÉRfegyveres TEST ÖRZÖ
                         VITÉZEK-EL.</stage>
-					<sp who="vezer">
+					<sp who="#hadvezerek">
 						<speaker>A VEZÉR</speaker>
 						<lg>
 							<l>Egy halálos rab-ért küldettem hozzátok,</l>
@@ -2253,7 +2253,7 @@
 							<l>Ulriknak gyilkosa?</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<stage>bátran.</stage>
@@ -2263,7 +2263,7 @@
 							<l>’S tselekedetemet látom ítélheted</l>
 						</lg>
 					</sp>
-					<sp who="vezer">
+					<sp who="#hadvezerek">
 						<speaker>A VEZÉR</speaker>
 						<lg>
 							<l>Vitéz! meg engedhetsz, törvény szerént szóllok,</l>
@@ -2271,7 +2271,7 @@
 							<l>Így adták előmbe.</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<stage>Rozgonyihoz, és Mátyáshoz</stage>
@@ -2279,28 +2279,28 @@
 							<l>Mátyás, és Rozgonyi, érek fájdalmimra</l>
 						</lg>
 					</sp>
-					<sp who="vezer">
+					<sp who="#hadvezerek">
 						<speaker>A VEZÉR</speaker>
 						<lg>
 							<l>Mátyás Rozgonyival mind a’-ketten rabok,</l>
 							<l>Úgy van parantsolva, és adják meg magok'</l>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<l>Ah igen örömest, bár-tsak meg halhatnék.</l>
 							<l>Hogy több gyilkosokatsoha ne láthatnék.</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_matyas">
+					<sp who="#hunyadi_matyas">
 						<speaker>H MÁTYÁS</speaker>
 						<lg>
 							<l>László együtt megyünk az örök életre,</l>
 							<l>Ereszszük Lelkünket a’ magass Egekre</l>
 						</lg>
 					</sp>
-					<sp who="vezer">
+					<sp who="#hadvezerek">
 						<speaker>A VEZÉR</speaker>
 						<lg>
 							<l>Vitézek le kell már tenni fegyveretek’</l>
@@ -2308,7 +2308,7 @@
 						</lg>
 						<stage>ekkor mind az három maga le oldja kardját.</stage>
 					</sp>
-					<sp who="hunyadi_laszlo">
+					<sp who="#hunyadi_laszlo">
 						<speaker>HUNYADI L</speaker>
 						<lg>
 							<stage>kardját kezébe tartván.</stage>
@@ -2316,14 +2316,14 @@
 							<l>Ah nem lehet Atyám nyomdokit követnem!</l>
 						</lg>
 					</sp>
-					<sp who="rozgonyi_sebestyen">
+					<sp who="#rozgonyi_sebestyen">
 						<speaker>ROZGONYI</speaker>
 						<lg>
 							<stage>midőn fegyverét nyújtja.</stage>
 							<l>Vedd el, ne! kezembűl Hazámnak védelmét!</l>
 						</lg>
 					</sp>
-					<sp who="hunyadi_matyas">
+					<sp who="#hunyadi_matyas">
 						<speaker>H MÁTYÁS</speaker>
 						<lg>
 							<stage>kardját hasonlóúl nyújtván.</stage>
