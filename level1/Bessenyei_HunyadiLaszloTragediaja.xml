@@ -113,7 +113,8 @@
 						</persName>
 						<idno type="wikidata"/>
 					</author>
-					<date when="1778"/>1778 <pubPlace>Bécs</pubPlace>
+					<date type="print" when="1772">1772</date>
+					<pubPlace>Bécs</pubPlace>
 					<publisher/>
 				</bibl>
 				<bibl type="firstEdition">
