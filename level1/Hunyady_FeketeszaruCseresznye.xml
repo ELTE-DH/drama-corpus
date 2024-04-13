@@ -127,9 +127,6 @@
 					</author>
 					<title type="main">Feketeszárú cseresznye</title>
 					<title type="sub">Színjáték</title>
-					<date type="print" when="1930">1930</date>
-					<date type="premiere" when="1930-11-06">1930-11-06</date>
-					<date type="written" when="1930">1930</date>
 					<pubPlace>Kolozsvár</pubPlace>
 					<publisher>Erdélyi Szépmíves Céh; Concordia Ny.</publisher>
 				</bibl>
@@ -217,6 +214,13 @@
 			</particDesc>
 		</profileDesc>
 	</teiHeader>
+	<standOff>
+		<listEvent>
+			<event type="print" when="1930"><desc/></event>
+			<event type="premiere" when="1930-11-06"><desc/></event>
+			<event type="written" when="1930"><desc/></event>
+		</listEvent>
+	</standOff>
 	<text>
 		<front>
 			<castList>
@@ -2306,7 +2310,7 @@
                         háziak az ablakhoz állnak. A hölgyek lobogtatják a kendőjüket</stage>
 					<stage>FÜGGÖNY</stage>
 				</div>
-			</div>	
+			</div>
 			<div type="act">
 				<head type="title">MÁSODIK FELVONÁS</head>
 				<head type="title">ELSŐ KÉP</head>

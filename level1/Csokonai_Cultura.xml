@@ -141,9 +141,6 @@
                             <forename>József</forename>
                         </persName>
                     </respStmt>
-                    <date type="print" when="1922">1922</date>
-                    <date type="premiere" when="1799-07-12">1997-07-12</date>
-                    <date type="written" when="1799">1799</date>
                     <pubPlace>Budapest</pubPlace>
                     <publisher>Genius Kiadás</publisher>
                 </bibl>
@@ -194,6 +191,13 @@
             </textClass>
         </profileDesc>
     </teiHeader>
+    <standOff>
+        <listEvent>
+            <event type="print" when="1922"><desc/></event>
+            <event type="premiere" when="1799-07-12"><label>1997-07-12</label></event>
+            <event type="written" when="1799"><desc/></event>
+        </listEvent>
+    </standOff>
     <text>
         <front>
             <castList>

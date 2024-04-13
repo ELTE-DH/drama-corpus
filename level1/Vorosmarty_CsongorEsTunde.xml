@@ -125,9 +125,6 @@
 					</author>
 					<title type="main">Csongor és Tünde</title>
 					<title type="sub">Színjáték öt felvonásban</title>
-					<date type="print" when="1831">1831</date>
-					<date type="premiere" when="1833-02-15">1833-02-15</date>
-					<date type="written" when="1830">1830</date>
 					<publisher>Számmer Pál</publisher>
 					<pubPlace>Székesfehérvár</pubPlace>
 				</bibl>
@@ -188,6 +185,13 @@
 			</particDesc>
 		</profileDesc>
 	</teiHeader>
+	<standOff>
+		<listEvent>
+			<event type="print" when="1831"><desc/></event>
+			<event type="premiere" when="1833-02-15"><desc/></event>
+			<event type="written" when="1830"><desc/></event>
+		</listEvent>
+	</standOff>
 	<text>
 		<front>
 			<castList>

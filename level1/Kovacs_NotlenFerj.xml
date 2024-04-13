@@ -98,7 +98,6 @@
                             <surname/>
                             <forename/>
                         </persName>
-
                     </respStmt>
                 </bibl>
                 <bibl type="originalSource">
@@ -118,7 +117,6 @@
                             <forename>Lázár</forename>
                         </persName>
                     </respStmt>
-                    <date type="print" when="1843">1843</date>
                     <pubPlace>Buda</pubPlace>
                     <publisher>Magyar Királyi Egyetem nyomdája</publisher>
                 </bibl>
@@ -132,9 +130,6 @@
                     </author>
                     <title type="main"/>
                     <title type="sub"/>
-                    <date type="print"/>
-                    <date type="premiere"/>
-                    <date type="written"/>
                     <pubPlace/>
                     <publisher/>
                 </bibl>
@@ -182,6 +177,11 @@
             </textClass>
         </profileDesc>
     </teiHeader>
+    <standOff>
+        <listEvent>
+            <event type="print" when="1843"><desc/></event>
+        </listEvent>
+    </standOff>
     <text>
         <front>
             <castList>

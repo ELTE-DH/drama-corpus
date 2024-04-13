@@ -120,9 +120,6 @@
                     </author>
                     <title type="main">Főúr és pór</title>
                     <title type="sub">Szomorújáték</title>
-                    <date type="print" when="1844">1844</date>
-                    <date type="premiere" when="1848-05-02">1848-05-02</date>
-                    <date type="written" when="1843">1843</date>
                     <pubPlace>Buda; Pest</pubPlace>
                     <publisher>Egyetemi Nyomda; Eggenberger</publisher>
                 </bibl>
@@ -180,6 +177,13 @@
             </particDesc>
         </profileDesc>
     </teiHeader>
+    <standOff>
+        <listEvent>
+            <event type="print" when="1844"><desc/></event>
+            <event type="premiere" when="1848-05-02"><desc/></event>
+            <event type="written" when="1843"><desc/></event>
+        </listEvent>
+    </standOff>
     <text>
         <front>
             <castList>

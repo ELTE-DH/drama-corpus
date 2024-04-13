@@ -123,9 +123,6 @@
 					</author>
 					<title type="main">A tanítónő</title>
 					<title type="sub">Falusi életkép három felvonásban</title>
-					<date type="print" when="1908">1908</date>
-					<date type="premiere" when="1908-03-21">1908. március 21.</date>
-					<date type="written" to="1907" from="1908">1908</date>
 					<pubPlace>Budapest</pubPlace>
 					<publisher>Singer - Wolfner</publisher>
 				</bibl>
@@ -231,6 +228,12 @@
 			</particDesc>
 		</profileDesc>
 	</teiHeader>
+	<standOff>
+		<listEvent>
+			<event type="print" when="1908"><desc/></event>
+			<event type="premiere" when="1908-03-21"><label>1908. március 21.</label></event>
+		</listEvent>
+	</standOff>
 	<text>
 		<front>
 			<castList>
