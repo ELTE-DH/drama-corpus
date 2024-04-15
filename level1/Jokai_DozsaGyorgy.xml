@@ -143,9 +143,6 @@
                     </author>
                     <title type="main">Színművek 2. kötet</title>
                     <title type="sub">Dózsa György; Manlius Sinister</title>
-                    <date type="print" when="1860">1860</date>
-                    <date type="premiere" when="1868-01-29">1868-01-29</date>
-                    <date type="written" when="1856">1856</date>
                     <pubPlace>Pest</pubPlace>
                     <publisher/>
                 </bibl>
@@ -236,6 +233,13 @@
             </particDesc>
         </profileDesc>
     </teiHeader>
+    <standOff>
+        <listEvent>
+            <event type="print" when="1860"><desc/></event>
+            <event type="premiere" when="1868-01-29"><desc/></event>
+            <event type="written" when="1856"><desc/></event>
+        </listEvent>
+    </standOff>
     <text>
         <front>
             <castList>

@@ -115,8 +115,6 @@
 						</persName>
 						<idno type="wikidata">Q794046</idno>
 					</author>
-					<date type="written" notBefore="1772" notAfter="1810"/>
-					<date type="print" when="1899"/>
 					<pubPlace/>
 					<publisher/>
 				</bibl>
@@ -131,9 +129,6 @@
 					<title type="main">Lais</title>
 					<title type="sub">vagy az erkölcsi makacs Komédia, öt játékban, versekben
                         Bessenyei György által </title>
-					<date type="print"/>
-					<date type="premiere"/>
-					<date type="written"/>
 					<pubPlace/>
 					<publisher/>
 				</bibl>
@@ -178,6 +173,12 @@
 			</textClass>
 		</profileDesc>
 	</teiHeader>
+	<standOff>
+		<listEvent>
+			<event type="written" notBefore="1772" notAfter="1810"><desc/></event>
+			<event type="print" when="1899"><desc/></event>
+		</listEvent>
+	</standOff>
 	<text>
 		<front>
 			<castList>

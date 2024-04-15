@@ -102,10 +102,6 @@
 						</persName>
 						<idno type="wikidata">Q332484</idno>
 					</author>
-					<date type="print" when="1834-10">1834 októberében</date>
-					<date type="premiere" when="1836-03-27">1836. március 27.</date>
-					<date from="1833-03" to="1834-08-15" type="written">1833. márciusa után, 1834.
-						augusztus 15. előtt</date>
 					<pubPlace>Pest</pubPlace>
 					<publisher>Kisfaludy Károly</publisher>
 				</bibl>
@@ -163,6 +159,15 @@
 			</particDesc>
 		</profileDesc>
 	</teiHeader>
+	<standOff>
+		<listEvent>
+			<event type="print" when="1834-10"><label>1834 októberében</label></event>
+			<event type="premiere" when="1836-03-27"><label>1836. március 27.</label></event>
+			<event notBefore="1833-03" notAfter="1834-08-15" type="written">
+				1833. márciusa után, 1834. augusztus 15. előtt
+			</event>
+		</listEvent>
+	</standOff>
 	<text>
 		<front>
 			<castList>

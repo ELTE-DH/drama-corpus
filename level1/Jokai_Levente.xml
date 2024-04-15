@@ -124,9 +124,6 @@
 						</persName>
 						<idno type="wikidata">Q379621</idno>
 					</author>
-					<date type="print" when="1898">1898</date>
-					<date type="premiere"/>
-					<date type="written" when="1897">1897</date>
 					<pubPlace>Pest</pubPlace>
 					<publisher>Révai</publisher>
 				</bibl>
@@ -403,6 +400,12 @@
 			</particDesc>
 		</profileDesc>
 	</teiHeader>
+	<standOff>
+		<listEvent>
+			<event type="print" when="1898"><desc/></event>
+			<event type="written" when="1897"><desc/></event>
+		</listEvent>
+	</standOff>
 	<text>
 		<front>
 			<castList>

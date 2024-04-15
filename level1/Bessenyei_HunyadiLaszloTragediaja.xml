@@ -113,7 +113,6 @@
 						</persName>
 						<idno type="wikidata"/>
 					</author>
-					<date type="print" when="1772">1772</date>
 					<pubPlace>Bécs</pubPlace>
 					<publisher/>
 				</bibl>
@@ -127,9 +126,6 @@
 					</author>
 					<title type="main">Hunyadi László tragédiája</title>
 					<title type="sub"/>
-					<date type="print">1778</date>
-					<date type="premiere"/>
-					<date type="written"/>
 					<pubPlace/>
 					<publisher/>
 				</bibl>
@@ -180,6 +176,11 @@
 			</textClass>
 		</profileDesc>
 	</teiHeader>
+	<standOff>
+		<listEvent>
+			<event type="print" when="1772"><desc/></event>
+		</listEvent>
+	</standOff>
 	<text>
 		<front>
 			<castList>

@@ -118,9 +118,6 @@
 					</author>
 					<title type="main"/>
 					<title type="sub"/>
-					<date type="print" when="1777">1777</date>
-					<date type="premiere"/>
-					<date type="written"/>
 					<pubPlace>Pest</pubPlace>
 					<publisher/>
 				</bibl>
@@ -166,6 +163,11 @@
 			</particDesc>
 		</profileDesc>
 	</teiHeader>
+	<standOff>
+		<listEvent>
+			<event type="print" when="1777"><desc/></event>
+		</listEvent>
+	</standOff>
 	<text>
 		<front>
 			<castList>
@@ -189,7 +191,7 @@
 						Titzius’.</role>
 				</castItem>
 				<castItem>
-					<role><roleName>Lilisz</roleName>, Name>Nemes ifjú.</role>
+					<role><roleName>Lilisz</roleName>, Nemes ifjú.</role>
 				</castItem>
 				<castItem>
 					<role><roleName>Angyelika</roleName>, Párménió’ testvér húga, Lilisz

@@ -120,9 +120,6 @@
 					</author>
 					<title type="main">Császár és komédiás</title>
 					<title type="sub">Dráma négy felvonásban</title>
-					<date type="print" when="1919">1919</date>
-					<date type="premiere" when="1919">1919</date>
-					<date type="written" when="1919">1919</date>
 					<pubPlace>Budapest</pubPlace>
 					<publisher>Athenaeum Kiadó</publisher>
 				</bibl>
@@ -204,6 +201,13 @@
 			</particDesc>
 		</profileDesc>
 	</teiHeader>
+	<standOff>
+		<listEvent>
+			<event type="print" when="1919"><desc/></event>
+			<event type="premiere" when="1919"><desc/></event>
+			<event type="written" when="1919"><desc/></event>
+		</listEvent>
+	</standOff>
 	<text>
 		<front>
 			<castList>
