@@ -150,7 +150,7 @@
 					<person xml:id="szilkovszky" sex="MALE">
 						<persName>SZILKOVSZKY</persName>
 					</person>
-					<person xml:id="valdmir" sex="MALE">
+					<person xml:id="valdimir" sex="MALE">
 						<persName>VALDIMIR</persName>
 					</person>
 					<person xml:id="becko" sex="MALE">
@@ -182,6 +182,9 @@
 					</person>
 					<person xml:id="mate" sex="MALE">
 						<persName>MÁTÉ</persName>
+					</person>
+					<person xml:id="gergely" sex="MALE">
+						<persName>GERGELY</persName>
 					</person>
 					<person xml:id="szolga" sex="MALE">
 						<persName>SZOLGA</persName>
@@ -557,7 +560,7 @@
 							<l>Akárhová állok, minden vad elkerül.</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Mert tudják azt, hogy ily hatalmas</l>
@@ -576,7 +579,7 @@
 							<l>Maradni.</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Az? De nem csörgősapkában!</l>
@@ -589,7 +592,7 @@
 							<l>Fedezni.</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Csak bolond vagy és maradsz.</l>
@@ -604,7 +607,7 @@
 							<l>De csak kevés igaz bolond.</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Nem is szorult azokra senki is.</l>
@@ -729,7 +732,7 @@
 							<l>Ha más nem történt, nem sok ez.</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Egy a kopók közűl is meg vagyon</l>
@@ -743,7 +746,7 @@
 							<l>S én csak most tudom meg azt?</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Reményiem, hogy feléled; jó Vadász-</l>
@@ -2250,7 +2253,7 @@
 				<div type="scene">
 					<head type="title">MÁSODIK JELENÉS</head>
 					<stage>A VAJDA, DOBROCHNA, BECKÓ, BOLESZLÁV és az ELŐBBIEK</stage>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA:</speaker>
 						<lg>
 							<l>Ne ügyelj senkire is, kedves férjem!</l>
@@ -2284,7 +2287,7 @@
 							<l>Makacskodik.</l>
 						</lg>
 					</sp>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA:</speaker>
 						<lg>
 							<l>Nem is használ</l>
@@ -2360,7 +2363,7 @@
 							<l>Beckó!</l>
 						</lg>
 					</sp>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA:</speaker>
 						<lg>
 							<l>Igen könnyen beszélsz; vigyázz,</l>
@@ -2400,7 +2403,7 @@
 							<l>Parancsolod.</l>
 						</lg>
 					</sp>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA:</speaker>
 						<lg>
 							<l>Stibor, még ez kevés;</l>
@@ -2427,7 +2430,7 @@
 							<l>Alázza őket.</l>
 						</lg>
 					</sp>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA:</speaker>
 						<lg>
 							<l>És ha ellenkeznek,</l>
@@ -2447,7 +2450,7 @@
 							<l>Marad fel.</l>
 						</lg>
 					</sp>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA</speaker>
 						<stage>(megbántódva):</stage>
 						<lg>
@@ -2475,7 +2478,7 @@
 							<l>Az asszony legszebb éke.</l>
 						</lg>
 					</sp>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA:</speaker>
 						<lg>
 							<l>Mégis találok én módot, mely</l>
@@ -2582,7 +2585,7 @@
 							<l>Elintézem.</l>
 						</lg>
 					</sp>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA:</speaker>
 						<lg>
 							<l>Reám számlálhatsz! Férjem</l>
@@ -2599,7 +2602,7 @@
 							<l>Talán sétálni van.</l>
 						</lg>
 					</sp>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA:</speaker>
 						<lg>
 							<l>Az az ifjú minden nap magányosabb</l>
@@ -2655,7 +2658,7 @@
 							<l>Hogy híven eljártam kötelességemben.</l>
 						</lg>
 					</sp>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA:</speaker>
 						<lg>
 							<l>Az úré mindenkor a teljes akarat,</l>
@@ -2758,7 +2761,7 @@
 							<l>Hogy fejtegetni azt szükségtelen.</l>
 						</lg>
 					</sp>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA:</speaker>
 						<lg>
 							<l>Hol volt karod, kardod, Stibor?</l>
@@ -2800,7 +2803,7 @@
 							<l>Fiamból férfiút akármely úton.</l>
 						</lg>
 					</sp>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA:</speaker>
 						<lg>
 							<l>Tedd álmait nevetségessé,</l>
@@ -2830,7 +2833,7 @@
 							<l>Született; szüksége nincs reá.</l>
 						</lg>
 					</sp>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA:</speaker>
 						<lg>
 							<l>Az asztal már terítve áll;</l>
@@ -2848,7 +2851,7 @@
 							<l>Még holnap visszavárlak tégedet.</l>
 						</lg>
 					</sp>
-					<sp who="#dorochna">
+					<sp who="#dobrochna">
 						<speaker>DOBROCHNA:</speaker>
 						<lg>
 							<l>Ne kételkedj, jelen leszek magam,</l>
@@ -4029,7 +4032,7 @@
 							<l>Azon paraszttal, kit Beckó elszöktetett?</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Nem még, kegyelmes asszonyom.</l>
@@ -4061,7 +4064,7 @@
 							<l>Hát még a jóért mit nem érdemiek?</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Ki adta által néked a tömlöc</l>
@@ -4074,7 +4077,7 @@
 							<l>Magad.</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Mit! én? Már az nem</l>
@@ -4092,7 +4095,7 @@
 							<l>Én majd kifejtem azt.</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Hogy el akarná</l>
@@ -4107,7 +4110,7 @@
 							<l>Maga az nagyobb bolond annál.</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Ki a vétkest megoltalmazza, az</l>
@@ -4128,7 +4131,7 @@
 							<l>Mi ez? Ki jön?</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Mindjárt hozok hírt.<stage>(Elmegyen.)</stage>
@@ -4193,7 +4196,7 @@
 							<l>Ez a különbség, úgy vélem, közöttünk.</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV</speaker>
 						<stage>(visszajön):</stage>
 						<lg>
@@ -4211,7 +4214,7 @@
 							<l>Boleszláv!</l>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Mit parancsol, asszonyom?</l>
@@ -4225,7 +4228,7 @@
 							<stage>(Boleszláv felzárja a kalodát.)</stage>
 						</lg>
 					</sp>
-					<sp who="#boleszláv">
+					<sp who="#boleszlav">
 						<speaker>BOLESZLÁV:</speaker>
 						<lg>
 							<l>Mivel rabunk elillantott, tehát</l>

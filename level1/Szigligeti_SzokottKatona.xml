@@ -280,11 +280,11 @@
         </profileDesc>
     </teiHeader>
     <standOff>
-        <listEveßnt>
+        <listEvent>
             <event type="print" when="1843"><label>1843. november 25.</label></event>
             <event type="premiere" when="1847"><desc/></event>
             <event type="written" when="1843"><desc/></event>
-        </listEveßnt>
+        </listEvent>
     </standOff>
     <text>
         <front>

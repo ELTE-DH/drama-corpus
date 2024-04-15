@@ -232,7 +232,7 @@
 					<person xml:id="kofa" sex="MALE">
 						<persName>KOFA</persName>
 					</person>
-					<personGrp xml:id="picer" sex="MALE">
+					<personGrp xml:id="pincer" sex="MALE">
 						<name>PINCÉR</name>
 					</personGrp>
 					<personGrp xml:id="vendegek" sex="UNKNOWN">
@@ -1197,8 +1197,8 @@
 				<div type="scene">
 					<head type="title">TIZEDIK JELENET</head>
 					<stage>FERCSI, LINA</stage>
-					<sp who="#tercsi">
-						<speaker>TERCSI:</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi:</speaker>
 						<p>Ne pazarolja csókjait arra a hideg üvegre - itt vagyok én!</p>
 					</sp>
 					<sp who="#bihari_lina">
@@ -1206,9 +1206,9 @@
 						<stage>(felriad, félrehúzódik):</stage>
 						<p>Ah! Cziczmányi úr?</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI:</speaker>
-						<p>Micsoda Cziczmányi úr? Hiszen az úron már túlvagyunk - em-lékszik? Ott a
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi:</speaker>
+						<p>Micsoda Cziczmányi úr? Hiszen az úron már túlvagyunk - emlékszik? Ott a
 							garádicson —</p>
 					</sp>
 					<sp who="#bihari_lina">
@@ -1224,8 +1224,8 @@
 						<speaker>LINA:</speaker>
 						<p>Nem illik olyant szeretnem, aki nem vehet nőül.</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI:</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi:</speaker>
 						<p>Hát ki mondta, hogy én nem akarok magával összeházasodni?</p>
 					</sp>
 					<sp who="#bihari_lina">
@@ -1245,8 +1245,8 @@
 						<stage>(mosolyogva):</stage>
 						<p>Nem bizony.</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI:</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi:</speaker>
 						<p>Na látja! Hanem azért szerethetnénk ám egymást előlegesen is.</p>
 					</sp>
 					<sp who="#bihari_lina">
@@ -1254,8 +1254,8 @@
 						<stage>(elhúzódik):</stage>
 						<p>Nem, ez nem szabad. Hát az erény? Hát a jó erkölcs?</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI:</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi:</speaker>
 						<stage>(A tükör felé fordítja Linát.)</stage>
 						<p>Nézzen csak oda! Látja azt a szép kislányt, aki onnan kitekint? Most még
 							haragosan, de mindjárt mosolyogni fog, mert sokkal szebb, mikor
@@ -1378,8 +1378,8 @@
 						<p>Jaj, talán többet is mondtam! Nem kellett volna ez úrfi előtt így
 							rápirítani -</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi</speaker>
 						<stage>(Linához súgva):</stage>
 						<p>Eljöhetek ma kocsimmal?</p>
 					</sp>
@@ -1389,8 +1389,8 @@
 						<p>Megint valcerezni akar? Alászolgája, nagyon örültünk, máskor se legyen
 							szerencsénk. Most a bálra kell készülnünk.</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi</speaker>
 						<stage>(Linához súgva):</stage>
 						<p>Én is eljövök a bálba —</p>
 					</sp>
@@ -1399,8 +1399,8 @@
 						<stage>(közéjük megy):</stage>
 						<p>Mi tetszik?</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi</speaker>
 						<stage>(Linához súgva):</stage>
 						<p>Eltűri ezt a bánásmódot?</p>
 					</sp>
@@ -1410,8 +1410,8 @@
 						<p>Kérem, ne tartóztassa magát, hiszen még sok tanulnivalója van, majd
 							holnap nem fogja tudni a leckét.</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi</speaker>
 						<stage>(súgva Linához):</stage>
 						<p>Gondolja meg még ma a dolgot!<stage>(Elkapja a kezét és
 								megcsókolja.)</stage>
@@ -1422,8 +1422,8 @@
 						<stage>(kinyitja az ajtót):</stage>
 						<p>Erre kérem, itt van az ajtó.</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI:</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi:</speaker>
 						<p>Ez aztán hecc!<stage>(El.)</stage>
 						</p>
 					</sp>
@@ -2503,7 +2503,7 @@
 							jöttment tanító lányát besmuglírozni<note type="critic">Becsempész,
 								(német)</note> —!</p>
 					</sp>
-					<sp who="#mari # schmeks_gyula">
+					<sp who="#mari #schmeks_gyula">
 						<speaker>MARI:</speaker>
 						<p>Szörnyűség!</p>
 					</sp>
@@ -3910,8 +3910,8 @@
 						<p>Rám ismert még? Nagyon szép öntől. Kár, hogy nem jött előbb,
 							gyönyörködhetett volna művében.</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI:</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi:</speaker>
 						<p>Lina kisasszonyt érti? Láttam, most kocsizott el mellettünk a vén
 								Fricivel.<stage>(Sóhajt.)</stage>Látja, Terka, milyen keservesen
 							csalódtam!</p>
@@ -3920,8 +3920,8 @@
 						<speaker>TERKA:</speaker>
 						<p>Ön mer sóhajtani? Ön mer csalódásról beszélni?</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI:</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi:</speaker>
 						<p>Hogyne mernék? Higgye el, édes Terkám, csúnyául rá vagyok szedve. Hiszen
 							én elvettem volna - becsületemre! De az az ármányos Frici elcsalta
 							tőlem...</p>
@@ -3933,8 +3933,8 @@
 							elhiszi - a többi aztán magától jön. Tudom, én is tapasztaltam, eh, de
 							nem rólam van szó, Mit akar velem?</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI:</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi:</speaker>
 						<p>Kibékülni. Higgye el, nagyon sajnálom. Na, adja ide a kezét - ilyen régi
 							jó barátnak.<stage>(Megfogja kezét.)</stage>
 						</p>
@@ -3947,8 +3947,8 @@
 								róla.<stage>(Keserűen.)</stage>Hiszen meg kell becsülnöm gazdám
 							vendégeit, mától fogva itt fogok szolgálni.</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI:</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi:</speaker>
 						<p>Maga! Itt, e külvárosi kocsmában! Lehetetlen!</p>
 					</sp>
 					<sp who="#bihari_terka">
@@ -3968,8 +3968,8 @@
 							erről, mit dicsekszem a szépségemmel? Nagy okom van rá, ugye?</p>
 						<p/>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI:</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi:</speaker>
 						<p>Bizony, arra van oka.</p>
 					</sp>
 					<sp who="#bihari_terka">
@@ -4162,8 +4162,8 @@
 								Terkát.)</stage>
 						</p>
 					</sp>
-					<sp who="#tercsi">
-						<speaker>TERCSI</speaker>
+					<sp who="#cziczmanyi_fercsi">
+						<speaker>cziczmanyi_fercsi</speaker>
 						<stage>(az asztalt megkopogtatja):</stage>
 						<p>Pincér! Pezsgőt!</p>
 					</sp>
