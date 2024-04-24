@@ -127,6 +127,9 @@
 					</author>
 					<title type="main">A jó Fülöp</title>
 					<title type="sub">Vígjáték három felvonásban</title>
+					<date type="print" when="1887">1887</date>
+					<date type="premiere" when="1887-01-07">1887-01-07</date>
+					<date type="written" when="1886">1886</date>
 					<pubPlace>Budapest</pubPlace>
 					<publisher>Athenaeum</publisher>
 				</bibl>
@@ -183,13 +186,6 @@
 			</textClass>
 		</profileDesc>
 	</teiHeader>
-	<standOff>
-		<listEvent>
-			<event type="print" when="1887"><desc/></event>
-			<event type="premiere" when="1887-01-07"><desc/></event>
-			<event type="written" when="1886"><desc/></event>
-		</listEvent>
-	</standOff>
 	<text>
 		<front>
 			<castList>

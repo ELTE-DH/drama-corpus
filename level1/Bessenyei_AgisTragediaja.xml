@@ -126,6 +126,9 @@
 					</author>
 					<title type="main"/>
 					<title type="sub"/>
+					<date type="print" when="1776"/>
+					<date type="premiere"/>
+					<date type="written"/>
 					<pubPlace>Bécs</pubPlace>
 					<publisher/>
 				</bibl>
@@ -176,11 +179,6 @@
 			</textClass>
 		</profileDesc>
 	</teiHeader>
-	<standOff>
-		<listEvent>
-			<event type="print" when="1776"><desc/></event>
-		</listEvent>
-	</standOff>
 	<text>
 		<front>
 			<castList>

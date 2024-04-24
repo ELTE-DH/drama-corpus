@@ -125,6 +125,9 @@
 					</author>
 					<title type="main">Lovagias ügy</title>
 					<title type="sub">Válogatott drámák</title>
+					<date type="print" when="2003">2003</date>
+					<date type="premiere" when="1936-02-16">1935-02-16</date>
+					<date type="written" when="1935">1935</date>
 					<pubPlace>Budapest</pubPlace>
 					<publisher>Európa Könyvkiadó</publisher>
 				</bibl>
@@ -218,13 +221,6 @@
 			</particDesc>
 		</profileDesc>
 	</teiHeader>
-	<standOff>
-		<listEvent>
-			<event type="print" when="2003"><desc/></event>
-			<event type="premiere" when="1936-02-16"><label>1935-02-16</label></event>
-			<event type="written" when="1935"><desc/></event>
-		</listEvent>
-	</standOff>
 	<text>
 		<front>
 			<castList>

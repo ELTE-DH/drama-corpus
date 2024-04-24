@@ -128,6 +128,9 @@
                     </author>
                     <title type="main">A szigetvári vértanúkban</title>
                     <title type="sub">Eredeti szomorújáték négy felvonásban</title>
+                    <date type="print" when="1843"/>
+                    <date type="premiere" when="1860">1860 március 29.</date>
+                    <date type="written" when="1860">1860</date>
                     <pubPlace>Budapest</pubPlace>
                     <publisher>Akadémiai Kiadó</publisher>
                 </bibl>
@@ -257,13 +260,6 @@
             </particDesc>
         </profileDesc>
     </teiHeader>
-    <standOff>
-        <listEvent>
-            <event type="print" when="1843"><desc/></event>
-            <event type="premiere" when="1860"><label>1860 március 29.</label></event>
-            <event type="written" when="1860"><desc/></event>
-        </listEvent>
-    </standOff>
     <text>
         <front>
             <castList>

@@ -124,6 +124,9 @@
                     </author>
                     <title type="main">Misztériumok</title>
                     <title type="sub">Három egyfelvonásos</title>
+                    <date type="print" when="1912">1912</date>
+                    <date type="premiere" when="1918-05-24">1918-05-24</date>
+                    <date type="written" when="1910">1910</date>
                     <pubPlace>Budapest</pubPlace>
                     <publisher>Nyugat</publisher>
                 </bibl>
@@ -153,13 +156,6 @@
             </textClass>
         </profileDesc>
     </teiHeader>
-    <standOff>
-        <listEvent>
-            <event type="print" when="1912"><desc/></event>
-            <event type="premiere" when="1918-05-24"><desc/></event>
-            <event type="written" when="1910"><desc/></event>
-        </listEvent>
-    </standOff>
     <text>
         <front>
             <castList>
