@@ -126,8 +126,8 @@
 					</author>
 					<title type="main"/>
 					<title type="sub"/>
-					<date type="print" when="1776"/>
-					<date type="premiere"/>
+					<date type="print" when="1772"/>
+					<date type="premiere" when="1936"/>
 					<date type="written"/>
 					<pubPlace>Bécs</pubPlace>
 					<publisher/>
