@@ -127,6 +127,9 @@
 					</author>
 					<title type="main">Attila halála</title>
 					<title type="sub">Történeti tragédia</title>
+					<date type="print" when="1893">1893</date>
+					<date type="premiere">unknown</date>
+					<date type="written" when="1893">1893</date>
 					<pubPlace>Budapest</pubPlace>
 					<publisher>M. Tut. Akadémia, Franklin Ny.</publisher>
 				</bibl>
@@ -216,12 +219,6 @@
 			</textClass>
 		</profileDesc>
 	</teiHeader>
-	<standOff>
-		<listEvent>
-			<event type="print" when="1893"><desc/></event>
-			<event type="written" when="1893"><desc/></event>
-		</listEvent>
-	</standOff>
 	<text>
 		<front>
 			<castList>

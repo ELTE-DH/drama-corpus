@@ -123,6 +123,9 @@
                     </author>
                     <title type="main">A literátor</title>
                     <title type="sub">Érzékenyjáték egy felvonásban</title>
+                    <date type="print" when="1916">1916. december 16.</date>
+                    <date type="premiere"/>
+                    <date type="written">1916. december 16.</date>
                     <pubPlace>Budapest</pubPlace>
                     <publisher>Nyugat</publisher>
                 </bibl>
@@ -177,13 +180,6 @@
             </particDesc>
         </profileDesc>
     </teiHeader>
-    <standOff>
-        <listEvent>
-            <event type="print" when="1916">
-                <label>1916. december 16.</label>
-            </event>
-        </listEvent>
-    </standOff>
     <text>
         <front>
             <castList>

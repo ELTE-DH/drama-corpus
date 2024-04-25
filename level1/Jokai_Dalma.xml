@@ -143,6 +143,9 @@
                     </author>
                     <title type="main">Színművek 3. kötet</title>
                     <title type="sub">Dalma; A murányi hölgy</title>
+                    <date type="print" when="1860">1860</date>
+                    <date type="premiere" when="1852-11-27">1852-11-27</date>
+                    <date type="written" when="1852">1852</date>
                     <pubPlace>Pest</pubPlace>
                     <publisher/>
                 </bibl>
@@ -251,13 +254,6 @@
             </particDesc>
         </profileDesc>
     </teiHeader>
-    <standOff>
-        <listEvent>
-            <event type="print" when="1860"><desc/></event>
-            <event type="premiere" when="1852-11-27"><desc/></event>
-            <event type="written" when="1852"><desc/></event>
-        </listEvent>
-    </standOff>
     <text>
         <front>
             <castList>

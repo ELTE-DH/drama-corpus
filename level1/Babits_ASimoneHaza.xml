@@ -133,6 +133,9 @@
                     </respStmt>
                     <title type="main">A Simóné háza</title>
                     <title type="sub">Falusi tragédia / Színmű egy felvonásban</title>
+                    <date type="print" when="1978">1978</date>
+                    <date type="premiere"/>
+                    <date type="written"/>
                     <pubPlace>Budapest</pubPlace>
                     <publisher>Ságvári Nyomdaip. Szakközépisk. és Szakmunkásképző Int.;
                         Athenaeum</publisher>
@@ -187,11 +190,6 @@
             </textClass>
         </profileDesc>
     </teiHeader>
-    <standOff>
-        <listEvent>
-            <event type="print" when="1978"><desc/></event>
-        </listEvent>
-    </standOff>
     <text>
         <front>
             <castList>

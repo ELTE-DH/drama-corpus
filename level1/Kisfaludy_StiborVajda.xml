@@ -127,6 +127,9 @@
 					</author>
 					<title type="main">Stibor vajda</title>
 					<title type="sub">dráma</title>
+					<date type="print" when="1820">1820</date>
+					<date type="premiere" when="1819-09">1819-09-07</date>
+					<date type="written" when="1819">1819</date>
 					<pubPlace>Pest</pubPlace>
 					<publisher>Trattner Nyomda</publisher>
 				</bibl>
@@ -193,13 +196,6 @@
 			</particDesc>
 		</profileDesc>
 	</teiHeader>
-	<standOff>
-		<listEvent>
-			<event type="print" when="1820"><desc/></event>
-			<event type="premiere" when="1819-09"><label>1819-09-07</label></event>
-			<event type="written" when="1819"><desc/></event>
-		</listEvent>
-	</standOff>
 	<text>
 		<front>
 			<castList>
