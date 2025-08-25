@@ -190,6 +190,16 @@
             </textClass>
         </profileDesc>
     </teiHeader>
+     <standOff>
+    <listEvent>
+      <event type="print" when="1978">
+        <desc/>
+      </event>
+      <event type="written" when="1906">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
     <text>
         <front>
             <castList>
@@ -2354,3 +2364,4 @@
         </body>
     </text>
 </TEI>
+
