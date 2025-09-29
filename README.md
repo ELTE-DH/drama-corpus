@@ -71,3 +71,11 @@ Szemes Botond – Bajzát Tímea – Fellegi Zsófia – Kundráth Péter – Ho
 The content of the repository is licensed under the [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
 All texts of the corpus are in the public domain, except Adáshiba written by Károly Szakonyi.
+
+# Acknowledgements
+
+The authors acknowledge the support of the National Laboratory for Digital
+Heritage. Project no. 2022-2.1.1-NL-2022-00009 has been implemented with the
+support provided by the Ministry of Culture and Innovation of Hungary from the
+National Research, Development and Innovation Fund, financed under the
+2022-2.1.1-NL funding scheme.
