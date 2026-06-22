@@ -1,6 +1,6 @@
 # ELTE Drama Corpus
 
-ELTE Drama Corpus is a continuously expanding database developed by the [_Department of Digital Humanities at Eötvös Loránd University_](https://elte-dh.hu/). Currently, the corpus contains 58 Hungarian dramas. Besides the texts, the corpus contains the annotation of structural units and the grammatical features of words in TEI XML format. The dramas of the corpus were written between the 16th and the first half of the 20th century.
+ELTE Drama Corpus is a continuously expanding database developed by the [_Department of Digital Humanities at Eötvös Loránd University_](https://elte-dh.hu/). Currently, the corpus contains 74 Hungarian dramas. Besides the texts, the corpus contains the annotation of structural units and the grammatical features of words in TEI XML format. The dramas of the corpus were written between the 16th and the first half of the 20th century.
 
 ## Numeric properties:
 
@@ -13,7 +13,7 @@ For more information on the metadata of the dramas, see the file metadata.tsv
 
 ## TEI Levels
 
-The source of the corpus was the collection of the [_Hungarian Electronic Library_](http://mek.oszk.hu) and the collection of the [_Research Centre for the Humanities, Institute for Literary Studies_](https://szovegtar.iti.mta.hu).
+The source of the corpus was the collection of the [_Hungarian Electronic Library_](http://mek.oszk.hu) and the collection of the [_Research Centre for the Humanities, Institute for Literary Studies_](https://szovegtar.iti.mta.hu). Dramas digitized from the holdings of the [_ELTE University Library and Archives_](https://konyvtar.elte.hu/) were also used.
 
 1. The texts were converted into TEI XML format based on the [_Text Encoding Initiative_](https://tei-c.org/). The TEI XML files contain the annotation of structural units and the metadata of the dramas. The conversion was done manually (level1).
 2. Then, we tokenized the poems and annotated the grammatical features of words by using [_e-magyar_](https://github.com/nytud/emtsv), an NLP tool chain for Hungarian texts. The level2 folder contains the TEI XML files in which the morphosyntactic features (values of the msd attributes) are annotated in the format of universal dependencies, while the level2\_emMorph folder contains the same files in which the morphosyntactic features are annotated in its own, [_emMorph_](https://e-magyar.hu/en/textmodules/emmorph_codelist) format of e-magyar.
